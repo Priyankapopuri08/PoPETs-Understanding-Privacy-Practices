@@ -27,6 +27,6 @@ You can access the dataset by using the following persistent GitHub link: [https
 To clone the repository and navigate into the project folder, run the following commands:
 
 ```console
-$ git clone https://github.com/blues-lab/priv-eng-dataset.git
-$ cd priv-eng-dataset
+$ git clone https://github.com/Priyankapopuri08/PoPETs-Understanding-Privacy-Practices.git
+$ cd PoPETs-Understanding-Privacy-Practices
 ``` 
