@@ -36,63 +36,60 @@ Our study is guided by the following research questions:
 We used semi-structured interviews because they allow flexibility to explore users’ experiences in depth while maintaining a consistent structure across diverse participants.
 
 ### Interview Guide
-We developed our interview guide to highlight the unique characteristics of a privacy engineering role and to enable comparison with other similar but distinct privacy roles. To achieve this goal, we divided the interview into six distinct sections that cover: (1) participants’ understanding of privacy engineering, (2) their motivation to pursue privacy engineering as a profession, (3) responsibilities and skills, (4) reporting and deliverables, (5) challenges and strategies, (6) evaluating success. All authors reviewed and provided suggestions for the interview protocol, including two authors with extensive experience as privacy engineering practitioners within their respective organizations.
+We designed our interview guide to capture how first-time and early-stage smartphone users understand, experience, and navigate privacy and security in everyday mobile use. To accomplish this, we organized the interview into sections covering general phone practices, awareness and perceptions, behaviors around sharing and repair, trust and social influence, and responses to realistic scenario-based situations. The guide was iteratively refined to ensure clarity, cultural relevance, and alignment with our research questions.
 
 ### Interview Questions
 
-The dataset consists of 27 participants' de-identified responses to the following questions:
+The dataset consists of 50 participants' de-identified responses to the following questions:
 
-**Topic 1 - Introduction**
-1. Can you tell me briefly about what you do in your job?
-2. Could you also define the term “privacy” as you normally use it in your work context?
-3. How would you describe the roles in the industry related to privacy engineering?
-4. How would you define a “privacy engineer”?
+**Topic 1 - General Mobile Use:**
+1. What do you mainly use your phone for? (For example, do you use it for calling, texting, WhatsApp, watching videos, checking bank balance, or anything else?) 
+2. Do you share your phone with others? If yes, with whom and how often? (Who uses it: your family, friends, or someone else? How often do they use it?
 
-**Topic 2 - Motivation**
-1. How did you become interested in privacy engineering as a career (or a function of your career)?
-2. Could you share your career journey and how you arrived at your current position?
-3. What motivates you to continue pursuing privacy engineering as part of your profession?
-     * What are some personal goals you have for this work?
-     * What value do you get from it?
-     * What do you enjoy about it?
-4. Now I am going to ask you a question about the future. A year from now, do you see yourself in the same position? More specifically, doing what it is that you currently do in your position.
-     * Can you tell me more about why you answered this way?
+**Topic 2 - Awareness and Perceptions**
 
-**Topic 3 - Responsibilities and Skills**
-1. Could you give me an idea of what a typical day at work looks like for you?
-2. What responsibilities does your employer expect you to take on at work?
-3. Why do you think there is such a [difference/similarity] between the expectation and the reality?
-4. Are there any additional responsibilities you feel you are expected to take on in your role, such as to society, others in the organization, or even yourself?
-     * For instance, serving your broader community or other privacy professionals, mentoring others, volunteering your time, and so on.
-5. What skills were demanded of you when you started your current role?
-6. What are the skills you currently use in your job?
-7. Is there a difference or not between the skills you were expected to demonstrate during the interviewing process and those required of you in your role?
+1. What are your favorite apps or features on your phone? (Why do you use those apps: for chatting, shopping, learning, and entertainment? Have you ever thought about what information these apps might be collecting from your phone?)
+2. When an app asks for permission, like to access your location, camera, or contacts, do you read and understand what it means? (Do you allow it without thinking, or do you ask someone, or decide based on your own judgment?)
+3. How do you decide whether an app or website is safe to use? (Do you trust it if it’s popular? If friends use it? If it looks professional?)
 
-**Topic 4 - Reporting and Deliverables**
-1. Who do you report to?
-2. Does anyone report to you?
-3. What are the typical reporting structures that you see in your profession?
-     * What are the teams and their composition of reporting?
-     * What methods do you use to report to others (e.g., meetings, emails, project management platforms)?
-     * What is the actual organizational structure (e.g., flat vs hierarchical)?
-4. What deliverables are required from you in your role? For example, do you write code, research reports, Privacy-by-Design (PbD) advice, etc?
-     * Can you tell me more about why these deliverables are important in your role?
-     * Do you think these deliverables are typical or not typical for someone in your profession?
-5. How are those deliverables evaluated by your manager?
+**Topic 3 - Practices and Behaviors**
+1. Have you ever deleted a message, photo, or app because you didn’t want someone to see it? (Can you share what made you do that? Was it for privacy or to avoid conflict?)
+2. If your phone stops working and you need to give it for repair, what do you do before handing it over? (Do you clear your data, remove photos, or just give it as is?)
+3. Have you ever asked someone (friend/repairer/child) to help you with a phone problem? How did you feel about them seeing your personal data? (How did you feel about them seeing your photos or private messages while helping?)
 
-**Topic 5 - Challenges and Strategies**
-1. Are there any tools, techniques, or standards that create challenges for you?
-     * What are the most common challenges that you encounter?
-     * Do you think these challenges are typical or not typical for your profession?
-2. Are there any challenges related to your organizational or reporting structures that you face?
-     * What are the most common challenges that you encounter?
-     * Do you think these challenges are typical or not typical for your profession?
-3. Can you tell me more about the strategies that you use to overcome the challenges you mentioned?
-     * Which ones do you find the most effective? Why? How do you know it’s effective?
-     * Which ones do you find the least effective? Why? How do you know it’s ineffective?
+**Topic 4 - Trust and Sharing**
 
-**Topic 6 - Success Metrics**
-1. How would you define ‘success’ in the work that you do?
-2. What do you think the overarching goal is?
-3. How do you think others evaluate the impact of your work?
-     * Do you think there are any metrics associated with these evaluation criteria?
+1. Who do you trust most when sharing personal or sensitive information? (E.g., in-person vs. over the phone or via apps). When you need to share something private (like bank info or personal messages), who do you trust more: talking in person, calling, or using apps like WhatsApp or SMS?
+2. Have you used code words, nicknames, or indirect language to keep something private? (Can you give an example: like talking in jokes, slang, or using another language?)
+
+**Topic 5 - Digital Literacy and Consent**
+
+1. Have you ever helped someone install or use an app? What did you explain to them? (What things did you explain to them? Did you talk about privacy or safety?)
+2. Do you know how to stop an app from using your camera, microphone, or location? (Have you ever done this before or seen anyone do it?)
+3. When you get a warning message (e.g., “this app may harm your phone”), what do you usually do? (Do you install it anyway, uninstall it, or ask someone for help?)
+4. What do you think happens when you give an app access to your contacts or photos? (Do you think it stores it, shares it, or uses it for ads?)
+
+**Topic 6 - Privacy and Repair**
+
+1. Have you ever hesitated to take your phone for repair because of private content? (Like photos, chats, bank info, or other personal things?)
+2. Has a repair person, friend, or shopkeeper ever opened your gallery or apps without asking while using or fixing your phone? How did you feel? (Did you say anything to them? Did it bother you?)
+3. Do you use a password or lock screen on your phone? Why or why not? (Does anyone else know your password?)
+
+**Topic 7 - Trust and Social Influence**
+
+1. Do you think apps from local developers are safer than international ones? Why? (What makes you feel something is trustworthy: language, popularity, or something else?)
+2. Who do you turn to when you don’t understand a phone or app setting? (Do you ask family, children, shopkeepers, or friends?)
+3. Do people around you (family, friends, shopkeepers) influence the way you think about online safety? (Have they given you any advice or taught you anything about staying safe online?)
+
+**Topic 8 - Scenario-based questions:**
+
+1. Broken Phone: Imagine your phone suddenly stops working, and you need to take it to a local repair shop. It has your photos, bank app, and personal messages. What do you do before handing it over? Do you delete things? Do you worry about the repair person accessing your content?
+2. Sharing a Phone with Family: Let’s say your sibling or spouse often borrows your phone. You receive a private message. What do you do? Do you hide apps? Use patterns? Delete messages?
+3. Installing a New App: A new app promises rewards or entertainment, but asks for access to your contacts and location. Would you install it? What do you consider before saying yes? Do you know what these permissions mean?
+4. Helping an Elderly Relative: Your older relative has a smartphone, but doesn’t understand permissions. They ask you to install a health or finance app for them. What do you do? Do you explain the permissions? Do you think it’s important for them to understand?
+5. Using a Borrowed Phone: Imagine you’re using a friend’s or relative’s phone to check something online. You see a private photo or message pop up. What would you do?  Do you tell them? Ignore it? Does this ever happen?
+6. Selling or Giving Away a Phone: You plan to give your old phone to someone else. What steps do you take before handing it over? Do you delete apps? Format it? Worry about any leftover data?
+7. Cloud Backup Surprise: You delete photos from your phone, but later find out they are still on Google Photos or iCloud. How would you react?
+8. Using Free Public WiFi: You find free WiFi at a cafe and need to check your bank account. Would you connect? Why or why not? What steps would you take?
+9. Receiving a lottery: Imagine you ever receive a call from a number you don’t recognize, stating that you have won 1 lakh in a lucky draw. Would you give your details?
+10. Sharing account details: Your friend is out of town and runs into an emergency that requires a money transfer since their bank account does not have enough money. Will you transfer the money? Why or why not?
