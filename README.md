@@ -10,7 +10,7 @@ We present findings from interviews with 50 new Internet users in India, spannin
 Please cite this work as follows:
 
 ```bibtex
-@inproceedings{samarin2025behavr,
+@inproceedings{priyanka2026understanding,
   title     = { “I Just Press Allow”: Understanding Privacy Practices of New Internet Users in Urban India},
   author    = {Priyanka Popuri, Srishti Sanghi, Sri Lekha Mondreti, Dipanjan Chakraborty},
   booktitle = {Proceedings on Privacy Enhancing Technologies (PoPETs)},
