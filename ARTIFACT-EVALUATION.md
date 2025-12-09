@@ -20,7 +20,7 @@ All findings were rigorously de-identified and anonymized to ensure that the dis
 Each transcript is stored as a .docx file, which can be easily opened by any text-editing or word-processing application. The overall size of the dataset is about 1.5 MB. 
 
 ### Accessibility (All badges)
-You can access the dataset by using the following persistent GitHub link: [https://github.com/blues-lab/priv-eng-dataset/tree/63b7215c386c1ad7c11b3e057c369083a49b8004/interviews](https://github.com/blues-lab/priv-eng-dataset/tree/63b7215c386c1ad7c11b3e057c369083a49b8004/interviews).
+You can access the dataset by using the following persistent GitHub link: [https://github.com/blues-lab/priv-eng-dataset/tree/63b7215c386c1ad7c11b3e057c369083a49b8004/interviews](https://github.com/blues-lab/priv-eng-dataset/tree/63b7215c386c1ad7c11b3e057c369083a49b8004/interviews). https://github.com/Priyankapopuri08/PoPETs-Understanding-Privacy-Practices/tree/main/interviews
 
 To clone the repository and navigate into the project folder, run the following commands:
 
