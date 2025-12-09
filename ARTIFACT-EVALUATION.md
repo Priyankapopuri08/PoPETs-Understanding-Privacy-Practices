@@ -17,7 +17,7 @@ The dataset comprises transcripts of responses provided by participants. We took
 All findings were rigorously de-identified and anonymized to ensure that the disclosure of interviewee affiliations or the reidentification of participants would be mitigated, thereby minimizing potential harm upon the public release of the redacted interview transcripts. 
 
 ## Environment 
-Each transcript is stored as a .txt file, which can be easily opened by any text editing or word processing application. The overall size of the dataset is about 1.5 MB. 
+Each transcript is stored as a .docx file, which can be easily opened by any text-editing or word-processing application. The overall size of the dataset is about 1.5 MB. 
 
 ### Accessibility (All badges)
 You can access the dataset by using the following persistent GitHub link: [https://github.com/blues-lab/priv-eng-dataset/tree/63b7215c386c1ad7c11b3e057c369083a49b8004/interviews](https://github.com/blues-lab/priv-eng-dataset/tree/63b7215c386c1ad7c11b3e057c369083a49b8004/interviews).
