@@ -21,19 +21,19 @@ Please cite this work as follows:
 ```
 
 ## Research Overview
-Despite the growing importance of embedding privacy into software products by design, addressing legal requirements and user privacy concerns has proven challenging in practice. This challenge has led researchers and practitioners to develop various methods, techniques, tools, and other solutions that consider privacy throughout the software engineering process. Many of these approaches eventually formed the basis for an emerging and rapidly expanding field of *privacy engineering*, receiving significant attention from industry, government, and academic stakeholders.
+Mobile phones have become the primary gateway to the internet for millions of first-time internet users in India, driven by the affordability of smartphones and the expansion of digital services. This rapid adoption has created a diverse population of “new internet users” who often have limited digital experience, low literacy, and little exposure to formal training with technology. Despite their growing online presence, most digital systems continue to assume experienced users, leaving newcomers to navigate complex interfaces, privacy settings, and security decisions with minimal guidance.
 
-Rapid growth and recognition have contributed to an increase in scholarship on privacy engineering goals (the “what”) and methods of achieving them (the “how”). **However, a critical gap remains in understanding who is, or should be, responsible for putting these methods into practice and achieving these goals within organizations**. 
+While significant technical progress has been made in strengthening privacy through encryption, authentication, and secure architectures, far less attention has been given to how novice users actually understand, interpret, and act on privacy and security cues. Their experiences are further shaped by social realities such as shared device use, dependence on family or shopkeepers for setup, and informal repair practices. As a result, many existing privacy protections fail to align with everyday practices, increasing vulnerability to fraud, data misuse, and unauthorized access. 
 
-To define the role of a *privacy engineer*, we considered the following research questions:
+To address these gaps, we conducted a qualitative study with 50 first-time or early-stage smartphone users across varied socio-economic and regional contexts in India. Our work examines how these users perceive privacy and security, and how their socio-cultural environments shape their decisions and associated risks.
 
-* **RQ1:** How do privacy engineers conceptualize their roles?
-* **RQ2:** What motivates individuals to pursue privacy engineering?
-* **RQ3:** What are the core competencies associated with privacy engineering?
-* **RQ4:** What do privacy engineers find challenging in their roles, and what strategies do they find effective in overcoming these challenges?
+Our study is guided by the following research questions:
 
-We chose semi-structured interviews because of the open-ended nature of our research questions. Furthermore, semi-structured interviews allowed us to investigate participants’ responses further
-and skip questions as needed while maintaining the structure of our interview guide.
+* **RQ1:** How do household relationships and reliance on digitally literate family members shape privacy decisions and experiences?
+* **RQ2:** What informal strategies and everyday workarounds do users adopt when formal controls are difficult to understand or use?
+* **RQ3:** Why do users consent to apps despite mistrust, and what does this reveal about the limits of current consent models?
+
+We used semi-structured interviews because they allow flexibility to explore users’ experiences in depth while maintaining a consistent structure across diverse participants.
 
 ### Interview Guide
 We developed our interview guide to highlight the unique characteristics of a privacy engineering role and to enable comparison with other similar but distinct privacy roles. To achieve this goal, we divided the interview into six distinct sections that cover: (1) participants’ understanding of privacy engineering, (2) their motivation to pursue privacy engineering as a profession, (3) responsibilities and skills, (4) reporting and deliverables, (5) challenges and strategies, (6) evaluating success. All authors reviewed and provided suggestions for the interview protocol, including two authors with extensive experience as privacy engineering practitioners within their respective organizations.
