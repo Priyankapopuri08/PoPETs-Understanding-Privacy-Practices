@@ -16,8 +16,6 @@ The dataset comprises transcripts of responses provided by participants. We took
 
 All findings were rigorously de-identified and anonymized to ensure that the disclosure of interviewee affiliations or the reidentification of participants would be mitigated, thereby minimizing potential harm upon the public release of the redacted interview transcripts. 
 
-Each transcript was manually analyzed and de-identified by a researcher in multiple sequential passes. We ensured that no facts or phrases that could serve as a way to identify the participant were mentioned. Identifiable facts and phrases were replaced with placeholders (e.g., [INSTITUTION], [LOCATION], [PROJECT], and so forth), and any responses from interviewees in which identifiable information was self-disclosed were fully redacted.
-
 ## Environment 
 Each transcript is stored as a .txt file, which can be easily opened by any text editing or word processing application. The overall size of the dataset is about 1.5 MB. 
 
