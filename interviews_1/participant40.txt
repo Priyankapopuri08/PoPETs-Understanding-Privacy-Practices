@@ -1,0 +1,44 @@
+P40, Auto-rickshaw driver, Age: 31years, Education: 8th class completed
+Phone: New budget smartphone (bought using savings)
+Digital Literacy: Moderate – self-taught user who watches YouTube tutorials, confident with basic apps but unsure of deeper settings
+Main Phone Use: I use my phone for GPS navigation, YouTube for news and songs, WhatsApp for customer calls, and sometimes UPI payments.
+Phone Sharing: No, I keep it to myself. I don’t share because my income and ride information is inside.
+Favorite Apps: Google Maps, WhatsApp, PhonePe. I know apps ask for permissions, but I don't always know which ones are needed.
+Permission Reading: I press “Allow” most of the time, but if it asks for contacts in a GPS app, I cancel.
+App Trust: I trust Google apps. Others, I search reviews on YouTube before installing.
+Content Deletion: I clear WhatsApp chats and call logs sometimes, especially if I talk to customers.
+Phone Repair: I remove SIM, log out of UPI, and delete gallery. I worry someone might copy my UPI QR code.
+Help with Problems: I try to solve using YouTube videos. Only if it’s serious, I ask my younger brother.
+Trusted People: My wife and brother. But even then, I don’t share passwords.
+Code Words: I save some regular passengers as “Uncle” or “Customer1” — not real names.
+Helping Others: Yes, I helped another auto driver install UPI and warned him to not save his PIN.
+Permission Control: I learned recently how to stop apps from using location all the time.
+Warning Messages: If it says “harmful app,” I search the app name online or avoid it.
+Access to Contacts/Photos: I think some apps use it for spam or ads. So I say no if it doesn’t seem necessary.
+Repair Hesitation: Yes, especially because I use PhonePe and keep my QR code in the gallery. I delete it before going.
+Apps Opened by Repairer: I don't know if they opened anything, but once I saw that the repair guy had taken a screenshot.
+Password Use: Yes, pattern lock and I also lock individual apps like PhonePe using AppLock.
+App Origin Preference: I prefer Indian apps, especially for payments. I use BHIM instead of foreign wallets.
+Tech Help: YouTube first. If I can’t fix it, then my brother.
+Social Influence: Auto driver group tells each other about frauds and new safety rules. We learn from each other.
+Scenario Responses (Elaborated)
+Broken Phone (Repair Shop)
+  I remove SIM, delete payment QR code from my gallery, and uninstall PhonePe. I once heard that a mechanic scanned someone’s QR and took money, so I’m careful now.
+Sharing Phone with Family
+  I don’t share it, even with my wife. Once she gave the phone to my child and he deleted my UPI screenshot. So now, I keep the phone locked.
+Installing a New App
+  I check reviews and if I see too many permissions, like SMS or contacts, I avoid it. For payment apps, I trust only the government ones.
+Helping an Elderly Relative
+  I installed WhatsApp for my uncle and told him to use voice messages only. I explained how not to click links in messages. He understood some of it.
+Using a Borrowed Phone
+  If someone gives me their phone, I only use it for the exact thing I need. I turn off the screen if any personal messages pop up.
+Giving Away a Phone
+  Before giving my old phone to my nephew, I reset it completely and also removed my Google account. I didn’t want him to get my SMS or photos.
+Cloud Backup Surprise
+  Yes! I deleted some photos, but my son said they were still in Google Drive. I didn’t know. Now I use “delete from everywhere” option.
+Using Free Public WiFi
+  I only use it in emergencies. For anything related to bank or UPI, I wait for mobile data. I saw a video warning about WiFi frauds.
+Receiving a Lottery Call
+  Yes, someone called saying I won a car. I asked them to WhatsApp details and they cut the call. I blocked the number and told others in my group.
+Emergency Bank Transfer Request
+  If my friend says it’s an emergency, I call him to confirm. If it sounds odd or message comes from someone else’s phone, I don’t send anything.

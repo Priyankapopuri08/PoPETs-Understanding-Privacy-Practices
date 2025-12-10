@@ -1,0 +1,61 @@
+P46, Male, Delivery Boy, Age: 29 years, Education: 4th standard
+Q1. What do you mainly use your phone for?
+I use my phone mainly for delivery work. I use delivery apps to accept orders, check addresses, call customers, and confirm deliveries. I also use Google Maps for navigation. Apart from work, I use WhatsApp, YouTube, and sometimes Facebook.
+Q2. Do you share your phone with others?
+No, I usually don’t share my phone because delivery apps and payment apps are logged in. Sometimes I give it to my wife to make a call, but not for long.
+Q3. What apps and features do you frequently use?
+I mostly use delivery apps, Google Maps, phone calls, WhatsApp, UPI apps, and the camera to upload delivery proof photos. I also use YouTube for time pass.
+Q4. Do you read app permissions before allowing them?
+Sometimes I read, but not fully. If the app is needed for work, I allow permissions like location and camera. Otherwise, I don’t think much.
+Q5. How do you decide whether an app is safe to use?
+If the company I work for asks me to use it, I trust it. I also trust apps that many other delivery boys use. I don’t install random apps.
+Q6. Have you ever deleted messages, photos, or apps for privacy?
+Yes, I delete delivery photos after some days. I also delete WhatsApp chats and videos when storage gets full.
+Q7. What do you do before giving your phone for repair?
+I log out of delivery apps and UPI apps. I remove the SIM card. I don’t know how to delete everything properly, so I feel worried.
+Q8. Have you asked someone for help with phone problems?
+Yes, I ask other delivery boys or go to a mobile shop. Sometimes I watch YouTube videos to fix issues.
+Q9. Who do you trust most when sharing personal or sensitive information?
+I trust my wife and sometimes my supervisor. I don’t share personal details with customers.
+Q10. Have you used code words or nicknames to keep something private?
+Yes, I save customer numbers with short names or order numbers so others don’t understand.
+Q11. Have you ever helped someone install or use an app?
+Yes, I helped a new delivery boy install delivery and navigation apps. I showed him basic use but not about permissions.
+Q12. Do you know how to stop an app from using your camera, microphone, or location?
+I know location can be turned off, but I don’t know much about camera or microphone settings.
+Q13. What do you do when you get warning messages on your phone?
+I get confused and sometimes scared. I usually ignore them or ask another delivery boy what to do.
+Q14. What do you think happens when you give an app access to your contacts or photos?
+I think the app can see those things. I don’t know if they save them somewhere else.
+Q15. Have you ever hesitated to take your phone for repair because of private content?
+Yes, because payment apps and personal photos are there. I feel uncomfortable.
+Q16. Has a repair person ever opened your photos or apps without asking?
+Once, a repair person opened my phone to check storage. I didn’t like it but didn’t stop him.
+Q17. Do you use a lock screen on your phone?
+Yes, I use fingerprint and PIN. Without lock, anyone can misuse payment apps.
+Q18. Do you think local apps are safer than international ones?
+I don’t know much about that. I use apps that my company or friends recommend.
+Q19. Who do you turn to when you don’t understand phone settings?
+I ask my friends or other delivery boys. Sometimes I search on YouTube.
+Q20. Do people around you influence how you think about online safety?
+Yes, other delivery boys warn me about fake calls, OTP frauds, and scams. I am careful because of that.
+Scenario 1: Broken Phone
+Before giving my phone for repair, I log out of delivery and payment apps and remove the SIM card. If I can’t do that, I delay the repair.
+Scenario 2: Sharing Phone with Family
+If my wife uses my phone, I close delivery apps first.
+Scenario 3: Installing a New App
+I install only work-related apps or apps suggested by friends. I don’t click links from messages.
+Scenario 4: Helping an Elderly Relative
+I help them make calls or use WhatsApp. I don’t explain app permissions much.
+Scenario 5: Using a Borrowed Phone
+I only use it for calls or maps and return it quickly.
+Scenario 6: Giving Away Phone
+I ask a mobile shop person to delete everything before giving it away.
+Scenario 7: Cloud Backup Surprise
+I don’t know much about cloud backup. If old photos come back, I will delete them.
+Scenario 8: Using Free Public WiFi
+I sometimes use free WiFi but avoid opening payment or delivery apps.
+Scenario 9: Lottery Call
+I cut the call and block the number.
+Scenario 10: Emergency Bank Transfer
+I confirm by calling the person directly or asking my wife before sending money.

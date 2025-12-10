@@ -1,0 +1,62 @@
+P11, Homemaker, Age: 54 years, Education: 8th class
+Q1: What do you mainly use your phone for?
+A: Mostly for calling my children and relatives. I use WhatsApp to see the photos my daughter sends. Sometimes I listen to devotional songs on YouTube, but only when my granddaughter helps me open the app.
+Q2: Do you share your phone with others?
+A: Yes, my granddaughter uses it to play games and watch cartoons when she visits. My husband also sometimes takes it to call someone if his phone is charging.
+Q3: What are your favorite apps or features on your phone?
+A: WhatsApp is my favorite because I get to see my family’s photos. I don’t really think about what the apps collect. My daughter once told me not to click on anything new.
+Q4: When an app asks for permission, like access to location or contacts, do you read and understand what it means?
+A: No, I don’t understand all that. If it says “Allow,” I just ask my granddaughter or wait for my daughter to visit.
+Q5: How do you decide whether an app or website is safe to use?
+A: I don’t install apps on my own. My daughter does it. If she says it’s okay, I trust it.
+Q6: Have you ever deleted a message, photo, or app because you didn’t want someone to see it?
+A: No, I don’t know how to delete things. But sometimes if I think a message is not nice, I ask my granddaughter to remove it.
+Q7: If your phone stops working and you need to give it for repair, what do you do before handing it over?
+A: I give it as it is. I don’t know how to remove anything. I just hope the person repairing it is honest.
+Q8: Have you ever asked someone to help you with a phone problem?
+A: Yes, my granddaughter or daughter. I feel shy when they look at my photos or messages, but I trust them.
+Q9: Who do you trust most when sharing personal or sensitive information?
+A: I only talk in person. I don’t type anything personal on WhatsApp. My children taught me to be careful.
+Q10: Have you used code words or nicknames to keep something private?
+A: No, I don’t do that. But I sometimes say things in Malayalam if I don’t want others to understand.
+Q11: Have you ever helped someone install or use an app?
+A: No, I only get help. I don’t understand much, so I don’t help others with that.
+Q12: Do you know how to stop an app from using your camera or location?
+A: No. I’ve never done that. I don’t even know where to find that setting.
+Q13: When you get a warning message (“this app may harm your phone”), what do you usually do?
+A: I get scared and don’t touch it. I wait for my daughter to come and look.
+Q14: What do you think happens when you give an app access to your contacts or photos?
+A: I don’t know. Maybe it helps it work better? I haven’t thought about that.
+Q15: Have you ever hesitated to take your phone for repair because of private content?
+A: Not really. I don’t think there’s anything secret in my phone. But I worry they might break something.
+Q16: Has a repair person ever opened your gallery or apps without asking?
+A: I don’t know. I don’t check after giving it. I just pray nothing bad happens.
+Q17: Do you use a password or lock screen on your phone? Why or why not?
+A: No. I forget the password. My daughter kept one once and I couldn’t use the phone for two days!
+Q18: Do you think local apps are safer than international ones? Why?
+A: I don’t know the difference. I just use what my daughter installs. If it’s in Malayalam or simple English, I like it more.
+Q19: Who do you turn to when you don’t understand a phone or app setting?
+A: My granddaughter or daughter. They explain it slowly and help me.
+Q20: Do people around you influence how you think about online safety?
+A: Yes. My daughter told me not to click on unknown links or messages. So now I don’t open anything unless she says so.
+Scenarios
+Scenario 1: Broken Phone
+A: I would just give it to the shop. I don’t know how to remove anything. I ask the person to fix it carefully.
+Scenario 2: Sharing with Family
+A: If my husband or granddaughter uses the phone, I don’t worry. But if someone else uses it, I get nervous.
+Scenario 3: New App Requesting Permissions
+A: I wouldn’t install it. I wait for someone from my family to do it and tell me if it’s okay.
+Scenario 4: Helping Elderly Relative
+A: I’ve never done that. I’m usually the one being helped. I don’t understand these permission things.
+Scenario 5: Using Someone Else’s Phone
+A: If I saw a message or photo, I would close it and give the phone back quickly.
+Scenario 6: Giving Away a Phone
+A: I wouldn’t know what to do. I would give it to my daughter to check and clean before giving it to someone else.
+Scenario 7: Cloud Backup Surprise
+A: That would confuse me. I thought deleting something meant it’s gone.
+Scenario 8: Free Public WiFi
+A: I never connect to such things. I don’t know how to.
+Scenario 9: Lottery Call
+A: I have had such calls. I don’t believe them. I tell them “no” and hang up.
+Scenario 10: Friend Needs Help
+A: I don’t know how to send money, so I would ask my daughter to do it. I won’t do it on my own.

@@ -1,0 +1,62 @@
+P31, College student, Age: 22 years
+Q1: What do you mainly use your phone for?
+A: I use my phone for chatting on WhatsApp and Snapchat, watching YouTube videos, and browsing social media like Instagram. I also use it sometimes to check my bank balance and do online payments.
+Q2: Do you share your phone with others? If yes, with whom and how often?
+A: I rarely share my phone. Sometimes my younger sister uses it to play games or watch videos, but I mostly keep it to myself.
+Q3: What are your favorite apps or features on your phone? Why do you use those apps? Have you thought about what information they might be collecting?
+A: I like Snapchat because it’s fun and private with disappearing messages. WhatsApp is for chatting with friends and family. I have thought a bit about data collection; I know apps collect location and contacts but don’t always fully understand the extent.
+Q4: When an app asks for permission, like to access your location, camera, or contacts, do you read and understand what it means?
+A: I usually skim the permission requests and decide quickly. If the app is well-known or I trust it, I allow permissions without much thought.
+Q5: How do you decide whether an app or website is safe to use?
+A: I trust apps with many downloads and good reviews. If friends recommend an app, I feel more comfortable using it. I also check if the app looks professional.
+Q6: Have you ever deleted a message, photo, or app because you didn’t want someone to see it?
+A: Yes, sometimes I delete Snapchat chats or photos if they are personal. I also delete apps if I don’t use them anymore or if they ask for too many permissions.
+Q7: If your phone stops working and you need to give it for repair, what do you do before handing it over?
+A: I back up important data and remove any apps or files that I don’t want others to see. I might also reset the phone if it’s a serious repair.
+Q8: Have you ever asked someone (friend/repairer/child) to help you with a phone problem? How did you feel about them seeing your personal data?
+A: I’ve asked a friend a few times. I’m okay with them seeing some data but feel uncomfortable if it’s very personal. I try to close apps or hide sensitive info first.
+Q9: Who do you trust most when sharing personal or sensitive information?
+A: I trust my close friends and family most. For very private info, I prefer in-person conversations over digital sharing.
+Q10: Have you used code words, nicknames, or indirect language to keep something private?
+A: Yes, sometimes with friends we use slang or nicknames in messages to keep things private.
+Q11: Have you ever helped someone install or use an app? What did you explain to them?
+A: Yes, I helped my parents install WhatsApp and explained how to use it to chat and make calls. I also told them to be careful about sharing personal info online.
+Q12: Do you know how to stop an app from using your camera, microphone, or location?
+A: Yes, I know how to go into settings and revoke permissions if I want to.
+Q13: When you get a warning message (e.g., “this app may harm your phone”), what do you usually do?
+A: I uninstall the app or avoid installing it if I see that kind of warning.
+Q14: What do you think happens when you give an app access to your contacts or photos?
+A: I think the app can use that info to connect with people or show targeted ads, but I’m not entirely sure what all they do with it.
+Q15: Have you ever hesitated to take your phone for repair because of private content?
+A: Sometimes I do hesitate, especially if the repair might need a full reset or if I can’t back up my data easily.
+Q16: Has a repair person, friend, or shopkeeper ever opened your gallery or apps without asking? How did you feel?
+A: No, I haven’t experienced that. If it happened, I’d feel it was a violation of privacy.
+Q17: Do you use a password or lock screen on your phone? Why or why not? Does anyone else know your password?
+A: Yes, I use a fingerprint and PIN lock. Only I know my password because it keeps my info safe.
+Q18: Do you think apps from local developers are safer than international ones? Why?
+A: Not necessarily. I think big international apps are safer because they have better security, but local apps might be more relevant to local needs.
+Q19: Who do you turn to when you don’t understand a phone or app setting?
+A: I usually look online or ask friends who are more tech-savvy.
+Q20: Do people around you influence the way you think about online safety?
+A: Yes, my friends and family sometimes warn me about scams or suspicious apps. It helps me be careful.
+Scenarios
+Scenario 1: Broken Phone
+A: I would try to back up all data and then either remove sensitive apps or do a reset before giving it to the repair shop. I worry a bit about the repair person accessing private stuff.
+Scenario 2: Sharing a Phone with Family
+A: If someone borrows my phone and I get a private message, I might hide the app or delete the message later to keep it private.
+Scenario 3: Installing a New App
+A: I would check the permissions carefully. If it asks for too many things, I might not install it. If it’s a trusted app, I’d allow the permissions.
+Scenario 4: Helping an Elderly Relative
+A: I would install the app and explain the permissions in simple terms so they understand what they are agreeing to. I think it’s important to help them be safe.
+Scenario 5: Using a Borrowed Phone
+A: If I see a private message on someone else’s phone, I respect their privacy and do not comment or tell anyone.
+Scenario 6: Selling or Giving Away a Phone
+A: I would do a factory reset and delete all my accounts before handing the phone over.
+Scenario 7: Cloud Backup Surprise
+A: I was surprised when I found deleted photos still in the cloud. I then learned to manage cloud backups better.
+Scenario 8: Using Free Public WiFi
+A: I avoid using public WiFi for sensitive things like banking. I prefer my phone's data connection for such tasks.
+Scenario 9: Receiving a Lottery Call
+A: I ignore such calls and never share my details. I know these are usually scams.
+Scenario 10: Sharing Account Details
+A: I would help only very close family in emergencies, but I would be cautious and ask questions before transferring money.

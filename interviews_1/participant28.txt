@@ -1,0 +1,62 @@
+P28, Tailor, Age: 35 years, Education: 6th class
+Q1: What do you mainly use your phone for?
+A: I mostly use my phone for calling my family and some customers. Sometimes, I send SMS messages. I watch videos on YouTube, mostly songs or cooking tutorials. I don’t use many apps.
+Q2: Do you share your phone with others? If yes, with whom and how often?
+A: Yes, my children sometimes use my phone to play games or watch videos. They use it mostly in the evenings. I don’t mind sharing with them.
+Q3: What are your favorite apps or features on your phone? Why do you use those apps? Have you ever thought about what information these apps might be collecting from your phone?
+A: I mainly use YouTube and the phone’s camera. I don’t really think about what information these apps collect; I just use them to watch and take pictures.
+Q4: When an app asks for permission, like to access your location, camera, or contacts, do you read and understand what it means?
+A: No, I don’t read all the permissions. I just press “Allow” because I want the app to work.
+Q5: How do you decide whether an app or website is safe to use?
+A: I usually ask my son or daughter if an app is okay to use. I don’t trust new apps unless they say it’s safe.
+Q6: Have you ever deleted a message, photo, or app because you didn’t want someone to see it?
+A: Sometimes I delete pictures that I don’t want others to see, like some personal family photos.
+Q7: If your phone stops working and you need to give it for repair, what do you do before handing it over?
+A: I don’t do much. I just give the phone as it is because I don’t know how to clear the data.
+Q8: Have you ever asked someone (friend/repairer/child) to help you with a phone problem? How did you feel about them seeing your personal data?
+A: Yes, my son helps me sometimes. I feel okay because I trust him, but I don’t like strangers seeing my phone.
+Q9: Who do you trust most when sharing personal or sensitive information?
+A: I trust my family most. I don’t like sharing personal information with others.
+Q10: Have you used code words, nicknames, or indirect language to keep something private?
+A: No, I don’t use code words or anything like that.
+Q11: Have you ever helped someone install or use an app? What did you explain to them?
+A: No, I haven’t helped others. I usually ask my children for help.
+Q12: Do you know how to stop an app from using your camera, microphone, or location?
+A: No, I don’t know how to do that.
+Q13: When you get a warning message (e.g., “this app may harm your phone”), what do you usually do?
+A: I usually ignore it or ask my son what to do.
+Q14: What do you think happens when you give an app access to your contacts or photos?
+A: I’m not sure, but I think the app might see my contacts or photos.
+Q15: Have you ever hesitated to take your phone for repair because of private content?
+A: Yes, I feel worried that repair people might look at my photos or messages.
+Q16: Has a repair person, friend, or shopkeeper ever opened your gallery or apps without asking while using or fixing your phone? How did you feel?
+A: Yes, once at a shop, the person looked at my photos without asking. I felt embarrassed but didn’t say anything.
+Q17: Do you use a password or lock screen on your phone? Why or why not? Does anyone else know your password?
+A: I don’t use a password because I forget it. My children sometimes use my phone too.
+Q18: Do you think apps from local developers are safer than international ones? Why?
+A: I don’t know much about that. I think apps from local developers might be easier to understand because of language.
+Q19: Who do you turn to when you don’t understand a phone or app setting?
+A: I ask my children or a neighbor who knows more about phones.
+Q20: Do people around you (family, friends, shopkeepers) influence the way you think about online safety?
+A: Yes, my children tell me to be careful with messages and not to share passwords.
+Scenarios:
+Scenario 1: Broken Phone
+A: I would give the phone to the repair shop without deleting anything because I don’t know how. I would ask my son to help.
+Scenario 2: Sharing a Phone with Family
+A: When my children borrow my phone, I don’t usually hide messages. I trust them.
+Scenario 3: Installing a New App
+A: If a new app asks for access to contacts and location, I usually say yes if my children say it’s okay.
+Scenario 4: Helping an Elderly Relative
+A: I would help my mother or father by installing apps and telling them to trust only me.
+Scenario 5: Using a Borrowed Phone
+A: If I see private messages or photos on someone else’s phone, I try to look away and don’t mention it.
+Scenario 6: Selling or Giving Away a Phone
+A: I don’t know how to delete everything; I just give the phone as it is.
+Scenario 7: Cloud Backup Surprise
+A: I don’t understand cloud backups, so I was surprised when deleted photos reappeared on another device.
+Scenario 8: Using Free Public WiFi
+A: I try not to use public WiFi for banking. I prefer my mobile data.
+Scenario 9: Receiving a Lottery Call
+A: I don’t trust calls about winning money and don’t share any personal details.
+Scenario 10: Sharing Account Details
+A: I would be very careful and only help close family members if needed.

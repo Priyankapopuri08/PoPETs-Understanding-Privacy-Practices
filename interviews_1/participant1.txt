@@ -1,0 +1,63 @@
+P1, House helper, Age: 36 years, Education: 3rd class
+I have been using my phone for 6 years. The phone I am using is a common phone that my husband and I will use. My children have their own phones. I use the phone for 2 to 3 hours.
+Q1: What do you mainly use your phone for?
+A.I mainly use the phone for calling and to send WhatsApp messages. I don’t have time to watch videos, but when my children show  them then I will try to learn how to use Instagram. I don’t know how to check the balance. I will check using the messaging app.
+Q2: Do you share your phone with others?
+A.I share my phone with my husband.
+Q3: What are your favorite apps or features on your phone?
+A.I use WhatsApp and YouTube on my phone. I will send messages and photos to my sister. I will talk about my relatives. I am learning how to use Instagram from my children. I don’t know about apps collecting the information.
+Q4: When an app asks for permission, like access to location or contacts, do you read and understand what it means?
+A.I will give permission to all the apps. Generally, I don’t download the apps. My children will do all the installations.
+Q5: How do you decide whether an app or website is safe to use?
+A.I use only WhatsApp because everyone of my family members are using it to talk with each other.
+Q6: Have you ever deleted a message, photo, or app because you didn’t want someone to see it?
+A.I deleted messages from the phone because my husband scolds me if he sees me talking to my relatives and wasting time. I will delete a few pictures also to avoid fights with them.
+Q7: If your phone stops working and you need to give it for repair, what do you do before handing it over?
+A.I will go to the local repair shop to give my phone. I will tell them the lock of my phone. I did not delete anything from my phone. I know they will take pictures, but I have to tell them the lock for the phone.
+Q8: Have you ever asked someone to help you with a phone problem?
+A.I don’t have any problem asking for help, but only from known people. I don’t like them seeing personal photos, so I delete them. I don’t feel good if others see the information.
+Q9: Who do you trust most when sharing personal or sensitive information?
+A.I will trust the people whom I know to share any information, either by phone or directly. I will send the information via SMS or WhatsApp, or by talking in person.
+Q10: Have you used code words or nicknames to keep something private?
+A.I never use any code words or indirect language to keep something secret.
+Q11: Have you ever helped someone install or use an app?
+A.I don’t know how to install apps. So I can’t help anyone downloading the apps.
+Q12: Do you know how to stop an app from using your camera or location?
+A.I don’t know how to stop apps from using the camera, microphone, or anything.
+Q13: When you get a warning message (“this app may harm your phone”), what do you usually do?
+A.If the app is important to use, then I will download the app. Otherwise, my children will download the app.
+Q14: What do you think happens when you give an app access to your contacts or photos?
+A.I don’t have any idea about all of it.
+Q15: Have you ever hesitated to take your phone for repair because of private content?
+A.No, I gave it to the repair shop as it is.
+Q16: Has a repair person ever opened your gallery or apps without asking?
+A.They might have opened the apps like Photos or Instagram. But I don’t have so many secrets.
+Q17: Do you use a password or lock screen on your phone? Why or why not?
+A.Yes, I have a lock on my phone. My husband knows the lock. If I lose my phone, then others should not open it.
+Q18: Do you think local apps are safer than international ones? Why?
+A.I don’t have any idea about all these.
+Q19: Who do you turn to when you don’t understand a phone or app setting?
+A. I will ask my children.
+Q20: Do people around you influence how you think about online safety?
+A.I don’t have any idea about all these.
+Scenarios:
+Scenario 1: Broken Phone
+I go to the local repair shop nearby. I don’t delete anything because I don’t know how. I just tell them the phone’s password if they need it. I know they might check photos, but I have no choice. I just hope they don’t misuse it.
+Scenario 2: Sharing a Phone with Family
+Yes, I share my phone with my husband. If there are messages from my sister or relatives that he might not like, I delete them. Otherwise, it becomes a reason for arguments. I don’t want to fight, so I remove those messages or pictures.
+Scenario 3: Installing a New App
+I don’t install apps by myself. My children do it. I don’t know what access it asks. If they say it’s safe, I say yes. Otherwise, I don’t use any new app unless it is necessary.
+Scenario 4: Helping an Elderly Relative
+Actually, I myself ask for help from my children. I don’t know how to install apps or what permissions mean, so I cannot help someone else. If they ask me, I will ask my children to help us both.
+Scenario 5: Using a Borrowed Phone
+I will not say anything. That is their private matter. Even if I see something by mistake, I will ignore it. I don’t like to interfere in others’ phones and expect the same from them.
+Scenario 6: Selling or Giving Away a Phone
+I have not given out any old phones yet. But if I have to give, I will remove my SIM and memory card. I don’t know how to delete everything, but I can ask my children to do it.
+Scenario 7: Cloud Backup Surprise:
+I don’t know about Google Photos or iCloud. If deleted photos come back, I will feel scared and surprised. I think my phone is not safe. I will ask my children what happened.
+Scenario 8: Using Free Public WiFi:
+I don’t use WiFi or check the bank like that. I only check my balance through the message that comes to my phone. I don’t use apps for banking. And I never connect to free WiFi—I don’t know how and I don’t trust it.
+Scenario 9: Receiving a lottery:
+No, I will not give any details. I don’t trust such calls. I have seen on TV and WhatsApp that people lose money like that. Even if they say I won, I will first ask my children. If they say it’s fake, I will block the number.
+Scenario 10: Sharing account details:
+If the person is close and I trust them fully, I might transfer a small amount, but only if my children help me. I don’t know how to send money myself. If I’m unsure or don’t understand what’s happening, I won’t do it. I don’t want to make any mistakes.

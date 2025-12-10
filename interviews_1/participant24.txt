@@ -1,0 +1,68 @@
+P24, Delivery agent for an e-commerce company, Age: 28 years, Education : 10th class
+Q1: What do you mainly use your phone for?
+A: I use it for work mostly—calls from customers, location tracking, Google Maps. In free time, I use YouTube, Instagram, and sometimes Snapchat to see what people post. Also use Paytm to check salary or send money to my family.
+Q2: Do you share your phone with others?
+A: Sometimes, my younger brother borrows it for gaming or watching reels. At work, colleagues may use it if their battery is dead, but only for a short time.
+Section 2: Awareness and Perceptions
+Q3: What are your favorite apps or features on your phone?
+A: I like YouTube for entertainment and learning tricks for my bike. Also Google Maps is important for work. Snapchat is fun, but I don’t post much—just watch stories. I didn’t think about what these apps collect, honestly.
+Q4: When an app asks for permission like access to location, camera, or contacts, do you read and understand what it means?
+A: I read it a little, but usually just press "Allow" so the app works. If it looks fishy or unnecessary, I cancel.
+Q5: How do you decide whether an app or website is safe to use?
+A: If it's on the Play Store and my friends are using it, then I trust it. Also, if the app rating is good and has many downloads, I feel it’s okay.
+Section 3: Practices and Behaviors
+Q6: Have you ever deleted a message, photo, or app because you didn’t want someone to see it?
+A: Yes, sometimes I delete chats from friends if I feel my brother or someone might see and tease me. I also delete work screenshots after sending reports.
+Q7: If your phone stops working and you need to give it for repair, what do you do before handing it over?
+A: First, I remove my SIM and memory card. Then I delete WhatsApp chats and photos that are personal. I’m careful because I’ve heard repair guys sometimes look into your stuff.
+Q8: Have you ever asked someone to help you with a phone problem?
+A: Yes, sometimes I go to the mobile shop if something is stuck. I feel a bit awkward if they open my gallery or chats, but I just stand there and watch them.
+Section 4: Trust and Sharing
+Q9: Who do you trust most when sharing personal or sensitive information?
+A: In person is best. I don’t like sharing personal things on WhatsApp or calls. Face-to-face feels safer.
+Q10: Have you used code words, nicknames, or indirect language to keep something private?
+A: Yes, sometimes we use nicknames in WhatsApp group chats so others don’t understand. We also talk in half-Hindi, half-Marathi when we don’t want outsiders to get it.
+Section 5: Digital Literacy and Consent
+Q11: Have you ever helped someone install or use an app?
+A: Yes, I’ve helped my cousin install GPay and WhatsApp. I told him not to share OTPs and to lock the app.
+Q12: Do you know how to stop an app from using your camera, mic, or location?
+A: Yes, I go to settings ? apps ? permissions and turn things off sometimes. I did that for Facebook once because it was asking for everything.
+Q13: When you get a warning message like “this app may harm your phone,” what do you do?
+A: I stop immediately and uninstall it. I once ignored it and got too many ads on my phone later, so now I’m careful.
+Q14: What do you think happens when you give an app access to your contacts or photos?
+A: I think they store it and maybe use it for ads. Like if I search for shoes, I get shoe ads. So I believe they see our data.
+Section 6: Privacy and Repair
+Q15: Have you ever hesitated to take your phone for repair because of private content?
+A: Yes. I delay going to repair shops until I’ve removed personal things. I feel nervous otherwise.
+Q16: Has a repair person, friend, or shopkeeper ever opened your gallery or apps without asking?
+A: Not directly, but one guy opened WhatsApp while checking. I told him "bhai, please don’t open personal things." He laughed, but stopped.
+Q17: Do you use a password or lock screen on your phone? Why or why not?
+A: Yes, I use a pattern lock. My brother knows it, but no one else. I also lock WhatsApp with fingerprint.
+Section 7: Trust and Social Influence
+Q18: Do you think apps from local developers are safer than international ones? Why?
+A: Not really. I think international ones like Google or Amazon are more secure. Local apps sometimes crash or look fake.
+Q19: Who do you turn to when you don’t understand a phone or app setting?
+A: Either YouTube tutorials or my friend who works at a cyber café. He knows everything.
+Q20: Do people around you influence how you think about online safety?
+A: Yes, my cousin told me about not clicking unknown links or giving OTP. I follow what friends say based on their experience.
+Scenarios
+Scenario 1: Broken Phone
+A: I remove SIM, memory card, and delete chats/photos before repair. I don’t trust repair guys much.
+Scenario 2: Sharing with Family
+A: If I get a private message, I turn off mobile data or delete it. I don’t want my brother to see it.
+Scenario 3: New App Requesting Permissions
+A: I check reviews and see if others use it. If it asks too much, like camera for no reason, I avoid it.
+Scenario 4: Helping Elderly Relative
+A: I helped my mother with a health app. I told her not to allow everything, but she didn’t understand, so I did it for her.
+Scenario 5: Using Someone Else’s Phone
+A: If I see something private, I just ignore it. It’s their personal stuff—I won’t say anything.
+Scenario 6: Giving Away Phone
+A: I factory reset it and remove all accounts. I also format SD card before giving it to someone.
+Scenario 7: Cloud Backup Surprise
+A: It happened with my photos on Google Photos. I thought I deleted them, but they stayed online. I was shocked. Now I turn off backup.
+Scenario 8: Free Public WiFi
+A: I avoid using public WiFi for banking. If I have to, I use mobile data or a secure connection.
+Scenario 9: Lottery Call
+A: I got such a call once. I laughed and cut it. Never give info to unknown numbers.
+Scenario 10: Friend Needs Help
+A: If it’s someone close and trusted, I’ll send money. But only if I talk to them directly or confirm with a video call.
