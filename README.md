@@ -36,7 +36,8 @@ Our study is guided by the following research questions:
 We used semi-structured interviews because they allow flexibility to explore users’ experiences in depth while maintaining a consistent structure across diverse participants.
 
 ### Interview Guide
-We designed our interview guide to capture how first-time and early-stage smartphone users understand, experience, and navigate privacy and security in everyday mobile use. To accomplish this, we organized the interview into sections covering general phone practices, awareness and perceptions, behaviors around sharing and repair, trust and social influence, and responses to realistic scenario-based situations. The guide was iteratively refined to ensure clarity, cultural relevance, and alignment with our research questions.
+
+We designed our interview guide to capture how first-time and early-stage smartphone users understand, experience, and navigate privacy and security in everyday mobile use. The interviews were semi-structured, and the resulting transcripts are presented in a question–and–answer format to clearly reflect participants' responses to each prompt. The guide covered topics including general phone practices, awareness and perceptions of privacy, behaviors around sharing and device repair, trust and social influence, and responses to realistic scenario-based situations. The interview guide was iteratively refined to ensure clarity, cultural relevance, and alignment with our research questions.
 
 ### Interview Questions
 
