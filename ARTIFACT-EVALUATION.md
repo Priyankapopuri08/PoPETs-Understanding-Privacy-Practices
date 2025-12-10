@@ -18,7 +18,7 @@ All findings were rigorously de-identified and anonymized to ensure that the dis
 Each transcript is stored as a .txt file, which can be easily opened by any text-editing or word-processing application. The overall size of the dataset is about 330KB. 
 
 ### Accessibility (All badges)
-You can access the dataset by using the following persistent GitHub link: [https://github.com/Priyankapopuri08/PoPETs-Understanding-Privacy-Practices/tree/main/interviews]
+You can access the dataset by using the following persistent GitHub link: [https://github.com/Priyankapopuri08/PoPETs-Understanding-Privacy-Practices/tree/main/interviews_1]
 
 To clone the repository and navigate into the project folder, run the following commands:
 
