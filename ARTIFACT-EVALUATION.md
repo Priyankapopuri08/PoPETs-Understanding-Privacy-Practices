@@ -1,6 +1,6 @@
 # Artifact Appendix
 
-Paper title: **“I Just Press Allow”: Understanding Privacy Practices of New Internet**
+Paper title: **“I Just Press Allow”: Understanding Privacy Practices of New Internet Users in Urban India**
 
 Requested Badge: **Available**
 
