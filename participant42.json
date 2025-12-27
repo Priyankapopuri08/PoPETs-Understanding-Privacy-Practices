@@ -1,0 +1,40 @@
+{
+  "participant_id": "P42",
+  "occupation": "Domestic worker",
+  "age": 56,
+  "education": "No formal schooling",
+  "qa": [
+    {"question": "Main Phone Use", "answer": "Calls, WhatsApp voice messages, devotional songs."},
+    {"question": "Phone Sharing", "answer": "Shared with husband for calls."},
+    {"question": "Favorite Apps", "answer": "Only WhatsApp, don’t know about data."},
+    {"question": "Permission Reading", "answer": "Cannot read, employer’s daughter presses buttons."},
+    {"question": "App Trust", "answer": "Use what’s already installed or by employer’s family."},
+    {"question": "Content Deletion", "answer": "Don’t know how, ask son if phone slow."},
+    {"question": "Phone Repair", "answer": "Give directly to shop, don’t delete anything."},
+    {"question": "Help with Problems", "answer": "Ask son or employer’s daughter, feel shy."},
+    {"question": "Trusted People", "answer": "Only trust son."},
+    {"question": "Code Words", "answer": "No, just voice messages."},
+    {"question": "Helped Someone", "answer": "Never helped, always ask others."},
+    {"question": "Permission Control", "answer": "Didn’t know possible."},
+    {"question": "Warning Messages", "answer": "Don’t understand, give to son."},
+    {"question": "Access to Contacts/Photos", "answer": "Think it helps send pictures/calls."},
+    {"question": "Repair Hesitation", "answer": "Nervous, don’t know how to delete."},
+    {"question": "Repair Person Behavior", "answer": "Yes, shopkeeper opened WhatsApp and laughed."},
+    {"question": "Password Use", "answer": "No, forget code, son removed it."},
+    {"question": "Local vs International Apps", "answer": "Don’t know origin, don’t download myself."},
+    {"question": "Tech Help", "answer": "Ask son or employer’s daughter."},
+    {"question": "Social Influence", "answer": "Son warns not to share Aadhaar/bank info."}
+  ],
+  "scenarios": {
+    "Broken Phone": "Give to shop, repairman opened gallery, felt bad.",
+    "Sharing with Family": "Husband uses phone, delete son’s messages after listening.",
+    "Installing New App": "Never install, ask others.",
+    "Helping Elderly Relative": "Not able, tell them to ask children.",
+    "Using Borrowed Phone": "Return quickly if private content seen.",
+    "Giving Away Phone": "Son deletes everything before giving away.",
+    "Cloud Backup Surprise": "Deleted photo came back, son explained cloud.",
+    "Free Public WiFi": "Don’t know how to connect, use mobile data.",
+    "Lottery Call": "Believed call, told son, he blocked number.",
+    "Emergency Bank Transfer": "Never send, tell son instead."
+  }
+}

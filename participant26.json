@@ -1,0 +1,40 @@
+{
+  "participant_id": "P26",
+  "occupation": "Tailor",
+  "age": 31,
+  "education": "10th class",
+  "qa": [
+    {"question": "What do you mainly use your phone for?", "answer": "Calls, WhatsApp, YouTube."},
+    {"question": "Do you share your phone with others?", "answer": "Yes, husband and children sometimes."},
+    {"question": "What are your favorite apps?", "answer": "WhatsApp and YouTube."},
+    {"question": "Do you read permissions?", "answer": "No, I just press Allow."},
+    {"question": "How do you decide if an app is safe?", "answer": "If family or neighbors use it."},
+    {"question": "Have you deleted content?", "answer": "Yes, private messages sometimes."},
+    {"question": "What do you do before repair?", "answer": "I just give the phone as is."},
+    {"question": "Have you asked for help?", "answer": "Yes, my son or repair shop."},
+    {"question": "Who do you trust most?", "answer": "Talking in person."},
+    {"question": "Do you use code words?", "answer": "No."},
+    {"question": "Have you helped someone install an app?", "answer": "No, my son helps me."},
+    {"question": "Do you know how to stop permissions?", "answer": "No."},
+    {"question": "What do you do with warnings?", "answer": "Ignore or uninstall."},
+    {"question": "What do you think happens when you give access?", "answer": "I think it helps share pictures or talk."},
+    {"question": "Have you hesitated to repair?", "answer": "Yes, I worry about privacy."},
+    {"question": "Has a repair person opened your gallery?", "answer": "Yes, once. I felt uncomfortable."},
+    {"question": "Do you use a password?", "answer": "No, I find it hard to remember."},
+    {"question": "Do you think local apps are safer?", "answer": "I don’t think about that."},
+    {"question": "Who do you turn to?", "answer": "My son or neighbors."},
+    {"question": "Do people influence your safety thinking?", "answer": "Yes, they tell me to be careful."}
+  ],
+  "scenarios": {
+    "Broken Phone": "I give it to the shop as is.",
+    "Sharing with Family": "If private message comes, I delete it.",
+    "New App Requesting Permissions": "I ask my son before installing.",
+    "Helping Elderly Relative": "I don’t help, others help me.",
+    "Using Someone Else’s Phone": "I don’t check their private things.",
+    "Giving Away Phone": "I would ask my son to reset it.",
+    "Cloud Backup Surprise": "I don’t know about cloud.",
+    "Free Public WiFi": "I don’t use it.",
+    "Lottery Call": "I hang up.",
+    "Friend Needs Help": "I ask my husband before sending money."
+  }
+}

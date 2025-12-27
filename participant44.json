@@ -1,0 +1,40 @@
+{
+  "participant_id": "P44",
+  "occupation": "Tailor",
+  "age": 36,
+  "education": "No formal education",
+  "qa": [
+    {"question": "Main Phone Use", "answer": "Calls with customers, WhatsApp for orders, YouTube stitching videos."},
+    {"question": "Phone Sharing", "answer": "Yes, wife for calls, children for videos. Warn them not to open WhatsApp."},
+    {"question": "Favorite Apps", "answer": "WhatsApp, YouTube, camera for clothes photos."},
+    {"question": "Permission Reading", "answer": "No, cannot understand, just press Allow."},
+    {"question": "App Trust", "answer": "Trust if friends/tailors use it, son installs apps."},
+    {"question": "Content Deletion", "answer": "Yes, delete customer photos after work, delete chats if wife questions late messages."},
+    {"question": "Phone Repair", "answer": "Remove SIM/memory card, delete some photos, feel worried."},
+    {"question": "Help with Problems", "answer": "Ask son or shop person, feel uncomfortable but no choice."},
+    {"question": "Trusted People", "answer": "Wife and son."},
+    {"question": "Code Words", "answer": "Yes, save customers as 'Blouse Order' or 'Pant Work'."},
+    {"question": "Helping Others", "answer": "Helped another tailor use WhatsApp, showed photo sending only."},
+    {"question": "Permission Control", "answer": "No, didn’t know possible."},
+    {"question": "Warning Messages", "answer": "Get scared, show son or shop person."},
+    {"question": "Access to Contacts/Photos", "answer": "Think app can see them, don’t know if saved elsewhere."},
+    {"question": "Repair Hesitation", "answer": "Yes, worry about customer/family photos."},
+    {"question": "Repair Person Behavior", "answer": "Yes, opened gallery, said storage full, didn’t like it."},
+    {"question": "Password Use", "answer": "Pattern lock, wife also knows."},
+    {"question": "Local vs International Apps", "answer": "Don’t know, use what works/recommended."},
+    {"question": "Tech Help", "answer": "Son or another tailor."},
+    {"question": "Social Influence", "answer": "Son/friends warn not to answer unknown calls or share OTP."}
+  ],
+  "scenarios": {
+    "Broken Phone": "Remove SIM, ask son to delete photos, give for repair.",
+    "Sharing with Family": "Take phone back if customer message arrives.",
+    "New App Requesting Permissions": "Don’t install myself, ask son/friends.",
+    "Helping Elderly Relative": "Help with calls/WhatsApp, don’t explain permissions.",
+    "Using Borrowed Phone": "Look away from private content.",
+    "Giving Away Phone": "Ask son to delete everything.",
+    "Cloud Backup Surprise": "Don’t know about cloud, would be scared if photos return.",
+    "Free Public WiFi": "Don’t use, only mobile data.",
+    "Lottery Call": "Cut call, block number.",
+    "Emergency Bank Transfer": "Confirm with call or ask son, don’t send without checking."
+  }
+}

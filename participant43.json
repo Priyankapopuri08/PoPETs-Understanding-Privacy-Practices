@@ -1,0 +1,40 @@
+{
+  "participant_id": "P43",
+  "occupation": "Tailor",
+  "age": 34,
+  "education": "6th class",
+  "qa": [
+    {"question": "Main Phone Use", "answer": "WhatsApp, Snapchat, Instagram, YouTube, UPI banking, Google Docs, Zoom."},
+    {"question": "Phone Sharing", "answer": "Rarely, only urgent calls. Don’t like sharing due to personal chats/photos."},
+    {"question": "Favorite Apps", "answer": "Snapchat filters/streaks, Instagram reels. Know they collect data but not sure extent."},
+    {"question": "Permission Reading", "answer": "Allow quickly if known app, read if suspicious."},
+    {"question": "App Trust", "answer": "Play Store reviews, friends’ use, professional design."},
+    {"question": "Content Deletion", "answer": "Yes, deleted screenshots/messages, clear Snapchat history."},
+    {"question": "Phone Repair", "answer": "Remove Google account, clear gallery/WhatsApp, backup first, log out banking apps."},
+    {"question": "Help with Problems", "answer": "Ask techie friend, close gallery first."},
+    {"question": "Trusted People", "answer": "Prefer in-person for sensitive info, only close friends on WhatsApp."},
+    {"question": "Code Words", "answer": "Yes, nicknames/emojis with friends."},
+    {"question": "Helping Others", "answer": "Helped uncle install UPI, explained OTP safety."},
+    {"question": "Permission Control", "answer": "Yes, disable in settings for lesser-known apps."},
+    {"question": "Warning Messages", "answer": "Uninstall immediately unless sure safe."},
+    {"question": "Access to Contacts/Photos", "answer": "Think stored/used for ads or servers."},
+    {"question": "Repair Hesitation", "answer": "Yes, clean phone before repair, prefer branded centers."},
+    {"question": "Repair Person Behavior", "answer": "Yes, opened gallery to check camera, didn’t like it."},
+    {"question": "Password Use", "answer": "Fingerprint and PIN, only I know."},
+    {"question": "Local vs International Apps", "answer": "Trust based on reviews/developer, not country."},
+    {"question": "Tech Help", "answer": "Friend from CS, Google, Reddit."},
+    {"question": "Social Influence", "answer": "Friends share scam warnings, dad warns about banking frauds."}
+  ],
+  "scenarios": {
+    "Broken Phone": "Log out apps, delete sensitive stuff, backup, prefer branded repair.",
+    "Sharing with Family": "Hide notifications or disable pop-ups for private apps.",
+    "New App Requesting Permissions": "Check reviews, avoid unnecessary permissions.",
+    "Helping Elderly Relative": "Explain permissions simply.",
+    "Using Borrowed Phone": "Ignore private content.",
+    "Giving Away Phone": "Format completely, log out Google, erase storage.",
+    "Cloud Backup Surprise": "Surprised deleted photos stayed in cloud, check Google Photos settings.",
+    "Free Public WiFi": "Avoid banking, use VPN if needed.",
+    "Lottery Call": "Block scam calls or play along without sharing info.",
+    "Friend Needs Help": "Confirm identity, send money only if sure."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "participant_id": "P35",
+  "occupation": "Daily wage worker",
+  "age": 28,
+  "education": "4th class",
+  "qa": [
+    {"question": "What do you mainly use your phone for?", "answer": "WhatsApp, Snapchat, YouTube, checking bank balance, online shopping."},
+    {"question": "Do you share your phone with others?", "answer": "Not really. Sometimes my younger sister watches videos."},
+    {"question": "What are your favorite apps?", "answer": "Snapchat and WhatsApp. I know they collect location and contacts a bit."},
+    {"question": "Do you read permissions?", "answer": "I skim and allow if they seem normal, like camera for Snapchat."},
+    {"question": "How do you decide if an app is safe?", "answer": "I check reviews and if friends use it."},
+    {"question": "Have you deleted content?", "answer": "Yes, I delete chats and pictures from Snapchat when private."},
+    {"question": "What do you do before repair?", "answer": "I back up and delete sensitive photos and apps, log out of accounts."},
+    {"question": "Have you asked for help?", "answer": "Yes, a friend helped once. I felt uncomfortable but trusted them."},
+    {"question": "Who do you trust most?", "answer": "Close friends and family; prefer WhatsApp for private chats."},
+    {"question": "Do you use code words?", "answer": "Yes, slang and nicknames with friends."},
+    {"question": "Have you helped someone install an app?", "answer": "Yes, helped my parents install WhatsApp and explained OTP safety."},
+    {"question": "Do you know how to stop permissions?", "answer": "Yes, I disable permissions in settings when needed."},
+    {"question": "What do you do with warnings?", "answer": "I uninstall or check reviews before keeping an app."},
+    {"question": "What do you think happens when you give an app access?", "answer": "I think it stores info for ads or to connect with friends."},
+    {"question": "Have you hesitated to repair?", "answer": "Yes, I delete sensitive stuff before repair."},
+    {"question": "Has a repair person opened your gallery?", "answer": "Yes, once. I felt uncomfortable and asked them to stop."},
+    {"question": "Do you use a password?", "answer": "Yes, fingerprint and PIN. Only I know it."},
+    {"question": "Do you think local apps are safer?", "answer": "Safety depends on reputation, not origin."},
+    {"question": "Who do you turn to?", "answer": "Friends or online search for help."},
+    {"question": "Do people influence your safety thinking?", "answer": "Yes, friends share tips about scams and privacy."}
+  ],
+  "scenarios": {
+    "Broken Phone": "Back up data, delete sensitive files, then take to a trusted repair shop.",
+    "Sharing with Family": "Hide or log out of social apps before lending the phone.",
+    "Installing a New App": "Check reviews and permissions; avoid apps asking for too much access.",
+    "Helping Elderly Relative": "Explain OTP safety and help install WhatsApp, warn them about unknown links.",
+    "Using a Borrowed Phone": "Ignore private content and don’t open others’ apps.",
+    "Selling Phone": "Do a full factory reset and remove accounts before handing it over.",
+    "Cloud Backup Surprise": "Was surprised by deleted photos in cloud; now check and clear backups.",
+    "Free Public WiFi": "Avoid banking on public WiFi; use mobile data or VPN if necessary.",
+    "Lottery Call": "Ignore and block such calls; never share personal details.",
+    "Sharing Account Details": "Only share or transfer money after verifying and only to trusted family."
+  }
+}
