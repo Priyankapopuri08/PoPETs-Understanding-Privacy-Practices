@@ -5,7 +5,7 @@ Paper title: **“I Just Press Allow”: Understanding Privacy Practices of New 
 Requested Badge: **Available**
 
 ## Description
-This repository contains 50 interview transcripts collected and analyzed for the 2026 Privacy Enhancing Technologies Symposium (PETS 26) paper titled *“I Just Press Allow”: Understanding Privacy Practices of New Internet*. 
+This repository contains 50 interview transcripts collected and analyzed for the 2026 Privacy Enhancing Technologies Symposium (PETS 26) paper titled *“I Just Press Allow”: Understanding Privacy Practices of New Internet Users in Urban India*. 
 
 The `interviews_1/` folder contains 50 files, each named using a unique identifier assigned to a specific participant (for instance, "P1" or "Participant 1"). Before viewing the dataset, we recommend reading the paper for an understanding of the research questions and interview protocol.
 
