@@ -1,0 +1,40 @@
+{
+  "participant_id": "P45",
+  "occupation": "Shop Helper",
+  "age": 44,
+  "education": "2nd standard",
+  "qa": [
+    {"question": "What do you mainly use your phone for?", "answer": "I mainly use my phone for calling the shop owner, customers, and family members. Sometimes customers call to ask if items are available. I also use WhatsApp to receive messages about work timings or payments. In the evening, I watch YouTube videos for entertainment and news."},
+    {"question": "Do you share your phone with others?", "answer": "Yes, I share my phone with my wife and sometimes with my children. They use it to make calls or watch videos. I don’t mind sharing because we are family, but I feel uneasy if someone else uses it."},
+    {"question": "What apps and features do you frequently use?", "answer": "I mostly use phone calls, WhatsApp, YouTube, and the camera. I use the camera to take photos of shop items if the owner asks. I don’t use many other apps because I don’t understand them well."},
+    {"question": "Do you read app permissions before allowing them?", "answer": "No, I don’t read them. I cannot understand English properly. When the phone asks for permission, I just press ‘Allow’ so the app works."},
+    {"question": "How do you decide whether an app is safe to use?", "answer": "If the shop owner, my friends, or my children say it is okay, then I use it. I don’t download apps on my own. Usually, someone else installs them for me."},
+    {"question": "Have you ever deleted messages, photos, or apps for privacy?", "answer": "Yes, I delete photos after work is done, especially if they are related to customers or shop items. I also delete WhatsApp messages sometimes when my phone storage becomes full."},
+    {"question": "What do you do before giving your phone for repair?", "answer": "I remove the SIM card and memory card. I don’t know how to delete everything properly, so I just hope the repair person does not check my personal photos or messages."},
+    {"question": "Have you asked someone for help with phone problems?", "answer": "Yes, I usually ask my children or the shop owner. Sometimes I go to a local mobile repair shop. I feel worried because they can see my phone, but I don’t have any other option."},
+    {"question": "Who do you trust most when sharing personal or sensitive information?", "answer": "I trust my wife and children. I don’t trust strangers or people from the shop with personal matters."},
+    {"question": "Have you used code words or nicknames to keep something private?", "answer": "Yes, I save some contacts with short names so others don’t understand who they are. For example, I don’t save full names."},
+    {"question": "Have you ever helped someone install or use an app?", "answer": "I helped my wife learn how to answer WhatsApp calls and send voice messages. I didn’t explain permissions because I don’t understand them myself."},
+    {"question": "Do you know how to stop an app from using your camera, microphone, or location?", "answer": "No, I don’t know how to do that. I didn’t know apps could use those things without opening them."},
+    {"question": "What do you do when you get warning messages on your phone?", "answer": "I get scared and close the message. I usually show it to my children or ask someone who knows phones better."},
+    {"question": "What do you think happens when you give an app access to your contacts or photos?", "answer": "I think the app can see those photos or contacts. I don’t know what happens after that."},
+    {"question": "Have you ever hesitated to take your phone for repair because of private content?", "answer": "Yes, because family photos and WhatsApp messages are there. I worry someone might look at them."},
+    {"question": "Has a repair person ever opened your photos or apps without asking?", "answer": "Once, the repair person opened my gallery saying storage is full. I felt uncomfortable but didn’t say anything."},
+    {"question": "Do you use a lock screen on your phone?", "answer": "Yes, I use a pattern lock. My wife and children also know it."},
+    {"question": "Do you think local apps are safer than international ones?", "answer": "I don’t know the difference. I use whatever apps others tell me to use."},
+    {"question": "Who do you turn to when you don’t understand phone settings?", "answer": "I ask my children or sometimes the shop owner."},
+    {"question": "Do people around you influence how you think about online safety?", "answer": "Yes, my children tell me not to share OTPs and not to answer unknown calls. I follow what they say."}
+  ],
+  "scenarios": {
+    "Broken Phone": "Before giving my phone for repair, I remove the SIM card. If my children are there, I ask them to delete photos. Otherwise, I just give it and worry.",
+    "Sharing with Family": "If my wife or children use my phone, I don’t mind. If a message comes, I check it later.",
+    "Installing a New App": "I don’t install apps myself. I ask my children or friends to install them.",
+    "Helping Elderly Relative": "I help them make calls and answer calls. I don’t explain about app permissions.",
+    "Using Someone Else’s Phone": "I only make the call I need and return the phone quickly.",
+    "Giving Away Phone": "I ask my children to delete everything before giving the phone to someone else.",
+    "Cloud Backup Surprise": "I don’t know about cloud backup. If deleted photos come back, I will be very worried.",
+    "Free Public WiFi": "I don’t use free WiFi. I only use mobile data.",
+    "Lottery Call": "I receive such calls sometimes. I cut the call and block the number.",
+    "Emergency Bank Transfer": "If someone asks for money urgently, I call them directly or ask my children before doing anything."
+  }
+}

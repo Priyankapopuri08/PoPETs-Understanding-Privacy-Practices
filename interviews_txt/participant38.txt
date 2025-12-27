@@ -1,0 +1,44 @@
+P38, College student (1st year, B.Com), Age: 18years, Education: Intermediate completed
+Phone: New entry-level smartphone (self-purchased with savings)
+Digital Literacy: Moderate to high (comfortable with settings, Snapchat user)
+Main Phone Use: I use it for chatting on WhatsApp, posting on Snapchat, watching cricket on YouTube, and studying through apps like Google Classroom.
+Phone Sharing: No, I don’t share it with anyone. I like to keep my phone private.
+Favorite Apps: Snapchat, WhatsApp, YouTube. I know some apps ask for permissions like location and camera, but I allow only what I think is needed.
+Permission Reading: I check them if it looks suspicious. If it's a trusted app, I skip reading.
+App Trust: If it’s popular or friends use it, I trust it. I also check the ratings.
+Content Deletion: Yes, I delete Snapchat messages and WhatsApp chats after sending something private.
+Phone Repair: I would delete gallery content and sign out of apps. I also change my lock before giving it.
+Help with Problems: If it’s serious, I ask my elder cousin. I feel uncomfortable if someone checks my photos.
+Trusted People: I trust only 2–3 close friends. I avoid sharing private stuff online.
+Code Words: Yes! I use nicknames, emojis, or initials for people in chats.
+Helping Others: I helped my neighbor set up Instagram and explained permissions briefly.
+Permission Control: Yes, I go into app settings and turn off mic or location when not needed.
+Warning Messages: If an app gives a warning, I Google it or uninstall the app immediately.
+Contacts/Photos Access: I think the app uses it for suggestions, but I try to limit access.
+Repair Hesitation: Yes, I don’t trust repair people. I delete chats, private photos, and change my password.
+Apps Opened by Repairer: It hasn’t happened to me, but my friend’s gallery was opened. That made me extra careful.
+Password Use: Yes. Pattern + fingerprint lock.
+App Origin Preference: Doesn’t matter if it’s Indian or foreign — I care about reviews and how the app behaves.
+Tech Help: Cousin or online videos. I follow YouTube tech channels.
+Influence from Others: Yes, friends and Instagram reels make me aware of scams or privacy issues.
+Scenario Responses (Elaborated)
+Broken Phone (Repair Shop)
+  If my phone breaks, I first delete all my private chats, gallery images, and remove my Google account. I also log out of Instagram and Snapchat. Then I give it for repair. I don’t feel safe otherwise.
+Sharing Phone with Family
+  I don’t usually give my phone, but if I have to, I clear my notifications, close apps, and hand it only for a few minutes. I don’t want family to read anything personal.
+Installing a New App
+  I check Play Store ratings and reviews. If it asks for weird permissions (like access to SMS or camera for a game), I cancel the installation. I’ve learned that from experience.
+Helping an Elderly Relative
+  I helped my grandmother download a pension app. I installed it and showed her only what was necessary. I didn’t explain permissions — she wouldn’t understand, and it would confuse her.
+Using a Borrowed Phone
+  If a notification or image pops up while I’m using someone else’s phone, I just lock the screen immediately. I won’t mention it. Everyone deserves privacy.
+Giving Away a Phone
+  Before giving away a phone, I format it twice. I also log out of my Gmail, clear downloads, and remove any memory card or SIM. Only then I hand it over.
+Cloud Backup Surprise
+  Yes, once I deleted a private photo from the phone but it was still on Google Photos. Now I’ve turned off auto-sync and check the trash too.
+Using Free Public WiFi
+  I use free WiFi to watch YouTube sometimes, but I avoid logging into banking or Gmail. I know it can be risky. If needed, I turn on VPN.
+Receiving a Lottery Call
+  I got a call like that once. They said I won ?1 lakh. I told them “wrong number” and blocked it immediately. Too many scams these days.
+Emergency Bank Transfer Request
+  If it’s from a real friend, I confirm with a phone call first. Then I use UPI to send. If anything feels off, I don’t do it.

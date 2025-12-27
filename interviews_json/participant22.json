@@ -1,0 +1,40 @@
+{
+  "participant_id": "P22",
+  "occupation": "Student",
+  "age": 22,
+  "education": "B.Tech",
+  "qa": [
+    {"question": "What do you mainly use your phone for?", "answer": "Online classes, Zoom, Google Classroom, WhatsApp, Instagram, YouTube, Netflix."},
+    {"question": "Do you share your phone with others?", "answer": "No, only sometimes my mother for calls."},
+    {"question": "What are your favorite apps?", "answer": "WhatsApp, Google Classroom, Gmail, YouTube, Instagram."},
+    {"question": "Do you read permissions?", "answer": "Yes, I usually read them."},
+    {"question": "How do you decide if an app is safe?", "answer": "I check reviews, ratings, developer, and permissions."},
+    {"question": "Have you deleted content?", "answer": "Yes, I regularly delete old chats, screenshots, and apps."},
+    {"question": "What do you do before repair?", "answer": "I back up data, log out, and prefer authorized service centers."},
+    {"question": "Have you asked for help?", "answer": "Yes, classmates, seniors, or YouTube tutorials."},
+    {"question": "Who do you trust most?", "answer": "Parents and close friends."},
+    {"question": "Do you use code words?", "answer": "Yes, initials or emojis in group chats."},
+    {"question": "Have you helped someone install an app?", "answer": "Yes, I helped my parents and grandparents install WhatsApp, UPI apps, and video call apps."},
+    {"question": "Do you know how to stop permissions?", "answer": "Yes, I manage permissions in app settings."},
+    {"question": "What do you do with warnings?", "answer": "I uninstall the app or search online to confirm."},
+    {"question": "What do you think happens when you give access?", "answer": "I think the app can read and store that data."},
+    {"question": "Have you hesitated to repair?", "answer": "Yes, I hesitate if I haven’t backed up or cleaned my phone."},
+    {"question": "Has a repair person opened your gallery?", "answer": "No, not so far."},
+    {"question": "Do you use a password?", "answer": "Yes, fingerprint and PIN, plus app locks."},
+    {"question": "Do you think local apps are safer?", "answer": "Not necessarily. Safety depends on developer practices."},
+    {"question": "Who do you turn to?", "answer": "I search online or ask friends."},
+    {"question": "Do people influence your safety thinking?", "answer": "Yes, friends and seniors share info about scams and privacy settings."}
+  ],
+  "scenarios": {
+    "Broken Phone": "I back up everything, log out, and take it to an authorized service center.",
+    "Sharing with Family": "I close personal apps and notifications beforehand.",
+    "New App Requesting Permissions": "I check developer, reviews, and permissions carefully.",
+    "Helping Elderly Relative": "I help them install apps and explain privacy basics.",
+    "Using Someone Else’s Phone": "I only use the required function.",
+    "Giving Away Phone": "I do a full factory reset and remove accounts.",
+    "Cloud Backup Surprise": "I regularly check and delete items from cloud trash.",
+    "Free Public WiFi": "I avoid banking or college accounts, use VPN if needed.",
+    "Lottery Call": "I block and report as spam.",
+    "Friend Needs Help": "I verify by calling before sending money."
+  }
+}

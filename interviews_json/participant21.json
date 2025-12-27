@@ -1,0 +1,40 @@
+{
+  "participant_id": "P21",
+  "occupation": "Daily wage worker",
+  "age": 42,
+  "education": "9th class",
+  "qa": [
+    {"question": "What do you mainly use your phone for?", "answer": "Calling customers and relatives, WhatsApp for sending photos of stitched clothes, YouTube bhajans."},
+    {"question": "Do you share your phone with others?", "answer": "Yes, my daughter and husband also use my phone."},
+    {"question": "What are your favorite apps?", "answer": "WhatsApp and YouTube."},
+    {"question": "Do you read permissions?", "answer": "No, I just press Allow or OK."},
+    {"question": "How do you decide if an app is safe?", "answer": "If my daughter or nephew says it is okay, I use it."},
+    {"question": "Have you deleted content?", "answer": "Yes, I deleted some customer photos."},
+    {"question": "What do you do before repair?", "answer": "I don’t know how to delete anything, so I just give the phone."},
+    {"question": "Have you asked for help?", "answer": "Yes, I ask my daughter or neighbor’s boy."},
+    {"question": "Who do you trust most?", "answer": "I trust talking in person."},
+    {"question": "Do you use code words?", "answer": "Yes, sometimes nicknames with my sister."},
+    {"question": "Have you helped someone install an app?", "answer": "No, I ask for help myself."},
+    {"question": "Do you know how to stop permissions?", "answer": "No, I didn’t know apps can use those things."},
+    {"question": "What do you do with warnings?", "answer": "I get scared and ask my daughter."},
+    {"question": "What do you think happens when you give access?", "answer": "I think maybe they only use it to work properly."},
+    {"question": "Have you hesitated to repair?", "answer": "Yes, but I had no choice."},
+    {"question": "Has a repair person opened your gallery?", "answer": "Yes, once the repair guy opened my photo gallery."},
+    {"question": "Do you use a password?", "answer": "No, because my husband and daughter also use the phone."},
+    {"question": "Do you think local apps are safer?", "answer": "I don’t know."},
+    {"question": "Who do you turn to?", "answer": "My daughter or nephew."},
+    {"question": "Do people influence your safety thinking?", "answer": "Yes, my daughter told me not to open strange messages."}
+  ],
+  "scenarios": {
+    "Broken Phone": "I give it to the shop and hope they don’t look inside.",
+    "Sharing with Family": "If I get a message when my daughter is using the phone, she reads it out.",
+    "New App Requesting Permissions": "I don’t install apps. My daughter decides.",
+    "Helping Elderly Relative": "I’m not good with apps myself.",
+    "Using Someone Else’s Phone": "If I see something private, I ignore it.",
+    "Giving Away Phone": "I will ask someone to delete everything.",
+    "Cloud Backup Surprise": "I don’t know what cloud is.",
+    "Free Public WiFi": "I don’t use WiFi in cafes.",
+    "Lottery Call": "I delete such messages.",
+    "Friend Needs Help": "If a close friend needs money, I give in person."
+  }
+}

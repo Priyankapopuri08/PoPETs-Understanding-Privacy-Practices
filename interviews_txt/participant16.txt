@@ -1,0 +1,68 @@
+P16, Daily wage worker, Age: 30 years, Education: 4th class
+Q1: What do you mainly use your phone for?
+A: I use my phone mostly for WhatsApp to talk to my sister and niece, and to take orders from customers. Sometimes, I watch stitching videos on YouTube. I don’t use many apps.
+Q2: Do you share your phone with others?
+A: Yes, my children use it sometimes to watch cartoons, and my husband uses it when his phone is charging. I don’t mind, but I ask them not to open my messages.
+Section 2: Awareness and Perceptions
+Q3: What are your favorite apps or features on your phone?
+A: WhatsApp and camera. I like taking photos of dresses I stitch to show customers. I don’t really know what these apps collect. I don’t think about that.
+Q4: When an app asks for permission, like to access your location or camera, do you read and understand what it means?
+A: No, I just press ‘allow’ if it is needed. I don’t understand what those things mean. Sometimes I ask my niece.
+Q5: How do you decide whether an app or website is safe to use?
+A: If my niece or son-in-law says it’s okay, I use it. I don’t install things by myself. I don’t trust unknown apps.
+Section 3: Practices and Behaviors
+Q6: Have you ever deleted a message, photo, or app because you didn’t want someone to see it?
+A: Yes, I deleted some voice messages from a customer once because I didn’t want my husband to get confused or feel bad. It was nothing wrong, just to avoid any misunderstanding.
+Q7: If your phone stops working and you need to give it for repair, what do you do before handing it over?
+A: I remove my SIM and memory card. I also delete some WhatsApp chats. But I don’t know how to remove everything.
+Q8: Have you ever asked someone to help you with a phone problem?
+A: Yes, my niece helps me. I trust her. I feel a little shy if she sees some personal photos, so I tell her first.
+Section 4: Trust and Sharing
+Q9: Who do you trust most when sharing personal or sensitive information?
+A: I prefer speaking in person. I don’t share personal matters over phone or WhatsApp. Even voice messages feel risky.
+Q10: Have you used code words or nicknames to keep something private?
+A: Sometimes, yes. I use names or short words with my sister that others won’t understand. It’s our way of talking.
+Section 5: Digital Literacy and Consent
+Q11: Have you ever helped someone install or use an app?
+A: No, I don’t know how. I always ask others for help. I only know how to open WhatsApp and watch YouTube.
+Q12: Do you know how to stop an app from using your camera, microphone, or location?
+A: No, I don’t know these things. I never changed any of those settings.
+Q13: When you get a warning message (“this app may harm your phone”), what do you usually do?
+A: I stop and show it to my son or niece. I don’t understand what it means.
+Q14: What do you think happens when you give an app access to your contacts or photos?
+A: I think maybe it needs it to work. I never thought about whether they are storing or sharing it.
+Section 6: Privacy and Repair
+Q15: Have you ever hesitated to take your phone for repair because of private content?
+A: Yes, I waited for my niece to delete some things before giving it to the shop. I feel nervous.
+Q16: Has a repair person ever opened your gallery or apps without asking?
+A: Once a boy opened the gallery and said “Ma’am, your memory is full.” I didn’t like it, but I didn’t say anything. Just nodded.
+Q17: Do you use a password or lock screen on your phone? Why or why not?
+A: No, it’s too confusing for me. And if my phone locks, I can’t open it again.
+Section 7: Trust and Social Influence
+Q18: Do you think local apps are safer than international ones? Why?
+A: I don’t know. I only use what others help me install. I don’t care if it’s local or foreign.
+Q19: Who do you turn to when you don’t understand a phone or app setting?
+A: My niece or sometimes my neighbor’s son. They help me without making fun.
+Q20: Do people around you influence how you think about online safety?
+A: Yes, they say don’t click strange links or accept unknown calls. So I try to follow that.
+Scenarios
+Scenario 1: Broken Phone
+A: I will delete some chats and remove the SIM card. Then I give it to the repair shop. I hope they don’t open my photos.
+Scenario 2: Sharing with Family
+A: If a message comes, I quickly open it or tell my husband, “Don’t read, it’s stitching order.”
+Scenario 3: New App Requesting Permissions
+A: I won’t install it unless someone I trust tells me it’s okay. I don’t know what the permissions mean.
+Scenario 4: Helping Elderly Relative
+A: I am the elderly one, I think! Others help me. I don’t explain permissions to anyone.
+Scenario 5: Using Someone Else’s Phone
+A: I return it without touching anything. If something private comes up, I look away.
+Scenario 6: Giving Away Phone
+A: I will give it only after someone deletes my things. I don’t know how to do it myself.
+Scenario 7: Cloud Backup Surprise
+A: I don’t know about this. If I deleted photos and they come back, I would be very scared.
+Scenario 8: Free Public WiFi
+A: Never used that. I only use my mobile data. I’m scared someone might see my info.
+Scenario 9: Lottery Call
+A: Yes, I got one. I told my husband, and he said to block the number. I didn’t give any details.
+Scenario 10: Friend Needs Help
+A: I would ask my husband first. If we can help, we will. But I won’t send money just like that.

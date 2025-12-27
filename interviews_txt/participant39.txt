@@ -1,0 +1,68 @@
+P39, Age: 22 years, Education: B. Com 2nd year
+Q1: What do you mainly use your phone for?
+A: I use my phone for chatting on WhatsApp and Snapchat, watching videos on YouTube and Instagram, online classes through Google Meet, and checking bank balance through my UPI app. I also use it for shopping on Flipkart or Amazon sometimes.
+Q2: Do you share your phone with others?
+A: Not much. Sometimes my younger cousin borrows it to play games, but I stay nearby. I don’t like giving it to others, especially when there are private chats or banking apps open.
+Section 2: Awareness and Perceptions
+Q3: What are your favorite apps or features on your phone?
+A: I like Snapchat for sending funny videos and using filters. I also use YouTube a lot for tutorials and entertainment. I’m aware that apps may collect data, especially location and contacts, but I’m not always sure how much they actually take or where it goes.
+Q4: When an app asks for permission, like to access your location or camera, do you read and understand what it means?
+A: If it seems unnecessary—like a flashlight asking for location—I deny it. Otherwise, I allow it. I understand most permissions, but sometimes I just go with the flow if it’s a popular app.
+Q5: How do you decide whether an app or website is safe to use?
+A: If it’s highly rated on Play Store, has lots of downloads, and friends use it, I consider it safe. Also, if it’s in English and looks professional, I trust it more.
+Section 3: Practices and Behaviors
+Q6: Have you ever deleted a message, photo, or app because you didn’t want someone to see it?
+A: Yes. I’ve deleted private chats or screenshots from Snapchat before anyone could see them. Sometimes even memes, just to avoid awkward explanations.
+Q7: If your phone stops working and you need to give it for repair, what do you do before handing it over?
+A: I remove my SIM card, sign out of my banking apps, and delete photos that I don’t want anyone to see. I’ve heard stories about data leaks from repair shops.
+Q8: Have you ever asked someone to help you with a phone problem?
+A: Once or twice, I asked my tech-savvy friend about system update issues. But I made sure to close my chats and gallery first. I don’t like others checking my phone too much.
+Section 4: Trust and Sharing
+Q9: Who do you trust most when sharing personal or sensitive information?
+A: I prefer talking in person if something is really sensitive—like bank stuff or family matters. Apps are risky unless it’s someone very close.
+Q10: Have you used code words or nicknames to keep something private?
+A: Yes, with friends on Snapchat or WhatsApp, we use initials or emojis as code names so others can’t understand easily if they see the chat.
+Section 5: Digital Literacy and Consent
+Q11: Have you ever helped someone install or use an app?
+A: Yes, I’ve helped my aunt install Paytm. I explained how to do a transaction, but I didn’t go too deep into privacy permissions because she found it confusing.
+Q12: Do you know how to stop an app from using your camera, microphone, or location?
+A: Yes, I go to app settings and disable permissions. I even did that for Facebook and Instagram after watching a YouTube video about privacy.
+Q13: When you get a warning message (“this app may harm your phone”), what do you usually do?
+A: I uninstall it immediately unless it’s something I really need and trust. I’d rather play it safe.
+Q14: What do you think happens when you give an app access to your contacts or photos?
+A: I think it uses them to suggest friends or target ads. But I’m not sure if they store or sell the data. I’ve read about data leaks online.
+Section 6: Privacy and Repair
+Q15: Have you ever hesitated to take your phone for repair because of private content?
+A: Yes. That’s why I try to do small repairs myself or use service centers I trust. I don’t want my photos or chats seen by strangers.
+Q16: Has a repair person ever opened your gallery or apps without asking?
+A: Not that I know of. But I lock my gallery app and banking apps just in case.
+Q17: Do you use a password or lock screen on your phone? Why or why not?
+A: Yes, I use fingerprint and pattern lock. No one knows it. It’s basic security for me.
+Section 7: Trust and Social Influence
+Q18: Do you think local apps are safer than international ones? Why?
+A: Not really. I think international apps are more secure. Local apps sometimes look shady or don’t follow proper safety practices.
+Q19: Who do you turn to when you don’t understand a phone or app setting?
+A: I usually check YouTube tutorials or ask a friend from college who’s into tech.
+Q20: Do people around you influence how you think about online safety?
+A: Yes. One of my friends told me not to give permission to random apps and to use antivirus. I follow his advice sometimes.
+Scenarios
+Scenario 1: Broken Phone
+A: I’d back up my files, delete personal stuff, sign out of apps, and reset the phone if I can. I’d avoid handing it over as is.
+Scenario 2: Sharing with Family
+A: If someone close is using my phone and I get a private message, I’ll quickly take the phone back or use message previews off. I’ve also hidden chats before.
+Scenario 3: New App Requesting Permissions
+A: If it asks too many permissions, I cancel it or check reviews. I don’t just click “Allow” blindly.
+Scenario 4: Helping Elderly Relative
+A: I’d install the app and try to explain basic usage. But I’m not sure they’ll understand permissions, so I’d set the permissions for them carefully.
+Scenario 5: Using Someone Else’s Phone
+A: If I see something private, I ignore it completely. I’d feel awkward saying anything. It’s best to respect their privacy.
+Scenario 6: Giving Away Phone
+A: I’d factory reset the phone and remove my Google account before giving it away.
+Scenario 7: Cloud Backup Surprise
+A: I’d be surprised and confused. Then I’d go online to learn how to delete things from Google Photos too.
+Scenario 8: Free Public WiFi
+A: I’ve connected once, but I didn’t do any banking. I’ve heard it’s risky. If I have to, I use VPN.
+Scenario 9: Lottery Call
+A: I know that’s fake. I just hang up. Never give details. Even my parents know this now.
+Scenario 10: Friend Needs Help
+A: I’d help if it’s someone close, but I’d confirm the details on call and do the transaction carefully. I won’t share OTP or login info.

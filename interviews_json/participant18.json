@@ -1,0 +1,40 @@
+{
+  "participant_id": "P18",
+  "occupation": "Tailor",
+  "age": 34,
+  "education": "8th class",
+  "qa": [
+    {"question": "What do you mainly use your phone for?", "answer": "Calling family, listening to songs on YouTube, and using WhatsApp to send photos of clothes to customers."},
+    {"question": "Do you share your phone with others?", "answer": "Yes, my children sometimes use it to watch cartoons, and my husband uses it to check news or cricket scores."},
+    {"question": "What are your favorite apps?", "answer": "WhatsApp and YouTube. WhatsApp helps with customers and YouTube is good for learning new designs."},
+    {"question": "Do you read permissions?", "answer": "No, I usually press allow because otherwise the app doesn’t open."},
+    {"question": "How do you decide if an app is safe?", "answer": "I only install apps that my cousin or children suggest."},
+    {"question": "Have you deleted content?", "answer": "Yes, sometimes I delete messages from customers if I think my husband might not like it."},
+    {"question": "What do you do before repair?", "answer": "I try to remove my SIM card and memory card. My nephew helps me if I’m worried."},
+    {"question": "Have you asked for help?", "answer": "Yes, my nephew or neighbor’s boy. I feel nervous when they touch the phone."},
+    {"question": "Who do you trust most?", "answer": "I only talk about important or private things face to face."},
+    {"question": "Do you use code words?", "answer": "Not really. Sometimes I use initials for names when saving numbers."},
+    {"question": "Have you helped someone install an app?", "answer": "No, others usually help me."},
+    {"question": "Do you know how to stop permissions?", "answer": "No, I didn’t know we could do that."},
+    {"question": "What do you do with warnings?", "answer": "I get scared and ask someone before clicking anything."},
+    {"question": "What do you think happens when you give access?", "answer": "I think it just helps the app work."},
+    {"question": "Have you hesitated to repair?", "answer": "Yes, especially if I have customer orders or messages."},
+    {"question": "Has a repair person opened your gallery?", "answer": "Once, a shop person checked the gallery while fixing the camera. I didn’t like it."},
+    {"question": "Do you use a password?", "answer": "I use a pattern lock. My husband and children know it."},
+    {"question": "Do you think local apps are safer?", "answer": "I don’t know much about that."},
+    {"question": "Who do you turn to?", "answer": "My nephew or neighbor’s son."},
+    {"question": "Do people influence your safety thinking?", "answer": "Yes, my cousin once told me not to share OTP or click on unknown links."}
+  ],
+  "scenarios": {
+    "Broken Phone": "I would ask my nephew to help me delete personal things before repair.",
+    "Sharing with Family": "If a private message comes when my husband is using the phone, I delete things in advance.",
+    "New App Requesting Permissions": "I don’t install apps myself. If someone else is doing it, I just allow whatever they say.",
+    "Helping Elderly Relative": "I haven’t done this, but if someone asked, I would just do the installation.",
+    "Using Someone Else’s Phone": "If I see a private message or photo, I pretend I didn’t see it.",
+    "Giving Away Phone": "I would remove the SIM and memory card. I’d ask for help to erase everything else.",
+    "Cloud Backup Surprise": "I didn’t know that can happen. I would be surprised and ask someone to remove it.",
+    "Free Public WiFi": "I don’t use WiFi outside. I use my mobile data only.",
+    "Lottery Call": "I cut such calls immediately.",
+    "Friend Needs Help": "If it’s a very close friend or family member, I would help."
+  }
+}

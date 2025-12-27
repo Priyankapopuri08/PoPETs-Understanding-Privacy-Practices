@@ -1,0 +1,44 @@
+P42, Domestic worker, Age: 56years, Education: No formal schooling
+Phone: Basic second-hand smartphone (gifted by employer’s daughter)
+Digital Literacy: Very low (can make calls, send voice messages; cannot read English or navigate apps independently)
+Main Phone Use: I use the phone to make calls, send voice messages to my relatives on WhatsApp, and sometimes listen to devotional songs.
+Phone Sharing: I share it with my husband. He also uses it to talk to our son. We use it one after the other.
+Favorite Apps: Only WhatsApp. I don’t open anything else unless someone helps me. I don’t know what data is taken.
+Permission Reading: I cannot read what it says. My employer’s daughter presses the buttons when installing.
+App Trust: I only use what is already on the phone. If someone from the house I work at installs it, then it is okay.
+Content Deletion: I don’t know how to delete. Sometimes I ask my son to clean the phone if it becomes slow.
+Phone Repair: I give it directly to the shopkeeper. I don’t delete anything. I don’t know how.
+Help with Problems: My son or my employer’s daughter helps. I feel shy asking for help because they might see personal messages.
+Trusted People: I only trust my son. I don’t like others handling my phone.
+Code Words: I don’t use code words. I just record and send messages using voice.
+Helping Others: I never helped anyone. I myself ask others for help.
+Permission Control: I didn’t know this was possible.
+Warning Messages: I don’t understand what it says. If something pops up, I give it to my son.
+Contacts/Photos Access: I don’t know what it means. I thought it was just for helping send pictures or call people.
+Repair Hesitation: I feel nervous giving my phone to repair. I don’t want others to see my photos or messages, but I don’t know how to delete.
+Apps Opened by Repairer: Yes. Once the shopkeeper opened my WhatsApp and started laughing. I felt very bad.
+Password Use: No. My son said he will add one, but I forget the code, so I asked him to remove it.
+App Origin Preference: I don’t know which app is local or not. I don’t download anything myself.
+Tech Help: I ask my son or employer’s daughter.
+Influence from Others: Yes. My son told me not to share anything like Aadhaar or bank number over WhatsApp.
+Scenario Responses (Elaborated)
+Broken Phone (Repair Shop)
+  When my phone stopped charging, I took it to the shop. I didn’t delete anything because I don’t know how. The man opened my gallery and looked at photos. I didn’t like it, but I kept quiet. I told my son later.
+Sharing Phone with Family
+  My husband uses the phone too. I don’t hide anything, but sometimes if my son sends a message, I delete it after listening so my husband doesn’t ask questions.
+Installing a New App
+  I never install apps. If someone says I should use something, I ask them to do it. I don’t touch anything on my own.
+Helping an Elderly Relative
+  I am not able to help others. I ask others to help me. If someone older asks me, I tell them to go to their children.
+Using a Borrowed Phone
+  If I borrow someone’s phone and see anything private, I return it quickly. I don’t like checking other people’s things.
+Giving Away a Phone
+  When I gave my old phone to my niece, my son took the phone and deleted everything. I didn’t know how to do it.
+Cloud Backup Surprise
+  Yes, once I deleted a photo but it came back. I was confused. My son said it’s stored somewhere else. He stopped that option for me.
+Using Free Public WiFi
+  I don’t know how to connect to WiFi. My phone uses mobile data that my son recharges for me.
+Receiving a Lottery Call
+  Yes, I got a call saying I won ?2 lakh. I believed it and told my son. He shouted at me and blocked the number.
+Emergency Bank Transfer Request
+  If someone calls asking for money, I never send anything. I tell my son. He says people cheat like this, so I don’t trust any such calls.

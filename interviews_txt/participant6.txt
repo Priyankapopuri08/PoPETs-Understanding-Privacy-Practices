@@ -1,0 +1,62 @@
+P6, Auto-rickshaw Driver, Age: 45 years, Education: 10th class
+Q1: What do you mainly use your phone for?
+A.Mostly for calling passengers and using WhatsApp to coordinate rides. During free time, I watch YouTube videos or listen to devotional songs. I also sometimes check my bank balance using the bank’s SMS or app, if my nephew helps me.
+Q2: Do you share your phone with others?
+A.Yes, my two children sometimes use my phone to watch videos. My wife also uses it to check something on WhatsApp. I try to be careful and stay around when they use it.
+Q3: What are your favorite apps or features on your phone?
+A.WhatsApp because I can talk to people easily, and YouTube for entertainment. I never thought about what these apps collect from my phone.
+Q4: When an app asks for permission, like access to location or contacts, do you read and understand what it means?
+A.No, I just press "allow" because I think the app won’t work otherwise. Sometimes I ask my nephew what to do.
+Q5: How do you decide whether an app or website is safe to use?
+A.If many people have downloaded it or if my friends use it, then I also trust it. I don’t understand technical things, so I follow others.
+Q6: Have you ever deleted a message, photo, or app because you didn’t want someone to see it?
+A.Yes, I have deleted WhatsApp messages before if they were private or if I didn’t want my children to ask questions.
+Q7: If your phone stops working and you need to give it for repair, what do you do before handing it over?
+A.I remove the SIM card and memory card, but I don’t delete anything else. I never thought the repairman might check my photos.
+Q8: Have you ever asked someone to help you with a phone problem?
+A.Yes, I ask my nephew or a younger auto driver friend. I don’t feel shy with them—they’re like family.
+Q9: Who do you trust most when sharing personal or sensitive information?
+A.I prefer saying personal things face-to-face. I don’t trust calls or messages for that.
+Q10: Have you used code words or nicknames to keep something private?
+A.Yes, I use short names or jokes with close friends if we are talking about something sensitive.
+Q11: Have you ever helped someone install or use an app?
+A.I helped another driver download Google Maps. I only showed how to use it, didn’t talk about privacy or permissions.
+Q12: Do you know how to stop an app from using your camera or location?
+A.No, I’ve never done that. I didn’t know you could control it.
+Q13: When you get a warning message (“this app may harm your phone”), what do you usually do?
+A.I get scared and don’t install it. Sometimes I delete the app immediately.
+Q14: What do you think happens when you give an app access to your contacts or photos?
+A.I think the app uses it for its work, like helping me connect with friends. I didn’t know they might sell or share it.
+Q15: Have you ever hesitated to take your phone for repair because of private content?
+A.Not really. I just go to the local mobile guy. I don’t think he’ll check my stuff.
+Q16: Has a repair person ever opened your gallery or apps without asking?
+A.I don’t know. I don’t check after the repair. Maybe they do.
+Q17: Do you use a password or lock screen on your phone? Why or why not?
+A.Yes, I use a pattern lock, but my kids know it too. It’s just to avoid random people opening it.
+Q18: Do you think local apps are safer than international ones? Why?
+A.Not sure. If my friends say an app is good, I use it. Doesn’t matter if it’s Indian or foreign.
+Q19: Who do you turn to when you don’t understand a phone or app setting?
+A.My nephew or fellow drivers know better. They help me.
+Q20: Do people around you influence how you think about online safety?
+A.Yes, my nephew told me not to click on strange links and not to answer unknown lottery calls.
+Scenarios:
+Scenario 1: Broken Phone
+I remove the SIM card, that’s all. I don’t delete photos or messages. I trust the shop person.
+Scenario 2: Sharing a Phone with Family
+I took the phone quickly. I usually delete messages before giving the phone to them.
+Scenario 3: Installing a New App
+I’ll ask someone if it’s safe first. If it sounds risky, I won’t install it.
+Scenario 4: Helping an Elderly Relative
+I’ll install it, but I won’t explain permissions; they won’t understand anyway.
+Scenario 5: Using a Borrowed Phone
+I ignore it. I wouldn’t mention it. It’s their private matter.
+Scenario 6: Selling or Giving Away a Phone
+I deleted some photos and WhatsApp chats, but I don’t know how to reset the phone.
+Scenario 7: Cloud Backup Surprise:
+I get shocked. I didn’t know it was saving online. I’ll ask my nephew what to do.
+Scenario 8: Using Free Public WiFi:
+No, I avoid public WiFi for banking. I heard it’s not safe.
+Scenario 9: Receiving a lottery:
+No. My friends have warned me. I immediately cut the call.
+Scenario 10: Sharing account details:
+If he’s a close friend and I trust him, yes. But I’ll call and confirm first.

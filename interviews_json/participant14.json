@@ -1,0 +1,40 @@
+{
+  "participant_id": "P14",
+  "occupation": "Zomato Delivery Boy",
+  "age": 24,
+  "education": "10th class",
+  "qa": [
+    {"question": "What do you mainly use your phone for?", "answer": "I use it mostly for my delivery work—Google Maps, calls to customers, and checking orders on the Zomato app. I also use WhatsApp to stay in touch with my family and Snapchat to talk to a few friends. When I’m free, I watch reels on Instagram or videos on YouTube."},
+    {"question": "Do you share your phone with others?", "answer": "Sometimes my younger brother uses it to play games or watch videos. Rarely, my friend might borrow it for a call. I don’t like giving it out too much because everything is connected—my money apps, work app, and personal messages."},
+    {"question": "What are your favorite apps or features on your phone?", "answer": "Google Maps is very important for my job. WhatsApp and Instagram for staying connected, and I use Paytm for money transactions. I don’t think too much about what they collect, but I know some apps show me ads based on what I searched."},
+    {"question": "When an app asks for permission, like to access your location or contacts, do you read and understand what it means?", "answer": "Sometimes I do, especially if it's asking for location or camera. If it’s a well-known app, I just allow it. But if it looks shady or new, I avoid or ask a friend."},
+    {"question": "How do you decide whether an app or website is safe to use?", "answer": "If my friends use it or if it has good reviews on Play Store, I trust it. I also check how many downloads it has. If it’s a desi app and looks badly made, I don’t trust it even if it's local."},
+    {"question": "Have you ever deleted a message, photo, or app because you didn’t want someone to see it?", "answer": "Yes, a few times. I deleted chats with a friend because I didn’t want my girlfriend to misunderstand. I also cleared some screenshots before giving my phone to my brother."},
+    {"question": "If your phone stops working and you need to give it for repair, what do you do before handing it over?", "answer": "I delete private photos and log out of my banking app. I also try to set a screen lock. But sometimes I just hope they don’t check anything."},
+    {"question": "Have you ever asked someone to help you with a phone problem?", "answer": "Yes, my friend who knows more about phones. I feel a bit weird if they go through my messages, so I try to solve the problem by showing only the issue, not giving them the phone unlocked."},
+    {"question": "Who do you trust most when sharing personal or sensitive information?", "answer": "In person. For serious things like bank info, I don’t send it on WhatsApp. I’d rather call or meet the person."},
+    {"question": "Have you used code words or nicknames to keep something private?", "answer": "Yes. Me and my friend sometimes use emojis or fake names on WhatsApp so others don’t understand. Like calling someone ‘Battery’ instead of their real name."},
+    {"question": "Have you ever helped someone install or use an app?", "answer": "Yes, I helped an uncle in my neighborhood install Paytm. I explained how to link the account and said not to share OTPs or click on strange links."},
+    {"question": "Do you know how to stop an app from using your camera, microphone, or location?", "answer": "Yes. I go to settings and turn off permissions if I feel it’s too much. I did this for one app that kept asking for camera access."},
+    {"question": "When you get a warning message (‘this app may harm your phone’), what do you usually do?", "answer": "I uninstall it immediately. I once installed something that made the phone slow, so now I’m more careful."},
+    {"question": "What do you think happens when you give an app access to your contacts or photos?", "answer": "I think it might use that data for showing ads or sending things to others. I don’t like giving contact access unless it’s needed."},
+    {"question": "Have you ever hesitated to take your phone for repair because of private content?", "answer": "Yes. I don’t like strangers checking my photos or chats. I delete what I can before going."},
+    {"question": "Has a repair person ever opened your gallery or apps without asking?", "answer": "Once. I noticed later that my phone’s gallery was open. I felt really angry but didn’t say anything. Just didn’t go back there again."},
+    {"question": "Do you use a password or lock screen on your phone? Why or why not?", "answer": "Yes, fingerprint and pattern. My work and personal stuff are all there, and I don’t want anyone to open it randomly."},
+    {"question": "Do you think local apps are safer than international ones? Why?", "answer": "Not really. Some local apps are good, but many are buggy or look fake. I trust Google apps more. Still, I support Indian apps if they work well."},
+    {"question": "Who do you turn to when you don’t understand a phone or app setting?", "answer": "My friend who works at a phone shop. He explains it better than watching YouTube videos."},
+    {"question": "Do people around you influence how you think about online safety?", "answer": "Yes, especially one friend who’s really careful. He told me not to use the same password for everything and not to click on unknown links."}
+  ],
+  "scenarios": {
+    "Broken Phone": "I would back up my photos to Google, clear chats, log out of Paytm and Zomato, and then give the phone. I don’t want my earnings or chats seen.",
+    "Sharing with Family": "If I got a private message while my brother was using my phone, I’d delete it quickly or use the WhatsApp lock feature.",
+    "New App Requesting Permissions": "I’d check if it looks genuine, see reviews, and then decide. If it asks for contact and location for no reason, I don’t install.",
+    "Helping Elderly Relative": "Yes, I would explain what each permission means. Like, ‘this app wants to know your location because it needs to show nearby doctors.’",
+    "Using Someone Else’s Phone": "I’d ignore the message or photo and give the phone back. I’d never mention it unless it’s something urgent or serious.",
+    "Giving Away Phone": "I would factory reset it and remove the SIM and SD card before giving it away. I learned that from a YouTube video.",
+    "Cloud Backup Surprise": "I’d be shocked. I didn’t know deleted photos could still be online. I would then go and delete from the cloud, too.",
+    "Free Public WiFi": "I won’t use it for banking. Maybe to check YouTube, yes, but not to log in into Paytm or UPI apps.",
+    "Lottery Call": "I block them. I know it’s fake. They try to trick people into giving OTPs.",
+    "Friend Needs Help": "I’d transfer if I trust the friend and if it’s an emergency. But I’ll double-check the details and call to confirm."
+  }
+}

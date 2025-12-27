@@ -1,0 +1,40 @@
+{
+  "participant_id": "P32",
+  "occupation": "Shopkeeper",
+  "age": 40,
+  "education": "2nd class",
+  "qa": [
+    {"question": "What do you mainly use your phone for?", "answer": "Calls, WhatsApp with suppliers/customers, YouTube cooking videos."},
+    {"question": "Do you share your phone with others?", "answer": "Yes, husband and son use it daily."},
+    {"question": "What are your favorite apps?", "answer": "WhatsApp and YouTube. Trust them because popular."},
+    {"question": "Do you read permissions?", "answer": "No, just click Allow."},
+    {"question": "How do you decide if an app is safe?", "answer": "Trust apps used by family/friends."},
+    {"question": "Have you deleted content?", "answer": "Yes, delete WhatsApp messages sometimes."},
+    {"question": "What do you do before repair?", "answer": "Give phone as is, don’t know how to delete data."},
+    {"question": "Have you asked for help?", "answer": "Yes, son or repair shop. Feel uncomfortable but trust them."},
+    {"question": "Who do you trust most?", "answer": "Husband and close family."},
+    {"question": "Do you use code words?", "answer": "No."},
+    {"question": "Have you helped someone install an app?", "answer": "Yes, neighbors with WhatsApp."},
+    {"question": "Do you know how to stop permissions?", "answer": "No."},
+    {"question": "What do you do with warnings?", "answer": "Ignore or ask son."},
+    {"question": "What do you think happens when you give access?", "answer": "App can see contacts, maybe send messages."},
+    {"question": "Have you hesitated to repair?", "answer": "Sometimes worry but still go."},
+    {"question": "Has a repair person opened your gallery?", "answer": "Yes, once. Felt bad but stayed quiet."},
+    {"question": "Do you use a password?", "answer": "No, hard to remember."},
+    {"question": "Do you think local apps are safer?", "answer": "Think local apps better for language/culture."},
+    {"question": "Who do you turn to?", "answer": "Son or shopkeeper."},
+    {"question": "Do people influence your safety thinking?", "answer": "Yes, family warns about unknown calls."}
+  ],
+  "scenarios": {
+    "Broken Phone": "Give phone to repair shop as is, worry about privacy.",
+    "Sharing with Family": "If husband borrows and private message arrives, hide or delete later.",
+    "Installing New App": "Might install if looks useful, don’t understand permissions.",
+    "Helping Elderly Relative": "Help install but don’t explain permissions.",
+    "Using Borrowed Phone": "Ignore private messages/photos.",
+    "Selling Phone": "Delete photos/messages but don’t know full reset.",
+    "Cloud Backup Surprise": "Surprised deleted photos stayed in cloud.",
+    "Free Public WiFi": "Avoid banking, prefer mobile data.",
+    "Lottery Call": "Never share details, know it’s scam.",
+    "Sharing Account Details": "Only transfer money to close family in emergency."
+  }
+}

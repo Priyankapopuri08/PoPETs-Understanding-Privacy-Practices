@@ -1,0 +1,40 @@
+{
+  "participant_id": "P8",
+  "occupation": "Home-based tailor",
+  "age": 38,
+  "education": "8th class",
+  "qa": [
+    {"question": "What do you mainly use your phone for?", "answer": "I use it for WhatsApp voice messages to my customers, to take pictures of clothes I stitch, and sometimes for YouTube sewing videos. My daughter helps me with new things."},
+    {"question": "Do you share your phone with others?", "answer": "Yes, my eldest daughter uses it for schoolwork, and my husband uses it if his phone isn’t working."},
+    {"question": "What are your favorite apps or features on your phone?", "answer": "WhatsApp is useful for talking and sending stitched photos. YouTube gives me ideas for new designs. I don’t know what they take from my phone."},
+    {"question": "When an app asks for permission, like access to location or contacts, do you read and understand what it means?", "answer": "No, I just click ‘OK’ because I don’t know what it means. I ask my daughter if something looks confusing."},
+    {"question": "How do you decide whether an app or website is safe to use?", "answer": "If my daughter or sister-in-law uses it, then I also feel it’s okay."},
+    {"question": "Have you ever deleted a message, photo, or app because you didn’t want someone to see it?", "answer": "Yes, I delete some WhatsApp messages if I think my husband will misunderstand."},
+    {"question": "If your phone stops working and you need to give it for repair, what do you do before handing it over?", "answer": "I remove the memory card and hide some photos in another folder."},
+    {"question": "Have you ever asked someone to help you with a phone problem?", "answer": "Yes, I always ask my daughter. I don’t mind her seeing messages or photos—she knows everything."},
+    {"question": "Who do you trust most when sharing personal or sensitive information?", "answer": "I only trust face-to-face. Even on the phone, I feel someone may be listening."},
+    {"question": "Have you used code words or nicknames to keep something private?", "answer": "Yes, sometimes I say ‘blue cloth’ when I mean something else in front of the kids."},
+    {"question": "Have you ever helped someone install or use an app?", "answer": "I’ve shown another tailor how to send voice messages on WhatsApp."},
+    {"question": "Do you know how to stop an app from using your camera or location?", "answer": "No, my daughter might know."},
+    {"question": "When you get a warning message (‘this app may harm your phone’), what do you usually do?", "answer": "I close the app and ask my daughter what to do."},
+    {"question": "What do you think happens when you give an app access to your contacts or photos?", "answer": "Maybe it uses them to help me. I never thought they could go somewhere else."},
+    {"question": "Have you ever hesitated to take your phone for repair because of private content?", "answer": "Yes, once I waited for my daughter to delete some messages before we went."},
+    {"question": "Has a repair person ever opened your gallery or apps without asking?", "answer": "I don’t know. I hope not. I never checked after repair."},
+    {"question": "Do you use a password or lock screen on your phone? Why or why not?", "answer": "No, it’s too confusing. I just keep the phone with me."},
+    {"question": "Do you think local apps are safer than international ones? Why?", "answer": "Maybe Indian ones are better because the language is easy."},
+    {"question": "Who do you turn to when you don’t understand a phone or app setting?", "answer": "My daughter or my niece."},
+    {"question": "Do people around you influence how you think about online safety?", "answer": "Yes, my sister-in-law told me not to give bank details online."}
+  ],
+  "scenarios": {
+    "Broken Phone": "I ask my daughter to remove photos and messages before giving it to the shop.",
+    "Sharing a Phone with Family": "If a private message comes, I quickly open it myself and then delete it.",
+    "Installing a New App": "I ask my daughter first. If she says yes, only then I do it.",
+    "Helping an Elderly Relative": "I’ve helped my mother use WhatsApp, but I didn’t explain permissions. She won’t understand.",
+    "Using a Borrowed Phone": "If I see a private photo, I look away and never say anything.",
+    "Selling or Giving Away a Phone": "I’d delete WhatsApp and photos, but don’t know how to format the phone.",
+    "Cloud Backup Surprise": "I’d be shocked. I didn’t know that deleted things could still be online.",
+    "Using Free Public WiFi": "I don’t use WiFi in public. My daughter told me it’s not safe.",
+    "Receiving a lottery": "I got one once. I laughed and cut the call. My niece had warned me.",
+    "Sharing account details": "I will only send money if my daughter says it’s okay. I don’t know how to check properly."
+  }
+}

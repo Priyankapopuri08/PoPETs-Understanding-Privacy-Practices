@@ -1,0 +1,61 @@
+P22, Female, Student, Age: 22 years, Education: B.Tech
+Q1. What do you mainly use your phone for?
+I use my phone mainly for online classes, college-related communication, and studying. I attend Zoom and Google Meet lectures, access Google Classroom, and read PDFs. I also use WhatsApp, Instagram, YouTube, and sometimes Netflix for relaxation.
+Q2. Do you share your phone with others?
+No, I usually don’t share my phone. Sometimes my mother might ask to make a call, but I don’t give my phone for regular use because it has college apps and personal chats.
+Q3. What apps and features do you frequently use?
+I use WhatsApp, Google Classroom, Google Drive, Gmail, Zoom, YouTube, Instagram, and a few note-taking apps. I also use UPI apps for small payments.
+Q4. Do you read app permissions before allowing them?
+Yes, I usually read them. If an app asks for permissions that don’t make sense, like contacts or microphone access for a simple app, I deny it.
+Q5. How do you decide whether an app is safe to use?
+I check reviews, ratings, and who developed the app. I also look at permission requirements. If it’s recommended by college or friends, I feel more confident.
+Q6. Have you ever deleted messages, photos, or apps for privacy?
+Yes, I regularly delete old chats, screenshots, and apps I no longer use. I also clear private photos or documents after submitting assignments.
+Q7. What do you do before giving your phone for repair?
+I back up my data, log out of important apps, and remove my Google account if possible. I prefer authorized service centers and avoid local shops.
+Q8. Have you asked someone for help with phone problems?
+Yes, I ask my classmates, seniors, or sometimes check YouTube tutorials. I feel more comfortable fixing issues myself if possible.
+Q9. Who do you trust most when sharing personal or sensitive information?
+I trust my parents and very close friends. I don’t share sensitive information over WhatsApp unless it’s really necessary.
+Q10. Have you used code words or nicknames to keep something private?
+Yes, sometimes my friends and I use initials or emojis in group chats so others won’t understand if they see the messages.
+Q11. Have you ever helped someone install or use an app?
+Yes, I have helped my parents and grandparents install WhatsApp, UPI apps, and video call apps. I explain basic usage and also warn them about scams.
+Q12. Do you know how to stop an app from using your camera, microphone, or location?
+Yes, I go to app settings and manage permissions. I often restrict background location and microphone access.
+Q13. What do you do when you get warning messages on your phone?
+I take them seriously. I usually uninstall the app or search online to confirm if it’s safe.
+Q14. What do you think happens when you give an app access to your contacts or photos?
+I think the app can read and store that data and possibly sync it to their servers. That’s why I’m careful with permissions.
+Q15. Have you ever hesitated to take your phone for repair because of private content?
+Yes, I hesitate if I haven’t backed up or cleaned my phone. I make sure personal data is protected first.
+Q16. Has a repair person ever opened your photos or apps without asking?
+No, not so far. I usually stay nearby when repairs are being done.
+Q17. Do you use a lock screen on your phone?
+Yes, I use fingerprint and PIN. I also lock some apps like WhatsApp and UPI with extra security.
+Q18. Do you think local apps are safer than international ones?
+Not necessarily. I think safety depends more on the developer and privacy practices than the country.
+Q19. Who do you turn to when you don’t understand phone settings?
+I usually search online or watch YouTube tutorials. Sometimes I ask my friends from college.
+Q20. Do people around you influence how you think about online safety?
+Yes, my friends and college seniors often share information about scams, data leaks, and privacy settings, which helps me stay careful.
+Scenario 1: Broken Phone
+I back up everything, log out of important apps, and take the phone to an authorized service center. If it’s not urgent, I delay repair until I’m sure data is safe.
+Scenario 2: Sharing Phone with Family
+If I give my phone briefly, I close personal apps and notifications beforehand.
+Scenario 3: Installing a New App
+I check permissions, reviews, and the developer carefully before installing. I avoid APK files or unknown links.
+Scenario 4: Helping an Elderly Relative
+I help them install apps and explain basic privacy settings, like not sharing OTPs or clicking unknown links.
+Scenario 5: Using a Borrowed Phone
+I only use the required function and avoid looking at notifications or messages.
+Scenario 6: Giving Away Phone
+I do a full factory reset, remove all accounts, and check storage before giving it away.
+Scenario 7: Cloud Backup Surprise
+I know about cloud backups and regularly check and delete items from cloud trash.
+Scenario 8: Using Free Public WiFi
+I avoid using banking or college accounts on public WiFi. If needed, I use a VPN.
+Scenario 9: Lottery Call
+I block the number and report it as spam.
+Scenario 10: Emergency Bank Transfer
+I verify by calling the person directly or checking with family before sending any money.

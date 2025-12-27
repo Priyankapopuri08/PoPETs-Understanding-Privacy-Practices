@@ -1,0 +1,63 @@
+P5, Watchman, Age: 43 years, Education: 5th class
+Q1: What do you mainly use your phone for?
+A.I use a phone for 3 to 4 hours a day
+I mostly use it to make and receive calls. Sometimes I send voice messages on WhatsApp to my relatives. My wife also uses the phone to talk to her sister.
+Q2: Do you share your phone with others?
+A.Yes, my wife uses the phone more than me. It’s our common phone. We don't have separate phones.
+Q3: What are your favorite apps or features on your phone?
+A.I use WhatsApp and sometimes watch news or videos on YouTube. I don’t know anything about apps taking information.
+Q4: When an app asks for permission, like access to location or contacts, do you read and understand what it means?
+A.No, I don’t understand that. My younger son installs everything. I just use it after that.
+Q5: How do you decide whether an app or website is safe to use?
+A.If my son says it's okay, then I will use it. I don’t install anything on my own.
+Q6: Have you ever deleted a message, photo, or app because you didn’t want someone to see it?
+A.Sometimes I delete WhatsApp photos when the phone says memory is full. That’s all I know.
+Q7: If your phone stops working and you need to give it for repair, what do you do before handing it over?
+A.I take it to the repair shop or ask my son to check. I don’t know how to reset or delete anything.
+Q8: Have you ever asked someone to help you with a phone problem?
+A.Yes, always. My younger son helps with all problems. He knows everything.
+Q9: Who do you trust most when sharing personal or sensitive information?
+A.Only my family. If needed, I will call directly. I don’t send anything private through apps.
+Q10: Have you used code words or nicknames to keep something private?
+A.No. I don’t talk like that. I just speak openly or don't say anything at all.
+Q11: Have you ever helped someone install or use an app?
+A.No. I still ask others to help me. I don’t know how to install anything.
+Q12: Do you know how to stop an app from using your camera or location?
+A.No idea. I don’t even know if apps do that.
+Q13: When you get a warning message (“this app may harm your phone”), what do you usually do?
+A.I show it to my son and ask what to do. I never press anything myself.
+Q14: What do you think happens when you give an app access to your contacts or photos?
+A.I think it’s for helping me send messages. I didn’t know it takes anything else.
+Q15: Have you ever hesitated to take your phone for repair because of private content?
+A.No. I just handed it to the repair guy. I don’t know what’s private or not. I don’t feel it’s a problem.
+Q16: Has a repair person ever opened your gallery or apps without asking?
+A.Maybe at the shop once. I didn’t think much about it.
+Q17: Do you use a password or lock screen on your phone? Why or why not?
+A.Yes. My son put a number lock. He told me how to open it. My wife also knows.
+Q18: Do you think local apps are safer than international ones? Why?
+A.I don’t know which is which. I just use WhatsApp, and that’s enough.
+Q19: Who do you turn to when you don’t understand a phone or app setting?
+A.Always my second son. He explains things to me slowly.
+Q20: Do people around you influence how you think about online safety?
+A.Yes. My children tell me not to answer strange calls or open messages from unknown numbers.
+Scenarios:
+Scenario 1: Broken Phone
+I take it to the repair shop. I don’t delete anything. I give them the password if they ask. I trust them to fix it.
+Scenario 2: Sharing a Phone with Family
+My wife uses the phone more. Sometimes she asks me to delete videos or chats from her groups to keep space.
+Scenario 3: Installing a New App
+I don’t install any apps. My son does that. If he says it’s okay, I use it.
+Scenario 4: Helping an Elderly Relative
+I can’t help anyone with apps. If someone asks, I send them to my son.
+Scenario 5: Using a Borrowed Phone
+If I borrow someone’s phone and see a private message, I will return it immediately and won’t talk about it.
+Scenario 6: Selling or Giving Away a Phone
+When I gave my old phone to my cousin, my son deleted everything and formatted it. I don’t know how to do that.
+Scenario 7: Cloud Backup Surprise:
+I once deleted photos, but they came back. I thought the phone had an issue. My son explained about Google backup.
+Scenario 8: Using Free Public WiFi:
+I don’t know how to use WiFi. My phone uses mobile data. My children told me not to use free WiFi for banking.
+Scenario 9: Receiving a lottery:
+I got a call saying I won 1 lakh. I didn’t believe it. My son told me it’s fake, so I cut the call.
+Scenario 10: Sharing account details:
+If a friend is in trouble and I trust them, I ask my son to send money from my account. I don’t know how to do it myself.

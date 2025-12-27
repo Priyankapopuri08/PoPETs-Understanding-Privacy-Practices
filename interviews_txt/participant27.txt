@@ -1,0 +1,62 @@
+P27, Shopkeeper, Age: 35 years, Education: 12th class
+Q1: What do you mainly use your phone for?
+A: I use my phone mostly for WhatsApp to communicate with suppliers and customers. I also use Snapchat to share photos and stay connected with friends. Sometimes I watch videos on YouTube for entertainment.
+Q2: Do you share your phone with others? If yes, with whom and how often?
+A: I usually don’t share my phone with others. Sometimes my younger brother uses it to check messages if his phone is not working, but not often.
+Q3: What are your favorite apps or features on your phone? Why do you use those apps? Have you ever thought about what information these apps might be collecting from your phone?
+A: WhatsApp is my main app for work and family. I also like Snapchat because it’s fun to share photos and videos that disappear. I know these apps collect some data like contacts and location, but I don’t worry much about it.
+Q4: When an app asks for permission, like to access your location, camera, or contacts, do you read and understand what it means?
+A: I try to read the permissions, but I don’t always understand them fully. If the app seems useful, I usually allow the permissions.
+Q5: How do you decide whether an app or website is safe to use?
+A: I look for apps that have good ratings and are popular. I also trust apps that my friends use and recommend.
+Q6: Have you ever deleted a message, photo, or app because you didn’t want someone to see it?
+A: Yes, I have deleted some private messages and photos to keep them confidential, especially from family members who sometimes borrow my phone.
+Q7: If your phone stops working and you need to give it for repair, what do you do before handing it over?
+A: I back up my data and then delete sensitive information before giving it for repair. I’m careful about who fixes my phone.
+Q8: Have you ever asked someone (friend/repairer/child) to help you with a phone problem? How did you feel about them seeing your personal data?
+A: Yes, sometimes a friend helps me. I feel okay because I trust him, but I still feel a bit cautious about my privacy.
+Q9: Who do you trust most when sharing personal or sensitive information?
+A: I trust close family members more for sharing sensitive information and prefer talking in person or via WhatsApp with end-to-end encryption.
+Q10: Have you used code words, nicknames, or indirect language to keep something private?
+A: Occasionally, yes. With friends, we sometimes use slang or nicknames when talking about sensitive topics.
+Q11: Have you ever helped someone install or use an app? What did you explain to them?
+A: Yes, I helped my parents install WhatsApp and explained basic privacy settings to them.
+Q12: Do you know how to stop an app from using your camera, microphone, or location?
+A: Yes, I know how to change permissions in my phone settings and have done it before.
+Q13: When you get a warning message (e.g., “this app may harm your phone”), what do you usually do?
+A: I usually uninstall the app or ask a knowledgeable friend before installing.
+Q14: What do you think happens when you give an app access to your contacts or photos?
+A: I think the app can use the contacts to connect me with people and might use photos for sharing, but I’m aware some data might be stored or shared with others.
+Q15: Have you ever hesitated to take your phone for repair because of private content?
+A: Yes, I worry about my messages and photos being seen by repair people, so I try to clear sensitive data first.
+Q16: Has a repair person, friend, or shopkeeper ever opened your gallery or apps without asking while using or fixing your phone? How did you feel?
+A: Once at a repair shop, the technician looked at my photos without asking. I felt uncomfortable and told him to stop.
+Q17: Do you use a password or lock screen on your phone? Why or why not? Does anyone else know your password?
+A: Yes, I use a PIN lock. No one else knows it because I want to keep my information secure.
+Q18: Do you think apps from local developers are safer than international ones? Why?
+A: I feel local apps might be safer because they understand our language and culture, but international apps are usually better made.
+Q19: Who do you turn to when you don’t understand a phone or app setting?
+A: I usually ask my tech-savvy friends or look up videos online.
+Q20: Do people around you (family, friends, shopkeepers) influence the way you think about online safety?
+A: Yes, my family advises me to be careful with passwords and not share personal info online.
+Scenarios
+Scenario 1: Broken Phone
+A: I back up data and delete sensitive information before taking my phone to a trusted repair shop.
+Scenario 2: Sharing a Phone with Family
+A: I keep private messages hidden and sometimes use app locks for certain apps if someone else uses my phone.
+Scenario 3: Installing a New App
+A: I check app reviews and permissions, and if I’m unsure, I ask a friend before installing.
+Scenario 4: Helping an Elderly Relative
+A: I install apps for my parents and explain permissions in simple terms to help them understand.
+Scenario 5: Using a Borrowed Phone
+A: If I see private messages or photos, I respect privacy and avoid opening them.
+Scenario 6: Selling or Giving Away a Phone
+A: I do a factory reset and remove all accounts before giving the phone to someone else.
+Scenario 7: Cloud Backup Surprise
+A: I was surprised to find photos in the cloud after deleting them locally. Now I try to manage cloud backups carefully.
+Scenario 8: Using Free Public WiFi
+A: I avoid doing sensitive tasks on public WiFi and prefer mobile data for banking or payments.
+Scenario 9: Receiving a Lottery Call
+A: I don’t trust such calls and never share my details.
+Scenario 10: Sharing Account Details
+A: I would only transfer money for very close family members, and after confirming their request.
