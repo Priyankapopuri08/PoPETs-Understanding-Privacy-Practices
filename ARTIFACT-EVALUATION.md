@@ -15,15 +15,12 @@ In the absence of a formal ethics board/IRB for human-subjects research at our u
 
 Participants were informed that:
 
-participation is voluntary,
+1. Participation is voluntary
+2. They may withdraw anytime without consequence
+3. Responses will be anonymized and used only for research
+4. Anonymized transcripts and structured responses may be publicly published for non-commercial research use, with no personal identifiers linked to the dataset.
 
-they may withdraw anytime without consequence,
-
-responses will be anonymized and used only for research, and
-
-anonymized transcripts and structured responses may be publicly published for non-commercial research use, with no personal identifiers linked to the dataset.
-
-With permission, interviews and screen/audio recordings were collected, transcribed, and fully de-identified (removing names, phone numbers, employers, device IDs, and exact locations).
+With permission, interviews and audio recordings were collected, transcribed, and fully de-identified (removing names, phone numbers).
 
 ## Environment 
 Each transcript is stored as a .txt file, which can be easily opened by any text-editing or word-processing application. The overall size of the dataset is about 330KB. 
