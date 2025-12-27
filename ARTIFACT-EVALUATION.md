@@ -11,7 +11,7 @@ The `interviews_1/` folder contains 50 files, each named using a unique identifi
 
 ### Security/Privacy Issues and Ethical Concerns (All badges)
 
-In the absence of a formal ethics board/IRB for human-subjects research at our university, we followed established ICTD ethical research guidelines.
+In the absence of a formal ethics board/IRB for human-subjects research at our university, we followed established ICTD ethical research guidelines as outlined by Dearden et al.,[1].
 
 Participants were informed that:
 
@@ -33,4 +33,6 @@ To clone the repository and navigate into the project folder, run the following 
 ```console
 $ git clone https://github.com/Priyankapopuri08/PoPETs-Understanding-Privacy-Practices.git
 $ cd PoPETs-Understanding-Privacy-Practices
-``` 
+```
+## References
+[1] Dearden, A. et al., 2019. Ethical guidelines for ICTD research.
