@@ -11,7 +11,7 @@ The `interviews_1/` folder contains 50 files, each named using a unique identifi
 
 ### Security/Privacy Issues and Ethical Concerns (All badges)
 
-In the absence of a formal ethics board/IRB for human-subjects research at our university, we followed established ICTD ethical research guidelines as outlined by Dearden et al.,[1].
+In the absence of a formal ethics board/IRB for human-subjects research at our university, we followed established ICTD ethical research guidelines as outlined by Dearden et al.,\cite{dearden2019ethical}.
 
 Participants were informed that:
 
@@ -35,4 +35,10 @@ $ git clone https://github.com/Priyankapopuri08/PoPETs-Understanding-Privacy-Pra
 $ cd PoPETs-Understanding-Privacy-Practices
 ```
 ## References
-[1] Dearden, A. et al., 2019. Ethical guidelines for ICTD research.
+@inproceedings{dearden2019ethical,
+  title={Ethical standards for the ICTD/ICT4D community: A participatory process and a co-created document},
+  author={Dearden, Andy and Kleine, Dorothea},
+  booktitle={Proceedings of the Tenth international conference on information and Communication technologies and development},
+  pages={1--5},
+  year={2019}
+}
