@@ -20,7 +20,7 @@ Participants were informed that:
 3. Responses will be anonymized and used only for research
 4. Anonymized transcripts and structured responses may be publicly published for non-commercial research use, with no personal identifiers linked to the dataset.
 
-With permission, interviews and audio recordings were collected, transcribed, and fully de-identified (removing names, phone numbers).
+With permission from the participants, interviews and audio recordings were collected, transcribed, and fully de-identified (removing names, phone numbers).
 
 ## Environment 
 Each transcript is stored as a .txt file, which can be easily opened by any text-editing or word-processing application. The overall size of the dataset is about 330KB. 
