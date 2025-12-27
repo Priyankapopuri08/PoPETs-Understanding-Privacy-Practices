@@ -1,0 +1,40 @@
+{
+  "participant_id": "P11",
+  "occupation": "Homemaker",
+  "age": 54,
+  "education": "8th class",
+  "qa": [
+    {"question": "What do you mainly use your phone for?", "answer": "Mostly for calling my children and relatives. I use WhatsApp to see the photos my daughter sends. Sometimes I listen to devotional songs on YouTube, but only when my granddaughter helps me open the app."},
+    {"question": "Do you share your phone with others?", "answer": "Yes, my granddaughter uses it to play games and watch cartoons when she visits. My husband also sometimes takes it to call someone if his phone is charging."},
+    {"question": "What are your favorite apps or features on your phone?", "answer": "WhatsApp is my favorite because I get to see my family’s photos. I don’t really think about what the apps collect. My daughter once told me not to click on anything new."},
+    {"question": "When an app asks for permission, like access to location or contacts, do you read and understand what it means?", "answer": "No, I don’t understand all that. If it says ‘Allow,’ I just ask my granddaughter or wait for my daughter to visit."},
+    {"question": "How do you decide whether an app or website is safe to use?", "answer": "I don’t install apps on my own. My daughter does it. If she says it’s okay, I trust it."},
+    {"question": "Have you ever deleted a message, photo, or app because you didn’t want someone to see it?", "answer": "No, I don’t know how to delete things. But sometimes if I think a message is not nice, I ask my granddaughter to remove it."},
+    {"question": "If your phone stops working and you need to give it for repair, what do you do before handing it over?", "answer": "I give it as it is. I don’t know how to remove anything. I just hope the person repairing it is honest."},
+    {"question": "Have you ever asked someone to help you with a phone problem?", "answer": "Yes, my granddaughter or daughter. I feel shy when they look at my photos or messages, but I trust them."},
+    {"question": "Who do you trust most when sharing personal or sensitive information?", "answer": "I only talk in person. I don’t type anything personal on WhatsApp. My children taught me to be careful."},
+    {"question": "Have you used code words or nicknames to keep something private?", "answer": "No, I don’t do that. But I sometimes say things in Malayalam if I don’t want others to understand."},
+    {"question": "Have you ever helped someone install or use an app?", "answer": "No, I only get help. I don’t understand much, so I don’t help others with that."},
+    {"question": "Do you know how to stop an app from using your camera or location?", "answer": "No. I’ve never done that. I don’t even know where to find that setting."},
+    {"question": "When you get a warning message (‘this app may harm your phone’), what do you usually do?", "answer": "I get scared and don’t touch it. I wait for my daughter to come and look."},
+    {"question": "What do you think happens when you give an app access to your contacts or photos?", "answer": "I don’t know. Maybe it helps it work better? I haven’t thought about that."},
+    {"question": "Have you ever hesitated to take your phone for repair because of private content?", "answer": "Not really. I don’t think there’s anything secret in my phone. But I worry they might break something."},
+    {"question": "Has a repair person ever opened your gallery or apps without asking?", "answer": "I don’t know. I don’t check after giving it. I just pray nothing bad happens."},
+    {"question": "Do you use a password or lock screen on your phone? Why or why not?", "answer": "No. I forget the password. My daughter kept one once and I couldn’t use the phone for two days!"},
+    {"question": "Do you think local apps are safer than international ones? Why?", "answer": "I don’t know the difference. I just use what my daughter installs. If it’s in Malayalam or simple English, I like it more."},
+    {"question": "Who do you turn to when you don’t understand a phone or app setting?", "answer": "My granddaughter or daughter. They explain it slowly and help me."},
+    {"question": "Do people around you influence how you think about online safety?", "answer": "Yes. My daughter told me not to click on unknown links or messages. So now I don’t open anything unless she says so."}
+  ],
+  "scenarios": {
+    "Broken Phone": "I would just give it to the shop. I don’t know how to remove anything. I ask the person to fix it carefully.",
+    "Sharing with Family": "If my husband or granddaughter uses the phone, I don’t worry. But if someone else uses it, I get nervous.",
+    "New App Requesting Permissions": "I wouldn’t install it. I wait for someone from my family to do it and tell me if it’s okay.",
+    "Helping Elderly Relative": "I’ve never done that. I’m usually the one being helped. I don’t understand these permission things.",
+    "Using Someone Else’s Phone": "If I saw a message or photo, I would close it and give the phone back quickly.",
+    "Giving Away Phone": "I wouldn’t know what to do. I would give it to my daughter to check and clean before giving it to someone else.",
+    "Cloud Backup Surprise": "That would confuse me. I thought deleting something meant it’s gone.",
+    "Free Public WiFi": "I never connect to such things. I don’t know how to.",
+    "Lottery Call": "I have had such calls. I don’t believe them. I tell them ‘no’ and hang up.",
+    "Friend Needs Help": "I don’t know how to send money, so I would ask my daughter to do it. I won’t do it on my own."
+  }
+}

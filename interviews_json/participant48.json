@@ -1,0 +1,40 @@
+{
+  "participant_id": "P48",
+  "occupation": "Homemaker",
+  "age": 38,
+  "education": "MBA",
+  "qa": [
+    {"question": "What do you mainly use your phone for?", "answer": "I use my phone for work-related communications, like emails, HRMS portals, Google Drive, and Zoom meetings. Personally, I use WhatsApp, Instagram, a bit of Netflix, and my banking apps. I manage team rosters and employee documents on secured cloud drives. My phone is a bridge between my personal and professional life."},
+    {"question": "Do you share your phone with others?", "answer": "No, I do not share my phone. My husband might borrow it to make a call, but he knows not to open apps or notifications. Otherwise, it is strictly personal."},
+    {"question": "What apps and features do you frequently use?", "answer": "WhatsApp, HRMS systems, Google Sheets, banking apps, and Instagram. I know they collect data, and I manage those permissions carefully. For HR documents, I use a secure vault app."},
+    {"question": "Do you read app permissions before allowing them?", "answer": "Yes, I check permissions whenever I install something new, but I might skip a few for non-critical apps like photo editors."},
+    {"question": "How do you decide which apps to trust?", "answer": "I trust apps with good reviews, known brands, and preferably those that are compliant with GDPR or Indian privacy standards."},
+    {"question": "Do you delete content for privacy reasons?", "answer": "Yes, I delete sensitive employee documents, payslips, or any salary details after sending them. I also clear screenshots with confidential HR memos regularly."},
+    {"question": "What do you do before giving your phone for repair?", "answer": "I back up my data, sign out of every HRMS app, delete financial apps, then wipe the device before going to an authorized Apple store. If I have no time to wipe, I postpone the repair."},
+    {"question": "Who do you ask for help with phone-related problems?", "answer": "I will reach out to Apple support or my office IT team. I never ask random technicians."},
+    {"question": "Who do you trust most when sharing personal or sensitive information?", "answer": "My husband and my office IT team. Beyond them, no one."},
+    {"question": "Have you used code words or nicknames to keep information private?", "answer": "Yes, in HR messages, we use codes for employees or projects so that details are not easily exposed."},
+    {"question": "Have you helped others install or use apps?", "answer": "Yes, I have helped junior staff install HR apps. I always explain about giving permission carefully, especially camera and microphone access."},
+    {"question": "Do you manage app permissions actively?", "answer": "Yes, I monitor permissions and remove camera or mic access for apps I rarely use."},
+    {"question": "How do you respond to warning messages from apps?", "answer": "I take them seriously. I verify them on the App Store or by asking IT."},
+    {"question": "What do you think happens when you allow access to contacts or media?", "answer": "I know that when I allow contact or media access, those files could sync to external servers."},
+    {"question": "Have you ever hesitated to take your phone for repair due to privacy concerns?", "answer": "Yes, because there is employee data on my phone. I never leave it without wiping or signing out of accounts."},
+    {"question": "Has anyone ever accessed your data during repair without permission?", "answer": "No, because I take every step to wipe data first."},
+    {"question": "Do you use a lock screen or additional security?", "answer": "Yes – Face ID, plus a 6-digit passcode, and my WhatsApp has an extra fingerprint lock."},
+    {"question": "Do you prefer local or foreign apps?", "answer": "I use whichever app is transparent with its privacy policy and well-known. I do not blindly prefer local or foreign."},
+    {"question": "Who helps you when you don’t understand phone settings?", "answer": "My husband and the office IT team."},
+    {"question": "Do people around you influence your online safety practices?", "answer": "My office has cybersecurity trainings, which influence me a lot to follow proper practices."}
+  ],
+  "scenarios": {
+    "Broken Phone": "I back up, sign out of HRMS and bank apps, wipe everything, then only take it to an authorized center. Otherwise I delay repairs.",
+    "Sharing with Family": "If my husband borrows it, I make sure I close all HR apps before handing over.",
+    "Installing a New App": "I check the developer, permissions, reviews, and only then install. I avoid any random app links from WhatsApp.",
+    "Helping Elderly Relative": "I help my father-in-law install pension apps, but I carefully check permissions and explain how to deny unnecessary ones.",
+    "Using Someone Else’s Phone": "If someone’s notification pops up, I ignore it and just use what I need.",
+    "Giving Away Phone": "I remove iCloud, remove all user data, factory reset, and check Find My iPhone is off before giving it to anyone.",
+    "Cloud Backup Surprise": "I check the cloud trash bin regularly and permanently delete sensitive files.",
+    "Free Public WiFi": "If I must use free WiFi, I avoid anything HR or banking-related and use a VPN.",
+    "Lottery Call": "Block and report immediately.",
+    "Emergency Bank Transfer": "I confirm on a video call with the person before sending money."
+  }
+}

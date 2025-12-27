@@ -1,0 +1,40 @@
+{
+  "participant_id": "P41",
+  "occupation": "Daily wage worker",
+  "age": 42,
+  "education": "9th class",
+  "qa": [
+    {"question": "Main Phone Use", "answer": "Calls with customers/relatives, WhatsApp for dress photos, YouTube bhajans."},
+    {"question": "Phone Sharing", "answer": "Yes, daughter for classes/messages, husband for news/cricket."},
+    {"question": "Favorite Apps", "answer": "WhatsApp and YouTube. Never thought about data collection."},
+    {"question": "Permission Reading", "answer": "No, just press Allow/OK. Daughter sometimes does it."},
+    {"question": "App Trust", "answer": "If daughter/nephew says okay, I use it."},
+    {"question": "Content Deletion", "answer": "Yes, deleted customer dress photos to keep private."},
+    {"question": "Phone Repair", "answer": "Give phone as is, don’t know how to delete."},
+    {"question": "Help with Problems", "answer": "Ask daughter or neighbor’s boy, feel nervous when they open phone."},
+    {"question": "Trusted People", "answer": "Prefer in-person conversations."},
+    {"question": "Code Words", "answer": "Yes, nicknames/joke words with sister."},
+    {"question": "Helped Someone", "answer": "No, I ask for help instead."},
+    {"question": "Permission Control", "answer": "No, didn’t know apps can use those things."},
+    {"question": "Warning Messages", "answer": "Get scared, ask daughter, stopped using one app after red warning."},
+    {"question": "Access to Contacts/Photos", "answer": "Think apps only use them to work properly."},
+    {"question": "Repair Hesitation", "answer": "Yes, but had no choice."},
+    {"question": "Repair Person Behavior", "answer": "Yes, repair guy opened gallery. Didn’t like it."},
+    {"question": "Password Use", "answer": "No, because husband/daughter also use phone."},
+    {"question": "Local vs International Apps", "answer": "Don’t know, trust if installed by someone I know."},
+    {"question": "Tech Help", "answer": "Ask daughter or nephew."},
+    {"question": "Social Influence", "answer": "Yes, daughter warns not to open strange messages."}
+  ],
+  "scenarios": {
+    "Broken Phone": "Give to shop, hope they don’t look inside.",
+    "Sharing with Family": "Daughter reads messages aloud, I ask back if personal.",
+    "New App Requesting Permissions": "Daughter decides, I don’t install apps.",
+    "Helping Elderly Relative": "Not good with apps, daughter helps elder sister.",
+    "Using Borrowed Phone": "Ignore private content.",
+    "Giving Away Phone": "Ask someone to delete everything.",
+    "Cloud Backup Surprise": "Don’t know what cloud is, would feel surprised/afraid.",
+    "Free Public WiFi": "Don’t use WiFi, only mobile data.",
+    "Lottery Call": "Deleted message after daughter told me.",
+    "Friend Needs Help": "Give money in person, don’t know transfers."
+  }
+}
