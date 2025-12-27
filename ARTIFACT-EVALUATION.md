@@ -11,7 +11,7 @@ The `interviews_1/` folder contains 50 files, each named using a unique identifi
 
 ### Security/Privacy Issues and Ethical Concerns (All badges)
 
-In the absence of a formal ethics board/IRB for human-subjects research at our university, we followed established ICTD ethical research guidelines as outlined by Dearden et al.,[1]: (https://dl.acm.org/doi/abs/10.1145/3287098.3287134).
+In the absence of a formal ethics board/IRB for human-subjects research at our university, we followed established ICTD ethical research guidelines as outlined by Dearden et al.,[1](https://dl.acm.org/doi/abs/10.1145/3287098.3287134).
 
 Participants were informed that:
 
