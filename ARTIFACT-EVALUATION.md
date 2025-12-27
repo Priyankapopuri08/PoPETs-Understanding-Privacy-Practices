@@ -7,7 +7,7 @@ Requested Badge: **Available**
 ## Description
 This repository contains 50 interview transcripts collected and analyzed for the 2026 Privacy Enhancing Technologies Symposium (PETS 26) paper titled *“I Just Press Allow”: Understanding Privacy Practices of New Internet Users in Urban India*. 
 
-The `interviews_1/` folder contains 50 files, each named using a unique identifier assigned to a specific participant (for instance, "P1" or "Participant 1"). Before viewing the dataset, we recommend reading the paper for an understanding of the research questions and interview protocol.
+The `interviews_json/` folder contains 50 files, each named using a unique identifier assigned to a specific participant (for instance, "P1" or "Participant 1"). Before viewing the dataset, we recommend reading the paper for an understanding of the research questions and interview protocol.
 
 ### Security/Privacy Issues and Ethical Concerns (All badges)
 
@@ -24,10 +24,10 @@ Participants were informed that:
 With permission from the participants, interviews and audio recordings were collected, transcribed, and fully de-identified (removing names, phone numbers).
 
 ## Environment 
-Each transcript is stored as a .txt file, which can be easily opened by any text-editing or word-processing application. The overall size of the dataset is about 330KB. 
+Each transcript is stored as .json file, which can be easily opened by any text-editing or word-processing application such as Notepadd++, Notepad. The overall size of the dataset is about 300KB. 
 
 ### Accessibility (All badges)
-You can access the dataset by using the following persistent GitHub link: [https://github.com/Priyankapopuri08/PoPETs-Understanding-Privacy-Practices/tree/main/interviews_1]
+You can access the dataset by using the following persistent GitHub link: [https://github.com/Priyankapopuri08/PoPETs-Understanding-Privacy-Practices/tree/main/interviews_json]
 
 To clone the repository and navigate into the project folder, run the following commands:
 
