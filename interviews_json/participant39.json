@@ -1,40 +1,100 @@
 {
-  "participant_id": "P39",
-  "occupation": "College student (B.Com 2nd year)",
-  "age": 22,
-  "education": "Undergraduate",
-  "qa": [
-    {"question": "Main Phone Use", "answer": "WhatsApp, Snapchat, YouTube, Instagram, Google Meet, UPI banking, shopping apps."},
-    {"question": "Phone Sharing", "answer": "Rarely. Cousin plays games under supervision."},
-    {"question": "Favorite Apps", "answer": "Snapchat and YouTube. Aware of data collection but unsure extent."},
-    {"question": "Permission Reading", "answer": "Deny if unnecessary, allow if logical/popular."},
-    {"question": "App Trust", "answer": "Highly rated, many downloads, friends use, professional look."},
-    {"question": "Content Deletion", "answer": "Yes, delete private chats/screenshots from Snapchat."},
-    {"question": "Phone Repair", "answer": "Remove SIM, sign out banking apps, delete sensitive photos."},
-    {"question": "Help with Problems", "answer": "Ask tech-savvy friend, close chats/gallery first."},
-    {"question": "Trusted People", "answer": "Prefer in-person for sensitive info."},
-    {"question": "Code Words", "answer": "Yes, initials/emojis in chats."},
-    {"question": "Helping Others", "answer": "Helped aunt install Paytm, explained transactions but not permissions."},
-    {"question": "Permission Control", "answer": "Yes, disable in settings after learning from YouTube."},
-    {"question": "Warning Messages", "answer": "Uninstall immediately unless trusted."},
-    {"question": "Access to Contacts/Photos", "answer": "Think used for ads/friend suggestions, unsure about storage/selling."},
-    {"question": "Repair Hesitation", "answer": "Yes, prefer trusted service centers."},
-    {"question": "Repair Person Behavior", "answer": "Not known, but lock gallery/banking apps."},
-    {"question": "Password Use", "answer": "Fingerprint and pattern lock."},
-    {"question": "Local vs International Apps", "answer": "Trust international apps more secure."},
-    {"question": "Tech Help", "answer": "YouTube tutorials or tech-savvy friend."},
-    {"question": "Social Influence", "answer": "Friends advise on permissions/antivirus."}
-  ],
-  "scenarios": {
-    "Broken Phone": "Backup, delete personal stuff, sign out, reset if possible.",
-    "Sharing with Family": "Hide chats, disable previews, take phone back quickly.",
-    "New App with Permissions": "Cancel if too many permissions, check reviews.",
-    "Helping Elderly Relative": "Install app, explain basics, set permissions for them.",
-    "Using Borrowed Phone": "Ignore private content.",
-    "Giving Away Phone": "Factory reset, remove Google account.",
-    "Cloud Backup Surprise": "Surprised deleted photos stayed in Google Photos, learned to delete from cloud.",
-    "Free Public WiFi": "Avoid banking, use VPN if needed.",
-    "Lottery Call": "Hang up, never share details.",
-    "Friend Needs Help": "Confirm on call, careful with transactions, never share OTP."
-  }
+    "participant_id": "P39",
+    "occupation": "College student (B.Com 2nd year)",
+    "age": 22,
+    "education": "Undergraduate",
+    "qa": [
+        {
+            "question": "Main Phone Use",
+            "answer": "WhatsApp, Snapchat, YouTube, Instagram, Google Meet, UPI banking, shopping apps."
+        },
+        {
+            "question": "Phone Sharing",
+            "answer": "Rarely. Cousin plays games under supervision."
+        },
+        {
+            "question": "Favorite Apps",
+            "answer": "Snapchat and YouTube. Aware of data collection but unsure extent."
+        },
+        {
+            "question": "Permission Reading",
+            "answer": "Deny if unnecessary, allow if logical/popular."
+        },
+        {
+            "question": "App Trust",
+            "answer": "Highly rated, many downloads, friends use, professional look."
+        },
+        {
+            "question": "Content Deletion",
+            "answer": "Yes, delete private chats/screenshots from Snapchat."
+        },
+        {
+            "question": "Phone Repair",
+            "answer": "Remove SIM, sign out banking apps, delete sensitive photos."
+        },
+        {
+            "question": "Help with Problems",
+            "answer": "Ask tech-savvy friend, close chats/gallery first."
+        },
+        {
+            "question": "Trusted People",
+            "answer": "Prefer in-person for sensitive info."
+        },
+        {
+            "question": "Code Words",
+            "answer": "Yes, initials/emojis in chats."
+        },
+        {
+            "question": "Helping Others",
+            "answer": "Helped aunt install Paytm, explained transactions but not permissions."
+        },
+        {
+            "question": "Permission Control",
+            "answer": "Yes, disable in settings after learning from YouTube."
+        },
+        {
+            "question": "Warning Messages",
+            "answer": "Uninstall immediately unless trusted."
+        },
+        {
+            "question": "Access to Contacts/Photos",
+            "answer": "Think used for ads/friend suggestions, unsure about storage/selling."
+        },
+        {
+            "question": "Repair Hesitation",
+            "answer": "Yes, prefer trusted service centers."
+        },
+        {
+            "question": "Repair Person Behavior",
+            "answer": "Not known, but lock gallery/banking apps."
+        },
+        {
+            "question": "Password Use",
+            "answer": "Fingerprint and pattern lock."
+        },
+        {
+            "question": "Local vs International Apps",
+            "answer": "Trust international apps more secure."
+        },
+        {
+            "question": "Tech Help",
+            "answer": "YouTube tutorials or tech-savvy friend."
+        },
+        {
+            "question": "Social Influence",
+            "answer": "Friends advise on permissions/antivirus."
+        }
+    ],
+    "scenarios": {
+        "Broken Phone": "Backup, delete personal stuff, sign out, reset if possible.",
+        "Sharing with Family": "Hide chats, disable previews, take phone back quickly.",
+        "New App with Permissions": "Cancel if too many permissions, check reviews.",
+        "Helping Elderly Relative": "Install app, explain basics, set permissions for them.",
+        "Using Borrowed Phone": "Ignore private content.",
+        "Giving Away Phone": "Factory reset, remove Google account.",
+        "Cloud Backup Surprise": "Surprised deleted photos stayed in Google Photos, learned to delete from cloud.",
+        "Free Public WiFi": "Avoid banking, use VPN if needed.",
+        "Lottery Call": "Hang up, never share details.",
+        "Friend Needs Help": "Confirm on call, careful with transactions, never share OTP."
+    }
 }
