@@ -1,40 +1,100 @@
 {
-  "participant_id": "P46",
-  "occupation": "Delivery Boy",
-  "age": 29,
-  "education": "4th standard",
-  "qa": [
-    {"question": "What do you mainly use your phone for?", "answer": "I use my phone mainly for delivery work. I use delivery apps to accept orders, check addresses, call customers, and confirm deliveries. I also use Google Maps for navigation. Apart from work, I use WhatsApp, YouTube, and sometimes Facebook."},
-    {"question": "Do you share your phone with others?", "answer": "No, I usually don’t share my phone because delivery apps and payment apps are logged in. Sometimes I give it to my wife to make a call, but not for long."},
-    {"question": "What apps and features do you frequently use?", "answer": "I mostly use delivery apps, Google Maps, phone calls, WhatsApp, UPI apps, and the camera to upload delivery proof photos. I also use YouTube for time pass."},
-    {"question": "Do you read app permissions before allowing them?", "answer": "Sometimes I read, but not fully. If the app is needed for work, I allow permissions like location and camera. Otherwise, I don’t think much."},
-    {"question": "How do you decide whether an app is safe to use?", "answer": "If the company I work for asks me to use it, I trust it. I also trust apps that many other delivery boys use. I don’t install random apps."},
-    {"question": "Have you ever deleted messages, photos, or apps for privacy?", "answer": "Yes, I delete delivery photos after some days. I also delete WhatsApp chats and videos when storage gets full."},
-    {"question": "What do you do before giving your phone for repair?", "answer": "I log out of delivery apps and UPI apps. I remove the SIM card. I don’t know how to delete everything properly, so I feel worried."},
-    {"question": "Have you asked someone for help with phone problems?", "answer": "Yes, I ask other delivery boys or go to a mobile shop. Sometimes I watch YouTube videos to fix issues."},
-    {"question": "Who do you trust most when sharing personal or sensitive information?", "answer": "I trust my wife and sometimes my supervisor. I don’t share personal details with customers."},
-    {"question": "Have you used code words or nicknames to keep something private?", "answer": "Yes, I save customer numbers with short names or order numbers so others don’t understand."},
-    {"question": "Have you ever helped someone install or use an app?", "answer": "Yes, I helped a new delivery boy install delivery and navigation apps. I showed him basic use but not about permissions."},
-    {"question": "Do you know how to stop an app from using your camera, microphone, or location?", "answer": "I know location can be turned off, but I don’t know much about camera or microphone settings."},
-    {"question": "What do you do when you get warning messages on your phone?", "answer": "I get confused and sometimes scared. I usually ignore them or ask another delivery boy what to do."},
-    {"question": "What do you think happens when you give an app access to your contacts or photos?", "answer": "I think the app can see those things. I don’t know if they save them somewhere else."},
-    {"question": "Have you ever hesitated to take your phone for repair because of private content?", "answer": "Yes, because payment apps and personal photos are there. I feel uncomfortable."},
-    {"question": "Has a repair person ever opened your photos or apps without asking?", "answer": "Once, a repair person opened my phone to check storage. I didn’t like it but didn’t stop him."},
-    {"question": "Do you use a lock screen on your phone?", "answer": "Yes, I use fingerprint and PIN. Without lock, anyone can misuse payment apps."},
-    {"question": "Do you think local apps are safer than international ones?", "answer": "I don’t know much about that. I use apps that my company or friends recommend."},
-    {"question": "Who do you turn to when you don’t understand phone settings?", "answer": "I ask my friends or other delivery boys. Sometimes I search on YouTube."},
-    {"question": "Do people around you influence how you think about online safety?", "answer": "Yes, other delivery boys warn me about fake calls, OTP frauds, and scams. I am careful because of that."}
-  ],
-  "scenarios": {
-    "Broken Phone": "Before giving my phone for repair, I log out of delivery and payment apps and remove the SIM card. If I can’t do that, I delay the repair.",
-    "Sharing with Family": "If my wife uses my phone, I close delivery apps first.",
-    "Installing a New App": "I install only work-related apps or apps suggested by friends. I don’t click links from messages.",
-    "Helping Elderly Relative": "I help them make calls or use WhatsApp. I don’t explain app permissions much.",
-    "Using Someone Else’s Phone": "I only use it for calls or maps and return it quickly.",
-    "Giving Away Phone": "I ask a mobile shop person to delete everything before giving it away.",
-    "Cloud Backup Surprise": "I don’t know much about cloud backup. If old photos come back, I will delete them.",
-    "Free Public WiFi": "I sometimes use free WiFi but avoid opening payment or delivery apps.",
-    "Lottery Call": "I cut the call and block the number.",
-    "Emergency Bank Transfer": "I confirm by calling the person directly or asking my wife before sending money."
-  }
+    "participant_id": "P46",
+    "occupation": "Delivery Boy",
+    "age": 29,
+    "education": "4th standard",
+    "qa": [
+        {
+            "question": "What do you mainly use your phone for?",
+            "answer": "I use my phone mainly for delivery work. I use delivery apps to accept orders, check addresses, call customers, and confirm deliveries. I also use Google Maps for navigation. Apart from work, I use WhatsApp, YouTube, and sometimes Facebook."
+        },
+        {
+            "question": "Do you share your phone with others?",
+            "answer": "No, I usually don’t share my phone because delivery apps and payment apps are logged in. Sometimes I give it to my wife to make a call, but not for long."
+        },
+        {
+            "question": "What apps and features do you frequently use?",
+            "answer": "I mostly use delivery apps, Google Maps, phone calls, WhatsApp, UPI apps, and the camera to upload delivery proof photos. I also use YouTube for time pass."
+        },
+        {
+            "question": "Do you read app permissions before allowing them?",
+            "answer": "Sometimes I read, but not fully. If the app is needed for work, I allow permissions like location and camera. Otherwise, I don’t think much."
+        },
+        {
+            "question": "How do you decide whether an app is safe to use?",
+            "answer": "If the company I work for asks me to use it, I trust it. I also trust apps that many other delivery boys use. I don’t install random apps."
+        },
+        {
+            "question": "Have you ever deleted messages, photos, or apps for privacy?",
+            "answer": "Yes, I delete delivery photos after some days. I also delete WhatsApp chats and videos when storage gets full."
+        },
+        {
+            "question": "What do you do before giving your phone for repair?",
+            "answer": "I log out of delivery apps and UPI apps. I remove the SIM card. I don’t know how to delete everything properly, so I feel worried."
+        },
+        {
+            "question": "Have you asked someone for help with phone problems?",
+            "answer": "Yes, I ask other delivery boys or go to a mobile shop. Sometimes I watch YouTube videos to fix issues."
+        },
+        {
+            "question": "Who do you trust most when sharing personal or sensitive information?",
+            "answer": "I trust my wife and sometimes my supervisor. I don’t share personal details with customers."
+        },
+        {
+            "question": "Have you used code words or nicknames to keep something private?",
+            "answer": "Yes, I save customer numbers with short names or order numbers so others don’t understand."
+        },
+        {
+            "question": "Have you ever helped someone install or use an app?",
+            "answer": "Yes, I helped a new delivery boy install delivery and navigation apps. I showed him basic use but not about permissions."
+        },
+        {
+            "question": "Do you know how to stop an app from using your camera, microphone, or location?",
+            "answer": "I know location can be turned off, but I don’t know much about camera or microphone settings."
+        },
+        {
+            "question": "What do you do when you get warning messages on your phone?",
+            "answer": "I get confused and sometimes scared. I usually ignore them or ask another delivery boy what to do."
+        },
+        {
+            "question": "What do you think happens when you give an app access to your contacts or photos?",
+            "answer": "I think the app can see those things. I don’t know if they save them somewhere else."
+        },
+        {
+            "question": "Have you ever hesitated to take your phone for repair because of private content?",
+            "answer": "Yes, because payment apps and personal photos are there. I feel uncomfortable."
+        },
+        {
+            "question": "Has a repair person ever opened your photos or apps without asking?",
+            "answer": "Once, a repair person opened my phone to check storage. I didn’t like it but didn’t stop him."
+        },
+        {
+            "question": "Do you use a lock screen on your phone?",
+            "answer": "Yes, I use fingerprint and PIN. Without lock, anyone can misuse payment apps."
+        },
+        {
+            "question": "Do you think local apps are safer than international ones?",
+            "answer": "I don’t know much about that. I use apps that my company or friends recommend."
+        },
+        {
+            "question": "Who do you turn to when you don’t understand phone settings?",
+            "answer": "I ask my friends or other delivery boys. Sometimes I search on YouTube."
+        },
+        {
+            "question": "Do people around you influence how you think about online safety?",
+            "answer": "Yes, other delivery boys warn me about fake calls, OTP frauds, and scams. I am careful because of that."
+        }
+    ],
+    "scenarios": {
+        "Broken Phone": "Before giving my phone for repair, I log out of delivery and payment apps and remove the SIM card. If I can’t do that, I delay the repair.",
+        "Sharing with Family": "If my wife uses my phone, I close delivery apps first.",
+        "Installing a New App": "I install only work-related apps or apps suggested by friends. I don’t click links from messages.",
+        "Helping Elderly Relative": "I help them make calls or use WhatsApp. I don’t explain app permissions much.",
+        "Using Someone Else’s Phone": "I only use it for calls or maps and return it quickly.",
+        "Giving Away Phone": "I ask a mobile shop person to delete everything before giving it away.",
+        "Cloud Backup Surprise": "I don’t know much about cloud backup. If old photos come back, I will delete them.",
+        "Free Public WiFi": "I sometimes use free WiFi but avoid opening payment or delivery apps.",
+        "Lottery Call": "I cut the call and block the number.",
+        "Emergency Bank Transfer": "I confirm by calling the person directly or asking my wife before sending money."
+    }
 }
