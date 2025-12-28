@@ -1,40 +1,100 @@
 {
-  "participant_id": "P15",
-  "occupation": "Daily wage worker",
-  "age": 39,
-  "education": "4th class",
-  "qa": [
-    {"question": "What do you mainly use your phone for?", "answer": "I use my phone mostly for work—Google Maps for delivery, Zomato Partner app, WhatsApp for talking to friends, and Paytm for money transactions. I also watch YouTube shorts and reels. I sometimes use Snapchat, mainly for filters with friends."},
-    {"question": "Do you share your phone with others?", "answer": "Not really. Only if a friend urgently needs to make a call or check something. I don’t like people touching my phone too much."},
-    {"question": "What are your favorite apps or features on your phone?", "answer": "I like Google Maps and YouTube. Snapchat is fun for timepass. I know these apps take data because I get ads based on what I search, especially on YouTube and Facebook."},
-    {"question": "When an app asks for permission, like to access your location or camera, do you read and understand what it means?", "answer": "Sometimes I read, but mostly I allow it if the app looks safe or I’ve used it before. For unknown apps, I think twice."},
-    {"question": "How do you decide whether an app or website is safe to use?", "answer": "If it has many downloads on Play Store, or if my friends use it, I trust it. I also check reviews and whether it looks clean and professional."},
-    {"question": "Have you ever deleted a message, photo, or app because you didn’t want someone to see it?", "answer": "Yes, I delete chats sometimes if I think someone might misinterpret. Even silly chats with female friends can cause drama."},
-    {"question": "If your phone stops working and you need to give it for repair, what do you do before handing it over?", "answer": "I log out of apps like Paytm and delete private photos or move them to Google Drive. I also try to clean the gallery and cache."},
-    {"question": "Have you ever asked someone to help you with a phone problem?", "answer": "Yes, my cousin is very techy. I trust him, but I sit beside him when he’s fixing something—just in case."},
-    {"question": "Who do you trust most when sharing personal or sensitive information?", "answer": "In person. Face-to-face is better than on phone. I don’t trust calls or messages for personal stuff."},
-    {"question": "Have you used code words or nicknames to keep something private?", "answer": "Definitely! Especially while chatting in groups or with a girlfriend. We use names that only we understand."},
-    {"question": "Have you ever helped someone install or use an app?", "answer": "Yes, I’ve helped many coworkers with Zomato onboarding, Paytm setup, even UPI. I explain about permissions and to be careful with unknown links."},
-    {"question": "Do you know how to stop an app from using your camera, microphone, or location?", "answer": "Yes, I go to app settings and turn off permissions sometimes. Especially for apps I don’t trust."},
-    {"question": "When you get a warning message (‘this app may harm your phone’), what do you usually do?", "answer": "I avoid it. I don’t want to risk my phone getting slow or hacked."},
-    {"question": "What do you think happens when you give an app access to your contacts or photos?", "answer": "I think it may use it to show ads, or sometimes even sell the data. I’m not fully sure how, but I feel it’s not good to give every app that permission."},
-    {"question": "Have you ever hesitated to take your phone for repair because of private content?", "answer": "Yes. I delay repairs until I back everything up or remove sensitive stuff."},
-    {"question": "Has a repair person ever opened your gallery or apps without asking?", "answer": "Once a guy opened my photos ‘by mistake’ and smiled at something. I didn’t say anything but felt very angry."},
-    {"question": "Do you use a password or lock screen on your phone? Why or why not?", "answer": "Yes, fingerprint and PIN. No one else knows it. It’s basic security."},
-    {"question": "Do you think local apps are safer than international ones? Why?", "answer": "Depends. I trust big names like Google or Instagram more than random Indian apps. But local language apps are easier for some people."},
-    {"question": "Who do you turn to when you don’t understand a phone or app setting?", "answer": "Cousin, or sometimes I watch YouTube tutorials."},
-    {"question": "Do people around you influence how you think about online safety?", "answer": "Yes. My friends share warnings on WhatsApp about scams, like ‘don’t click this link’ etc."}
-  ],
-  "scenarios": {
-    "Broken Phone": "I would back up work data to Drive, logout from bank apps, and delete sensitive chats. Only then I’ll go to a trusted shop.",
-    "Sharing with Family": "If a message pops up while my phone is with a cousin, I ask them not to open it or I grab it quickly.",
-    "New App Requesting Permissions": "I check what it’s asking. If it's contacts and location for no reason, I won’t install. Rewards can be traps.",
-    "Helping Elderly Relative": "I help my uncle often. I explain, ‘this permission means app can use your mic,’ but he doesn’t fully get it.",
-    "Using Someone Else’s Phone": "I avoid checking their stuff. It’s basic respect. If I see something private, I ignore and return the phone fast.",
-    "Giving Away Phone": "I’ll do a full factory reset. And remove my Google account before giving it to anyone.",
-    "Cloud Backup Surprise": "I’ve seen old photos reappear in Google Photos. Now I delete from cloud too. At first, I was shocked.",
-    "Free Public WiFi": "I avoid public WiFi for banking. Maybe for YouTube, but not Paytm or net banking.",
-    "Lottery Call": "I’ve got such calls. I play along sometimes, then block them. I never share personal details.",
-    "Friend Needs Help": "If it’s an emergency, I’ll help, but I’ll talk to him directly and confirm. No blind trust."
-  }
+    "participant_id": "P15",
+    "occupation": "Daily wage worker",
+    "age": 39,
+    "education": "4th class",
+    "qa": [
+        {
+            "question": "What do you mainly use your phone for?",
+            "answer": "I use my phone mostly for work—Google Maps for delivery, Zomato Partner app, WhatsApp for talking to friends, and Paytm for money transactions. I also watch YouTube shorts and reels. I sometimes use Snapchat, mainly for filters with friends."
+        },
+        {
+            "question": "Do you share your phone with others?",
+            "answer": "Not really. Only if a friend urgently needs to make a call or check something. I don’t like people touching my phone too much."
+        },
+        {
+            "question": "What are your favorite apps or features on your phone?",
+            "answer": "I like Google Maps and YouTube. Snapchat is fun for timepass. I know these apps take data because I get ads based on what I search, especially on YouTube and Facebook."
+        },
+        {
+            "question": "When an app asks for permission, like to access your location or camera, do you read and understand what it means?",
+            "answer": "Sometimes I read, but mostly I allow it if the app looks safe or I’ve used it before. For unknown apps, I think twice."
+        },
+        {
+            "question": "How do you decide whether an app or website is safe to use?",
+            "answer": "If it has many downloads on Play Store, or if my friends use it, I trust it. I also check reviews and whether it looks clean and professional."
+        },
+        {
+            "question": "Have you ever deleted a message, photo, or app because you didn’t want someone to see it?",
+            "answer": "Yes, I delete chats sometimes if I think someone might misinterpret. Even silly chats with female friends can cause drama."
+        },
+        {
+            "question": "If your phone stops working and you need to give it for repair, what do you do before handing it over?",
+            "answer": "I log out of apps like Paytm and delete private photos or move them to Google Drive. I also try to clean the gallery and cache."
+        },
+        {
+            "question": "Have you ever asked someone to help you with a phone problem?",
+            "answer": "Yes, my cousin is very techy. I trust him, but I sit beside him when he’s fixing something—just in case."
+        },
+        {
+            "question": "Who do you trust most when sharing personal or sensitive information?",
+            "answer": "In person. Face-to-face is better than on phone. I don’t trust calls or messages for personal stuff."
+        },
+        {
+            "question": "Have you used code words or nicknames to keep something private?",
+            "answer": "Definitely! Especially while chatting in groups or with a girlfriend. We use names that only we understand."
+        },
+        {
+            "question": "Have you ever helped someone install or use an app?",
+            "answer": "Yes, I’ve helped many coworkers with Zomato onboarding, Paytm setup, even UPI. I explain about permissions and to be careful with unknown links."
+        },
+        {
+            "question": "Do you know how to stop an app from using your camera, microphone, or location?",
+            "answer": "Yes, I go to app settings and turn off permissions sometimes. Especially for apps I don’t trust."
+        },
+        {
+            "question": "When you get a warning message (‘this app may harm your phone’), what do you usually do?",
+            "answer": "I avoid it. I don’t want to risk my phone getting slow or hacked."
+        },
+        {
+            "question": "What do you think happens when you give an app access to your contacts or photos?",
+            "answer": "I think it may use it to show ads, or sometimes even sell the data. I’m not fully sure how, but I feel it’s not good to give every app that permission."
+        },
+        {
+            "question": "Have you ever hesitated to take your phone for repair because of private content?",
+            "answer": "Yes. I delay repairs until I back everything up or remove sensitive stuff."
+        },
+        {
+            "question": "Has a repair person ever opened your gallery or apps without asking?",
+            "answer": "Once a guy opened my photos ‘by mistake’ and smiled at something. I didn’t say anything but felt very angry."
+        },
+        {
+            "question": "Do you use a password or lock screen on your phone? Why or why not?",
+            "answer": "Yes, fingerprint and PIN. No one else knows it. It’s basic security."
+        },
+        {
+            "question": "Do you think local apps are safer than international ones? Why?",
+            "answer": "Depends. I trust big names like Google or Instagram more than random Indian apps. But local language apps are easier for some people."
+        },
+        {
+            "question": "Who do you turn to when you don’t understand a phone or app setting?",
+            "answer": "Cousin, or sometimes I watch YouTube tutorials."
+        },
+        {
+            "question": "Do people around you influence how you think about online safety?",
+            "answer": "Yes. My friends share warnings on WhatsApp about scams, like ‘don’t click this link’ etc."
+        }
+    ],
+    "scenarios": {
+        "Broken Phone": "I would back up work data to Drive, logout from bank apps, and delete sensitive chats. Only then I’ll go to a trusted shop.",
+        "Sharing with Family": "If a message pops up while my phone is with a cousin, I ask them not to open it or I grab it quickly.",
+        "New App Requesting Permissions": "I check what it’s asking. If it's contacts and location for no reason, I won’t install. Rewards can be traps.",
+        "Helping Elderly Relative": "I help my uncle often. I explain, ‘this permission means app can use your mic,’ but he doesn’t fully get it.",
+        "Using Someone Else’s Phone": "I avoid checking their stuff. It’s basic respect. If I see something private, I ignore and return the phone fast.",
+        "Giving Away Phone": "I’ll do a full factory reset. And remove my Google account before giving it to anyone.",
+        "Cloud Backup Surprise": "I’ve seen old photos reappear in Google Photos. Now I delete from cloud too. At first, I was shocked.",
+        "Free Public WiFi": "I avoid public WiFi for banking. Maybe for YouTube, but not Paytm or net banking.",
+        "Lottery Call": "I’ve got such calls. I play along sometimes, then block them. I never share personal details.",
+        "Friend Needs Help": "If it’s an emergency, I’ll help, but I’ll talk to him directly and confirm. No blind trust."
+    }
 }
