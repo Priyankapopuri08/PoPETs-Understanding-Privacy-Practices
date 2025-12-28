@@ -1,40 +1,100 @@
 {
-  "participant_id": "P40",
-  "occupation": "Auto-rickshaw driver",
-  "age": 31,
-  "education": "8th class",
-  "qa": [
-    {"question": "Main Phone Use", "answer": "GPS navigation, YouTube for news/songs, WhatsApp for customers, UPI payments."},
-    {"question": "Phone Sharing", "answer": "No, keep phone private due to income/ride info."},
-    {"question": "Favorite Apps", "answer": "Google Maps, WhatsApp, PhonePe. Unsure which permissions are needed."},
-    {"question": "Permission Reading", "answer": "Allow most, deny if suspicious (e.g., contacts in GPS app)."},
-    {"question": "App Trust", "answer": "Trust Google apps, check YouTube reviews for others."},
-    {"question": "Content Deletion", "answer": "Clear WhatsApp chats and call logs sometimes."},
-    {"question": "Phone Repair", "answer": "Remove SIM, log out of UPI, delete gallery, worry about QR code misuse."},
-    {"question": "Help with Problems", "answer": "Try YouTube tutorials, ask brother if serious."},
-    {"question": "Trusted People", "answer": "Wife and brother, but don’t share passwords."},
-    {"question": "Code Words", "answer": "Save passengers as 'Uncle' or 'Customer1'."},
-    {"question": "Helping Others", "answer": "Helped auto driver install UPI, warned not to save PIN."},
-    {"question": "Permission Control", "answer": "Learned to stop apps using location always."},
-    {"question": "Warning Messages", "answer": "Search app name online or avoid."},
-    {"question": "Access to Contacts/Photos", "answer": "Think used for spam/ads, deny if unnecessary."},
-    {"question": "Repair Hesitation", "answer": "Yes, delete QR code/photos before repair."},
-    {"question": "Repair Person Behavior", "answer": "Saw repair guy take screenshot once."},
-    {"question": "Password Use", "answer": "Pattern lock + AppLock for PhonePe."},
-    {"question": "Local vs International Apps", "answer": "Prefer Indian apps for payments (BHIM)."},
-    {"question": "Tech Help", "answer": "YouTube first, then brother."},
-    {"question": "Social Influence", "answer": "Auto driver group shares fraud/safety info."}
-  ],
-  "scenarios": {
-    "Broken Phone": "Remove SIM, delete QR code, uninstall PhonePe before repair.",
-    "Sharing with Family": "Don’t share, keep locked after child deleted UPI screenshot.",
-    "Installing New App": "Check reviews, avoid if too many permissions, trust govt payment apps.",
-    "Helping Elderly Relative": "Installed WhatsApp for uncle, explained not to click links.",
-    "Using Borrowed Phone": "Use only for needed task, lock if private message pops up.",
-    "Giving Away Phone": "Reset completely, remove Google account before handing over.",
-    "Cloud Backup Surprise": "Deleted photos stayed in Google Drive, now use delete everywhere.",
-    "Free Public WiFi": "Use only in emergencies, avoid banking, wait for mobile data.",
-    "Lottery Call": "Caller claimed prize, blocked number, warned group.",
-    "Emergency Transfer": "Confirm with call, avoid suspicious requests."
-  }
+    "participant_id": "P40",
+    "occupation": "Auto-rickshaw driver",
+    "age": 31,
+    "education": "8th class",
+    "qa": [
+        {
+            "question": "Main Phone Use",
+            "answer": "GPS navigation, YouTube for news/songs, WhatsApp for customers, UPI payments."
+        },
+        {
+            "question": "Phone Sharing",
+            "answer": "No, keep phone private due to income/ride info."
+        },
+        {
+            "question": "Favorite Apps",
+            "answer": "Google Maps, WhatsApp, PhonePe. Unsure which permissions are needed."
+        },
+        {
+            "question": "Permission Reading",
+            "answer": "Allow most, deny if suspicious (e.g., contacts in GPS app)."
+        },
+        {
+            "question": "App Trust",
+            "answer": "Trust Google apps, check YouTube reviews for others."
+        },
+        {
+            "question": "Content Deletion",
+            "answer": "Clear WhatsApp chats and call logs sometimes."
+        },
+        {
+            "question": "Phone Repair",
+            "answer": "Remove SIM, log out of UPI, delete gallery, worry about QR code misuse."
+        },
+        {
+            "question": "Help with Problems",
+            "answer": "Try YouTube tutorials, ask brother if serious."
+        },
+        {
+            "question": "Trusted People",
+            "answer": "Wife and brother, but don’t share passwords."
+        },
+        {
+            "question": "Code Words",
+            "answer": "Save passengers as 'Uncle' or 'Customer1'."
+        },
+        {
+            "question": "Helping Others",
+            "answer": "Helped auto driver install UPI, warned not to save PIN."
+        },
+        {
+            "question": "Permission Control",
+            "answer": "Learned to stop apps using location always."
+        },
+        {
+            "question": "Warning Messages",
+            "answer": "Search app name online or avoid."
+        },
+        {
+            "question": "Access to Contacts/Photos",
+            "answer": "Think used for spam/ads, deny if unnecessary."
+        },
+        {
+            "question": "Repair Hesitation",
+            "answer": "Yes, delete QR code/photos before repair."
+        },
+        {
+            "question": "Repair Person Behavior",
+            "answer": "Saw repair guy take screenshot once."
+        },
+        {
+            "question": "Password Use",
+            "answer": "Pattern lock + AppLock for PhonePe."
+        },
+        {
+            "question": "Local vs International Apps",
+            "answer": "Prefer Indian apps for payments (BHIM)."
+        },
+        {
+            "question": "Tech Help",
+            "answer": "YouTube first, then brother."
+        },
+        {
+            "question": "Social Influence",
+            "answer": "Auto driver group shares fraud/safety info."
+        }
+    ],
+    "scenarios": {
+        "Broken Phone": "Remove SIM, delete QR code, uninstall PhonePe before repair.",
+        "Sharing with Family": "Don’t share, keep locked after child deleted UPI screenshot.",
+        "Installing New App": "Check reviews, avoid if too many permissions, trust govt payment apps.",
+        "Helping Elderly Relative": "Installed WhatsApp for uncle, explained not to click links.",
+        "Using Borrowed Phone": "Use only for needed task, lock if private message pops up.",
+        "Giving Away Phone": "Reset completely, remove Google account before handing over.",
+        "Cloud Backup Surprise": "Deleted photos stayed in Google Drive, now use delete everywhere.",
+        "Free Public WiFi": "Use only in emergencies, avoid banking, wait for mobile data.",
+        "Lottery Call": "Caller claimed prize, blocked number, warned group.",
+        "Emergency Transfer": "Confirm with call, avoid suspicious requests."
+    }
 }
