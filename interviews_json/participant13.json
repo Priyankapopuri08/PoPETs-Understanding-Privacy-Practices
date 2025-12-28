@@ -1,40 +1,100 @@
 {
-  "participant_id": "P13",
-  "occupation": "Tailor",
-  "age": 31,
-  "education": "10th class",
-  "qa": [
-    {"question": "What do you mainly use your phone for?", "answer": "I mostly use my phone to talk to my family and friends through calls and WhatsApp messages. Sometimes I listen to music and watch small videos. I don’t use many apps because I don’t understand them well."},
-    {"question": "Do you share your phone with others?", "answer": "Yes, I share my phone with my husband and children sometimes. They use it to call relatives or watch videos. It happens a few times a week, especially when they need to check something quickly."},
-    {"question": "What are your favorite apps or features on your phone?", "answer": "I like WhatsApp because it helps me talk to family far away. I also watch videos on YouTube. I don’t really think about what information these apps take; I just want to use them easily."},
-    {"question": "When an app asks for permission, like to access your location, camera, or contacts, do you read and understand what it means?", "answer": "No, I usually just press ‘Allow’ because the app won’t work without it. I don’t always read the messages or know what the permissions mean."},
-    {"question": "How do you decide whether an app or website is safe to use?", "answer": "I trust apps that my family or neighbors use. If someone I know says it’s good, I use it. Otherwise, I don’t open many new apps."},
-    {"question": "Have you ever deleted a message, photo, or app because you didn’t want someone to see it?", "answer": "Sometimes I delete messages if they are private or from someone I don’t want others to know about. But I don’t hide apps because I don’t know how."},
-    {"question": "If your phone stops working and you need to give it for repair, what do you do before handing it over?", "answer": "I usually just give the phone as it is. I feel worried that someone might see my photos or messages, but I don’t know how to remove them."},
-    {"question": "Have you ever asked someone to help you with a phone problem?", "answer": "Yes, I ask my son or the repair shop. I feel uncomfortable but I don’t have a choice. Sometimes I hope they don’t look at my private things."},
-    {"question": "Who do you trust most when sharing personal or sensitive information?", "answer": "I trust talking in person with my family most. On the phone or apps, I avoid sharing very private things."},
-    {"question": "Have you used code words or nicknames to keep something private?", "answer": "No, I don’t do that. I talk openly with people I trust."},
-    {"question": "Have you ever helped someone install or use an app?", "answer": "No, I don’t feel confident to help others. My son sometimes helps me."},
-    {"question": "Do you know how to stop an app from using your camera, microphone, or location?", "answer": "No, I don’t know how to do that."},
-    {"question": "When you get a warning message (‘this app may harm your phone’), what do you usually do?", "answer": "I usually ignore the warning because I don’t understand it. Sometimes I uninstall the app if it stops working."},
-    {"question": "What do you think happens when you give an app access to your contacts or photos?", "answer": "I think the app uses them to help me share pictures or talk to people. I don’t know if they keep or share the data elsewhere."},
-    {"question": "Have you ever hesitated to take your phone for repair because of private content?", "answer": "Yes, I worry about my photos and messages. But I don’t have many options."},
-    {"question": "Has a repair person ever opened your gallery or apps without asking?", "answer": "Yes, once the repair person looked at my photos. I felt uncomfortable but didn’t say anything because I was shy."},
-    {"question": "Do you use a password or lock screen on your phone? Why or why not?", "answer": "No, I don’t use a password because I find it hard to remember. Sometimes my husband uses my phone."},
-    {"question": "Do you think apps from local developers are safer than international ones? Why?", "answer": "I don’t really think about that. If the app is in my language, I feel more comfortable."},
-    {"question": "Who do you turn to when you don’t understand a phone or app setting?", "answer": "I ask my son or neighbors for help."},
-    {"question": "Do people around you influence how you think about online safety?", "answer": "Yes, they tell me to be careful and not to share passwords or click on strange links."}
-  ],
-  "scenarios": {
-    "Broken Phone": "I give the phone to the repair shop as it is. I worry about privacy but don’t know what else to do.",
-    "Sharing a Phone with Family": "If my husband or children use the phone, I don’t hide messages or apps. I trust them.",
-    "Installing a New App": "I usually ask my son before installing new apps because I don’t understand the permissions.",
-    "Helping an Elderly Relative": "I would help my mother install an app but not explain much about permissions. I think it’s hard for her to understand.",
-    "Using a Borrowed Phone": "I try to avoid looking at anything private if I see it by accident.",
-    "Selling or Giving Away a Phone": "I don’t give away phones, so I haven’t thought about it much.",
-    "Cloud Backup Surprise": "I don’t know about cloud backup, so I would be surprised if photos still appear after deleting.",
-    "Using Free Public WiFi": "I don’t use public WiFi for important things like banking. I prefer using my own mobile data.",
-    "Receiving a Lottery Call": "I ignore such calls because I know they are usually scams.",
-    "Sharing Account Details": "I would not transfer money for others unless I trust them very much."
-  }
+    "participant_id": "P13",
+    "occupation": "Tailor",
+    "age": 31,
+    "education": "10th class",
+    "qa": [
+        {
+            "question": "What do you mainly use your phone for?",
+            "answer": "I mostly use my phone to talk to my family and friends through calls and WhatsApp messages. Sometimes I listen to music and watch small videos. I don’t use many apps because I don’t understand them well."
+        },
+        {
+            "question": "Do you share your phone with others?",
+            "answer": "Yes, I share my phone with my husband and children sometimes. They use it to call relatives or watch videos. It happens a few times a week, especially when they need to check something quickly."
+        },
+        {
+            "question": "What are your favorite apps or features on your phone?",
+            "answer": "I like WhatsApp because it helps me talk to family far away. I also watch videos on YouTube. I don’t really think about what information these apps take; I just want to use them easily."
+        },
+        {
+            "question": "When an app asks for permission, like to access your location, camera, or contacts, do you read and understand what it means?",
+            "answer": "No, I usually just press ‘Allow’ because the app won’t work without it. I don’t always read the messages or know what the permissions mean."
+        },
+        {
+            "question": "How do you decide whether an app or website is safe to use?",
+            "answer": "I trust apps that my family or neighbors use. If someone I know says it’s good, I use it. Otherwise, I don’t open many new apps."
+        },
+        {
+            "question": "Have you ever deleted a message, photo, or app because you didn’t want someone to see it?",
+            "answer": "Sometimes I delete messages if they are private or from someone I don’t want others to know about. But I don’t hide apps because I don’t know how."
+        },
+        {
+            "question": "If your phone stops working and you need to give it for repair, what do you do before handing it over?",
+            "answer": "I usually just give the phone as it is. I feel worried that someone might see my photos or messages, but I don’t know how to remove them."
+        },
+        {
+            "question": "Have you ever asked someone to help you with a phone problem?",
+            "answer": "Yes, I ask my son or the repair shop. I feel uncomfortable but I don’t have a choice. Sometimes I hope they don’t look at my private things."
+        },
+        {
+            "question": "Who do you trust most when sharing personal or sensitive information?",
+            "answer": "I trust talking in person with my family most. On the phone or apps, I avoid sharing very private things."
+        },
+        {
+            "question": "Have you used code words or nicknames to keep something private?",
+            "answer": "No, I don’t do that. I talk openly with people I trust."
+        },
+        {
+            "question": "Have you ever helped someone install or use an app?",
+            "answer": "No, I don’t feel confident to help others. My son sometimes helps me."
+        },
+        {
+            "question": "Do you know how to stop an app from using your camera, microphone, or location?",
+            "answer": "No, I don’t know how to do that."
+        },
+        {
+            "question": "When you get a warning message (‘this app may harm your phone’), what do you usually do?",
+            "answer": "I usually ignore the warning because I don’t understand it. Sometimes I uninstall the app if it stops working."
+        },
+        {
+            "question": "What do you think happens when you give an app access to your contacts or photos?",
+            "answer": "I think the app uses them to help me share pictures or talk to people. I don’t know if they keep or share the data elsewhere."
+        },
+        {
+            "question": "Have you ever hesitated to take your phone for repair because of private content?",
+            "answer": "Yes, I worry about my photos and messages. But I don’t have many options."
+        },
+        {
+            "question": "Has a repair person ever opened your gallery or apps without asking?",
+            "answer": "Yes, once the repair person looked at my photos. I felt uncomfortable but didn’t say anything because I was shy."
+        },
+        {
+            "question": "Do you use a password or lock screen on your phone? Why or why not?",
+            "answer": "No, I don’t use a password because I find it hard to remember. Sometimes my husband uses my phone."
+        },
+        {
+            "question": "Do you think apps from local developers are safer than international ones? Why?",
+            "answer": "I don’t really think about that. If the app is in my language, I feel more comfortable."
+        },
+        {
+            "question": "Who do you turn to when you don’t understand a phone or app setting?",
+            "answer": "I ask my son or neighbors for help."
+        },
+        {
+            "question": "Do people around you influence how you think about online safety?",
+            "answer": "Yes, they tell me to be careful and not to share passwords or click on strange links."
+        }
+    ],
+    "scenarios": {
+        "Broken Phone": "I give the phone to the repair shop as it is. I worry about privacy but don’t know what else to do.",
+        "Sharing a Phone with Family": "If my husband or children use the phone, I don’t hide messages or apps. I trust them.",
+        "Installing a New App": "I usually ask my son before installing new apps because I don’t understand the permissions.",
+        "Helping an Elderly Relative": "I would help my mother install an app but not explain much about permissions. I think it’s hard for her to understand.",
+        "Using a Borrowed Phone": "I try to avoid looking at anything private if I see it by accident.",
+        "Selling or Giving Away a Phone": "I don’t give away phones, so I haven’t thought about it much.",
+        "Cloud Backup Surprise": "I don’t know about cloud backup, so I would be surprised if photos still appear after deleting.",
+        "Using Free Public WiFi": "I don’t use public WiFi for important things like banking. I prefer using my own mobile data.",
+        "Receiving a Lottery Call": "I ignore such calls because I know they are usually scams.",
+        "Sharing Account Details": "I would not transfer money for others unless I trust them very much."
+    }
 }
