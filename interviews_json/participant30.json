@@ -1,40 +1,100 @@
 {
-  "participant_id": "P30",
-  "occupation": "Tailor",
-  "age": 39,
-  "education": "7th class",
-  "qa": [
-    {"question": "What do you mainly use your phone for?", "answer": "Calls with family/friends, WhatsApp messages, listening to music."},
-    {"question": "Do you share your phone with others?", "answer": "Yes, children and husband use it almost daily."},
-    {"question": "What are your favorite apps?", "answer": "WhatsApp and local news app. Don’t think about data collection."},
-    {"question": "Do you read permissions?", "answer": "No, just press Allow."},
-    {"question": "How do you decide if an app is safe?", "answer": "Trust popular apps or those friends use."},
-    {"question": "Have you deleted content?", "answer": "Yes, deleted private messages once."},
-    {"question": "What do you do before repair?", "answer": "Give phone as is, don’t know how to delete data."},
-    {"question": "Have you asked for help?", "answer": "Yes, son helps. I trust him but worry about privacy."},
-    {"question": "Who do you trust most?", "answer": "Husband and close family."},
-    {"question": "Do you use code words?", "answer": "Sometimes nicknames with friends."},
-    {"question": "Have you helped someone install an app?", "answer": "Yes, helped daughter install WhatsApp."},
-    {"question": "Do you know how to stop permissions?", "answer": "No."},
-    {"question": "What do you do with warnings?", "answer": "Uninstall app immediately."},
-    {"question": "What do you think happens when you give access?", "answer": "App can see/use contacts/photos maybe."},
-    {"question": "Have you hesitated to repair?", "answer": "Yes, worried repair people might look."},
-    {"question": "Has a repair person opened your gallery?", "answer": "No, they usually ask first."},
-    {"question": "Do you use a password?", "answer": "Yes, simple PIN. Children sometimes know it."},
-    {"question": "Do you think local apps are safer?", "answer": "Local apps might be safer, but I use WhatsApp."},
-    {"question": "Who do you turn to?", "answer": "Son or friends."},
-    {"question": "Do people influence your safety thinking?", "answer": "Yes, friends warn me about scams."}
-  ],
-  "scenarios": {
-    "Broken Phone": "Give phone as is, hope repair person respects privacy.",
-    "Sharing with Family": "Delete private messages later if borrowed.",
-    "Installing New App": "Ask son if safe before installing.",
-    "Helping Elderly Relative": "Install for mother-in-law, don’t explain permissions.",
-    "Using Borrowed Phone": "Ignore private messages.",
-    "Selling Phone": "Try to delete messages/photos, don’t know full reset.",
-    "Cloud Backup Surprise": "Surprised deleted photos stayed in cloud.",
-    "Free Public WiFi": "Avoid banking, prefer mobile data.",
-    "Lottery Call": "Don’t trust, never share details.",
-    "Sharing Account Details": "Help only close family after careful thought."
-  }
+    "participant_id": "P30",
+    "occupation": "Tailor",
+    "age": 39,
+    "education": "7th class",
+    "qa": [
+        {
+            "question": "What do you mainly use your phone for?",
+            "answer": "Calls with family/friends, WhatsApp messages, listening to music."
+        },
+        {
+            "question": "Do you share your phone with others?",
+            "answer": "Yes, children and husband use it almost daily."
+        },
+        {
+            "question": "What are your favorite apps?",
+            "answer": "WhatsApp and local news app. Don’t think about data collection."
+        },
+        {
+            "question": "Do you read permissions?",
+            "answer": "No, just press Allow."
+        },
+        {
+            "question": "How do you decide if an app is safe?",
+            "answer": "Trust popular apps or those friends use."
+        },
+        {
+            "question": "Have you deleted content?",
+            "answer": "Yes, deleted private messages once."
+        },
+        {
+            "question": "What do you do before repair?",
+            "answer": "Give phone as is, don’t know how to delete data."
+        },
+        {
+            "question": "Have you asked for help?",
+            "answer": "Yes, son helps. I trust him but worry about privacy."
+        },
+        {
+            "question": "Who do you trust most?",
+            "answer": "Husband and close family."
+        },
+        {
+            "question": "Do you use code words?",
+            "answer": "Sometimes nicknames with friends."
+        },
+        {
+            "question": "Have you helped someone install an app?",
+            "answer": "Yes, helped daughter install WhatsApp."
+        },
+        {
+            "question": "Do you know how to stop permissions?",
+            "answer": "No."
+        },
+        {
+            "question": "What do you do with warnings?",
+            "answer": "Uninstall app immediately."
+        },
+        {
+            "question": "What do you think happens when you give access?",
+            "answer": "App can see/use contacts/photos maybe."
+        },
+        {
+            "question": "Have you hesitated to repair?",
+            "answer": "Yes, worried repair people might look."
+        },
+        {
+            "question": "Has a repair person opened your gallery?",
+            "answer": "No, they usually ask first."
+        },
+        {
+            "question": "Do you use a password?",
+            "answer": "Yes, simple PIN. Children sometimes know it."
+        },
+        {
+            "question": "Do you think local apps are safer?",
+            "answer": "Local apps might be safer, but I use WhatsApp."
+        },
+        {
+            "question": "Who do you turn to?",
+            "answer": "Son or friends."
+        },
+        {
+            "question": "Do people influence your safety thinking?",
+            "answer": "Yes, friends warn me about scams."
+        }
+    ],
+    "scenarios": {
+        "Broken Phone": "Give phone as is, hope repair person respects privacy.",
+        "Sharing with Family": "Delete private messages later if borrowed.",
+        "Installing New App": "Ask son if safe before installing.",
+        "Helping Elderly Relative": "Install for mother-in-law, don’t explain permissions.",
+        "Using Borrowed Phone": "Ignore private messages.",
+        "Selling Phone": "Try to delete messages/photos, don’t know full reset.",
+        "Cloud Backup Surprise": "Surprised deleted photos stayed in cloud.",
+        "Free Public WiFi": "Avoid banking, prefer mobile data.",
+        "Lottery Call": "Don’t trust, never share details.",
+        "Sharing Account Details": "Help only close family after careful thought."
+    }
 }
