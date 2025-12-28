@@ -1,40 +1,100 @@
 {
-  "participant_id": "P27",
-  "occupation": "Student",
-  "age": 21,
-  "education": "B.Sc",
-  "qa": [
-    {"question": "What do you mainly use your phone for?", "answer": "WhatsApp, Instagram, YouTube, online classes, UPI apps."},
-    {"question": "Do you share your phone with others?", "answer": "No, only sometimes with my mother."},
-    {"question": "What are your favorite apps?", "answer": "Instagram, WhatsApp, YouTube."},
-    {"question": "Do you read permissions?", "answer": "Yes, sometimes. If suspicious, I deny."},
-    {"question": "How do you decide if an app is safe?", "answer": "Check reviews, ratings, and developer."},
-    {"question": "Have you deleted content?", "answer": "Yes, I delete chats and screenshots regularly."},
-    {"question": "What do you do before repair?", "answer": "Backup, log out, factory reset if possible."},
-    {"question": "Have you asked for help?", "answer": "Yes, friends or YouTube tutorials."},
-    {"question": "Who do you trust most?", "answer": "Close friends and family."},
-    {"question": "Do you use code words?", "answer": "Yes, emojis or initials."},
-    {"question": "Have you helped someone install an app?", "answer": "Yes, I helped my parents with WhatsApp and UPI."},
-    {"question": "Do you know how to stop permissions?", "answer": "Yes, I manage permissions in settings."},
-    {"question": "What do you do with warnings?", "answer": "I uninstall or avoid."},
-    {"question": "What do you think happens when you give access?", "answer": "Apps may store and use data."},
-    {"question": "Have you hesitated to repair?", "answer": "Yes, I clear private data first."},
-    {"question": "Has a repair person opened your gallery?", "answer": "No, not yet."},
-    {"question": "Do you use a password?", "answer": "Yes, fingerprint and PIN."},
-    {"question": "Do you think local apps are safer?", "answer": "Not always. Depends on developer."},
-    {"question": "Who do you turn to?", "answer": "Friends or online search."},
-    {"question": "Do people influence your safety thinking?", "answer": "Yes, peers share warnings about scams."}
-  ],
-  "scenarios": {
-    "Broken Phone": "Backup, log out, factory reset.",
-    "Sharing with Family": "I close personal apps first.",
-    "New App Requesting Permissions": "Check reviews and permissions.",
-    "Helping Elderly Relative": "I help parents install apps.",
-    "Using Someone Else’s Phone": "Ignore private content.",
-    "Giving Away Phone": "Factory reset and remove accounts.",
-    "Cloud Backup Surprise": "Delete from cloud too.",
-    "Free Public WiFi": "Avoid banking on public WiFi.",
-    "Lottery Call": "Block and report.",
-    "Friend Needs Help": "Verify before sending money."
-  }
+    "participant_id": "P27",
+    "occupation": "Student",
+    "age": 21,
+    "education": "B.Sc",
+    "qa": [
+        {
+            "question": "What do you mainly use your phone for?",
+            "answer": "WhatsApp, Instagram, YouTube, online classes, UPI apps."
+        },
+        {
+            "question": "Do you share your phone with others?",
+            "answer": "No, only sometimes with my mother."
+        },
+        {
+            "question": "What are your favorite apps?",
+            "answer": "Instagram, WhatsApp, YouTube."
+        },
+        {
+            "question": "Do you read permissions?",
+            "answer": "Yes, sometimes. If suspicious, I deny."
+        },
+        {
+            "question": "How do you decide if an app is safe?",
+            "answer": "Check reviews, ratings, and developer."
+        },
+        {
+            "question": "Have you deleted content?",
+            "answer": "Yes, I delete chats and screenshots regularly."
+        },
+        {
+            "question": "What do you do before repair?",
+            "answer": "Backup, log out, factory reset if possible."
+        },
+        {
+            "question": "Have you asked for help?",
+            "answer": "Yes, friends or YouTube tutorials."
+        },
+        {
+            "question": "Who do you trust most?",
+            "answer": "Close friends and family."
+        },
+        {
+            "question": "Do you use code words?",
+            "answer": "Yes, emojis or initials."
+        },
+        {
+            "question": "Have you helped someone install an app?",
+            "answer": "Yes, I helped my parents with WhatsApp and UPI."
+        },
+        {
+            "question": "Do you know how to stop permissions?",
+            "answer": "Yes, I manage permissions in settings."
+        },
+        {
+            "question": "What do you do with warnings?",
+            "answer": "I uninstall or avoid."
+        },
+        {
+            "question": "What do you think happens when you give access?",
+            "answer": "Apps may store and use data."
+        },
+        {
+            "question": "Have you hesitated to repair?",
+            "answer": "Yes, I clear private data first."
+        },
+        {
+            "question": "Has a repair person opened your gallery?",
+            "answer": "No, not yet."
+        },
+        {
+            "question": "Do you use a password?",
+            "answer": "Yes, fingerprint and PIN."
+        },
+        {
+            "question": "Do you think local apps are safer?",
+            "answer": "Not always. Depends on developer."
+        },
+        {
+            "question": "Who do you turn to?",
+            "answer": "Friends or online search."
+        },
+        {
+            "question": "Do people influence your safety thinking?",
+            "answer": "Yes, peers share warnings about scams."
+        }
+    ],
+    "scenarios": {
+        "Broken Phone": "Backup, log out, factory reset.",
+        "Sharing with Family": "I close personal apps first.",
+        "New App Requesting Permissions": "Check reviews and permissions.",
+        "Helping Elderly Relative": "I help parents install apps.",
+        "Using Someone Else’s Phone": "Ignore private content.",
+        "Giving Away Phone": "Factory reset and remove accounts.",
+        "Cloud Backup Surprise": "Delete from cloud too.",
+        "Free Public WiFi": "Avoid banking on public WiFi.",
+        "Lottery Call": "Block and report.",
+        "Friend Needs Help": "Verify before sending money."
+    }
 }
