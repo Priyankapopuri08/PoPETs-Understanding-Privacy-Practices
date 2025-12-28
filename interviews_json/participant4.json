@@ -1,40 +1,100 @@
 {
-  "participant_id": "P4",
-  "occupation": "Homemaker",
-  "age": 47,
-  "education": "MBA Graduate",
-  "qa": [
-    {"question": "What do you mainly use your phone for?", "answer": "Right now, I use it mostly for WhatsApp to talk to my sister and some voice calls. I’m trying to learn how to browse for recipes and home tips on YouTube. I used to use more apps on my older phone, but this one is slow."},
-    {"question": "Do you share your phone with others?", "answer": "I rarely share this phone—it’s already second-hand and a bit delicate. Only my daughter sometimes uses it to help me with apps."},
-    {"question": "What are your favorite apps or features on your phone?", "answer": "WhatsApp and YouTube for now. I don’t know much about what apps collect. My daughter says, ‘Amma, don't click on strange messages.’"},
-    {"question": "When an app asks for permission, like access to location or contacts, do you read and understand what it means?", "answer": "To be honest, I didn’t even notice permissions before. Now I look, but I don’t understand everything, so I just press ‘Allow’ if the app is from a known place."},
-    {"question": "How do you decide whether an app or website is safe to use?", "answer": "I trust the apps my daughter or relatives use. I haven’t tried anything alone yet."},
-    {"question": "Have you ever deleted a message, photo, or app because you didn’t want someone to see it?", "answer": "Yes, I delete old messages and group forwards because my phone has low storage space. I’ve also deleted apps that keep sending pop-ups."},
-    {"question": "If your phone stops working and you need to give it for repair, what do you do before handing it over?", "answer": "I haven’t repaired this phone yet, but I would go to the local mobile shop. I’ll ask my husband to come with me because I don’t feel confident going alone with this phone."},
-    {"question": "Have you ever asked someone to help you with a phone problem?", "answer": "Yes, many times. My daughter or niece helps. I ask them to do it while I watch so I can learn, but sometimes they’re too fast!"},
-    {"question": "Who do you trust most when sharing personal or sensitive information?", "answer": "I trust family members. If I have to send something personal, I prefer to talk directly or send via WhatsApp to my husband or sister."},
-    {"question": "Have you used code words or nicknames to keep something private?", "answer": "Not yet, but I’ve seen my niece do that with her friends. It’s interesting. I might start if needed."},
-    {"question": "Have you ever helped someone install or use an app?", "answer": "Not yet. I’m the one asking for help now. Maybe one day I can help others too."},
-    {"question": "Do you know how to stop an app from using your camera or location?", "answer": "No, but I want to learn this. My daughter said she’ll show me in settings."},
-    {"question": "When you get a warning message (‘this app may harm your phone’), what do you usually do?", "answer": "I get scared and stop using it. Once, I even deleted the app just to be safe."},
-    {"question": "What do you think happens when you give an app access to your contacts or photos?", "answer": "I think it helps in connecting to people, but I didn’t know it might keep that data. That worries me."},
-    {"question": "Have you ever hesitated to take your phone for repair because of private content?", "answer": "Yes, I’m afraid they might check my photos or messages. I try to delete things before giving them, or ask my daughter to do it."},
-    {"question": "Has a repair person ever opened your gallery or apps without asking?", "answer": "Not yet. But if that happens, I would feel very uncomfortable."},
-    {"question": "Do you use a password or lock screen on your phone? Why or why not?", "answer": "Yes, my daughter set a PIN for me. I know how to use it now."},
-    {"question": "Do you think local apps are safer than international ones? Why?", "answer": "I really don’t know. I just use the ones my family uses."},
-    {"question": "Who do you turn to when you don’t understand a phone or app setting?", "answer": "My daughter, niece, or sometimes my husband. I also watch YouTube if it’s a simple thing."},
-    {"question": "Do people around you influence how you think about online safety?", "answer": "Yes, my family warns me about scams and tells me to ignore strange calls or messages."}
-  ],
-  "scenarios": {
-    "Broken Phone": "If this phone breaks, I’ll delete my WhatsApp messages and photos, then give it to the repair shop. I will ask someone to come with me because I don’t trust the shop fully.",
-    "Sharing a Phone with Family": "Only my daughter uses it, and I don’t have anything secret. But I still close my chats before handing them over.",
-    "Installing a New App": "If the app asks for too many permissions, I leave it. I ask my daughter if she says it’s safe, only then do I install.",
-    "Helping an Elderly Relative": "I’m still learning myself, but if my aunt asks, I’ll try or ask someone younger in the house to help her.",
-    "Using a Borrowed Phone": "I won’t touch anything extra. If something opens by mistake, I close it immediately. I believe in privacy.",
-    "Selling or Giving Away a Phone": "Before giving, I will delete everything I can. But for full formatting, I’ll ask my daughter to do it.",
-    "Cloud Backup Surprise": "This happened once—I deleted photos, but later they were still in some Google thing. I was confused. Now I know a bit about cloud backup.",
-    "Using Free Public WiFi": "I don’t use free WiFi. My son says it’s risky. I stick to mobile data even if it’s slow.",
-    "Receiving a lottery": "No, I would never give my details. I already got such a call and blocked the number. It felt fake.",
-    "Sharing account details": "If a close friend is in trouble, I’ll ask my daughter to help transfer money. I don’t do it alone yet."
-  }
+    "participant_id": "P4",
+    "occupation": "Homemaker",
+    "age": 47,
+    "education": "MBA Graduate",
+    "qa": [
+        {
+            "question": "What do you mainly use your phone for?",
+            "answer": "Right now, I use it mostly for WhatsApp to talk to my sister and some voice calls. I’m trying to learn how to browse for recipes and home tips on YouTube. I used to use more apps on my older phone, but this one is slow."
+        },
+        {
+            "question": "Do you share your phone with others?",
+            "answer": "I rarely share this phone—it’s already second-hand and a bit delicate. Only my daughter sometimes uses it to help me with apps."
+        },
+        {
+            "question": "What are your favorite apps or features on your phone?",
+            "answer": "WhatsApp and YouTube for now. I don’t know much about what apps collect. My daughter says, ‘Amma, don't click on strange messages.’"
+        },
+        {
+            "question": "When an app asks for permission, like access to location or contacts, do you read and understand what it means?",
+            "answer": "To be honest, I didn’t even notice permissions before. Now I look, but I don’t understand everything, so I just press ‘Allow’ if the app is from a known place."
+        },
+        {
+            "question": "How do you decide whether an app or website is safe to use?",
+            "answer": "I trust the apps my daughter or relatives use. I haven’t tried anything alone yet."
+        },
+        {
+            "question": "Have you ever deleted a message, photo, or app because you didn’t want someone to see it?",
+            "answer": "Yes, I delete old messages and group forwards because my phone has low storage space. I’ve also deleted apps that keep sending pop-ups."
+        },
+        {
+            "question": "If your phone stops working and you need to give it for repair, what do you do before handing it over?",
+            "answer": "I haven’t repaired this phone yet, but I would go to the local mobile shop. I’ll ask my husband to come with me because I don’t feel confident going alone with this phone."
+        },
+        {
+            "question": "Have you ever asked someone to help you with a phone problem?",
+            "answer": "Yes, many times. My daughter or niece helps. I ask them to do it while I watch so I can learn, but sometimes they’re too fast!"
+        },
+        {
+            "question": "Who do you trust most when sharing personal or sensitive information?",
+            "answer": "I trust family members. If I have to send something personal, I prefer to talk directly or send via WhatsApp to my husband or sister."
+        },
+        {
+            "question": "Have you used code words or nicknames to keep something private?",
+            "answer": "Not yet, but I’ve seen my niece do that with her friends. It’s interesting. I might start if needed."
+        },
+        {
+            "question": "Have you ever helped someone install or use an app?",
+            "answer": "Not yet. I’m the one asking for help now. Maybe one day I can help others too."
+        },
+        {
+            "question": "Do you know how to stop an app from using your camera or location?",
+            "answer": "No, but I want to learn this. My daughter said she’ll show me in settings."
+        },
+        {
+            "question": "When you get a warning message (‘this app may harm your phone’), what do you usually do?",
+            "answer": "I get scared and stop using it. Once, I even deleted the app just to be safe."
+        },
+        {
+            "question": "What do you think happens when you give an app access to your contacts or photos?",
+            "answer": "I think it helps in connecting to people, but I didn’t know it might keep that data. That worries me."
+        },
+        {
+            "question": "Have you ever hesitated to take your phone for repair because of private content?",
+            "answer": "Yes, I’m afraid they might check my photos or messages. I try to delete things before giving them, or ask my daughter to do it."
+        },
+        {
+            "question": "Has a repair person ever opened your gallery or apps without asking?",
+            "answer": "Not yet. But if that happens, I would feel very uncomfortable."
+        },
+        {
+            "question": "Do you use a password or lock screen on your phone? Why or why not?",
+            "answer": "Yes, my daughter set a PIN for me. I know how to use it now."
+        },
+        {
+            "question": "Do you think local apps are safer than international ones? Why?",
+            "answer": "I really don’t know. I just use the ones my family uses."
+        },
+        {
+            "question": "Who do you turn to when you don’t understand a phone or app setting?",
+            "answer": "My daughter, niece, or sometimes my husband. I also watch YouTube if it’s a simple thing."
+        },
+        {
+            "question": "Do people around you influence how you think about online safety?",
+            "answer": "Yes, my family warns me about scams and tells me to ignore strange calls or messages."
+        }
+    ],
+    "scenarios": {
+        "Broken Phone": "If this phone breaks, I’ll delete my WhatsApp messages and photos, then give it to the repair shop. I will ask someone to come with me because I don’t trust the shop fully.",
+        "Sharing a Phone with Family": "Only my daughter uses it, and I don’t have anything secret. But I still close my chats before handing them over.",
+        "Installing a New App": "If the app asks for too many permissions, I leave it. I ask my daughter if she says it’s safe, only then do I install.",
+        "Helping an Elderly Relative": "I’m still learning myself, but if my aunt asks, I’ll try or ask someone younger in the house to help her.",
+        "Using a Borrowed Phone": "I won’t touch anything extra. If something opens by mistake, I close it immediately. I believe in privacy.",
+        "Selling or Giving Away a Phone": "Before giving, I will delete everything I can. But for full formatting, I’ll ask my daughter to do it.",
+        "Cloud Backup Surprise": "This happened once—I deleted photos, but later they were still in some Google thing. I was confused. Now I know a bit about cloud backup.",
+        "Using Free Public WiFi": "I don’t use free WiFi. My son says it’s risky. I stick to mobile data even if it’s slow.",
+        "Receiving a lottery": "No, I would never give my details. I already got such a call and blocked the number. It felt fake.",
+        "Sharing account details": "If a close friend is in trouble, I’ll ask my daughter to help transfer money. I don’t do it alone yet."
+    }
 }
