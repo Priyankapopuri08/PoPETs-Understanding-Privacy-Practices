@@ -1,40 +1,100 @@
 {
-  "participant_id": "P19",
-  "occupation": "Homemaker",
-  "age": 35,
-  "education": "6th class",
-  "qa": [
-    {"question": "What do you mainly use your phone for?", "answer": "Calling my husband and family members. Sometimes WhatsApp for family groups, and YouTube videos shown by my children."},
-    {"question": "Do you share your phone with others?", "answer": "Yes, my children use it more than me. My husband also uses it sometimes."},
-    {"question": "What are your favorite apps?", "answer": "WhatsApp for voice messages. I don’t think much about what apps take."},
-    {"question": "Do you read permissions?", "answer": "No, I just click Allow if it doesn’t open."},
-    {"question": "How do you decide if an app is safe?", "answer": "I don’t install apps myself. My brother or children do it."},
-    {"question": "Have you deleted content?", "answer": "No, I don’t know how. My children sometimes delete photos to make space."},
-    {"question": "What do you do before repair?", "answer": "I just give it. I don’t delete anything."},
-    {"question": "Have you asked for help?", "answer": "Yes, many times. I ask my children or younger brother."},
-    {"question": "Who do you trust most?", "answer": "I only talk to my husband in person."},
-    {"question": "Do you use code words?", "answer": "No, I speak directly."},
-    {"question": "Have you helped someone install an app?", "answer": "No, I ask for help myself."},
-    {"question": "Do you know how to stop permissions?", "answer": "No, I don’t know that."},
-    {"question": "What do you do with warnings?", "answer": "I get scared and wait for someone to check."},
-    {"question": "What do you think happens when you give access?", "answer": "I thought it’s just to make the app work."},
-    {"question": "Have you hesitated to repair?", "answer": "No, I didn’t think like that."},
-    {"question": "Has a repair person opened your gallery?", "answer": "I don’t know if they did. I don’t check after giving."},
-    {"question": "Do you use a password?", "answer": "No, I don’t have a lock. My children use the phone too."},
-    {"question": "Do you think local apps are safer?", "answer": "I don’t know the difference."},
-    {"question": "Who do you turn to?", "answer": "My children or my brother."},
-    {"question": "Do people influence your safety thinking?", "answer": "My brother once told me not to click unknown links."}
-  ],
-  "scenarios": {
-    "Broken Phone": "I just give it to the repairman.",
-    "Sharing with Family": "If it’s private, I don’t open it when others are around.",
-    "New App Requesting Permissions": "I say Allow without knowing.",
-    "Helping Elderly Relative": "I am the elderly one, my children help me.",
-    "Using Someone Else’s Phone": "If I see something private, I don’t touch it.",
-    "Giving Away Phone": "I haven’t done that, but I would give it as is.",
-    "Cloud Backup Surprise": "I don’t know what that is.",
-    "Free Public WiFi": "I don’t connect to public WiFi.",
-    "Lottery Call": "I got scared and hung up.",
-    "Friend Needs Help": "I don’t do money transfers. My husband does that."
-  }
+    "participant_id": "P19",
+    "occupation": "Homemaker",
+    "age": 35,
+    "education": "6th class",
+    "qa": [
+        {
+            "question": "What do you mainly use your phone for?",
+            "answer": "Calling my husband and family members. Sometimes WhatsApp for family groups, and YouTube videos shown by my children."
+        },
+        {
+            "question": "Do you share your phone with others?",
+            "answer": "Yes, my children use it more than me. My husband also uses it sometimes."
+        },
+        {
+            "question": "What are your favorite apps?",
+            "answer": "WhatsApp for voice messages. I don’t think much about what apps take."
+        },
+        {
+            "question": "Do you read permissions?",
+            "answer": "No, I just click Allow if it doesn’t open."
+        },
+        {
+            "question": "How do you decide if an app is safe?",
+            "answer": "I don’t install apps myself. My brother or children do it."
+        },
+        {
+            "question": "Have you deleted content?",
+            "answer": "No, I don’t know how. My children sometimes delete photos to make space."
+        },
+        {
+            "question": "What do you do before repair?",
+            "answer": "I just give it. I don’t delete anything."
+        },
+        {
+            "question": "Have you asked for help?",
+            "answer": "Yes, many times. I ask my children or younger brother."
+        },
+        {
+            "question": "Who do you trust most?",
+            "answer": "I only talk to my husband in person."
+        },
+        {
+            "question": "Do you use code words?",
+            "answer": "No, I speak directly."
+        },
+        {
+            "question": "Have you helped someone install an app?",
+            "answer": "No, I ask for help myself."
+        },
+        {
+            "question": "Do you know how to stop permissions?",
+            "answer": "No, I don’t know that."
+        },
+        {
+            "question": "What do you do with warnings?",
+            "answer": "I get scared and wait for someone to check."
+        },
+        {
+            "question": "What do you think happens when you give access?",
+            "answer": "I thought it’s just to make the app work."
+        },
+        {
+            "question": "Have you hesitated to repair?",
+            "answer": "No, I didn’t think like that."
+        },
+        {
+            "question": "Has a repair person opened your gallery?",
+            "answer": "I don’t know if they did. I don’t check after giving."
+        },
+        {
+            "question": "Do you use a password?",
+            "answer": "No, I don’t have a lock. My children use the phone too."
+        },
+        {
+            "question": "Do you think local apps are safer?",
+            "answer": "I don’t know the difference."
+        },
+        {
+            "question": "Who do you turn to?",
+            "answer": "My children or my brother."
+        },
+        {
+            "question": "Do people influence your safety thinking?",
+            "answer": "My brother once told me not to click unknown links."
+        }
+    ],
+    "scenarios": {
+        "Broken Phone": "I just give it to the repairman.",
+        "Sharing with Family": "If it’s private, I don’t open it when others are around.",
+        "New App Requesting Permissions": "I say Allow without knowing.",
+        "Helping Elderly Relative": "I am the elderly one, my children help me.",
+        "Using Someone Else’s Phone": "If I see something private, I don’t touch it.",
+        "Giving Away Phone": "I haven’t done that, but I would give it as is.",
+        "Cloud Backup Surprise": "I don’t know what that is.",
+        "Free Public WiFi": "I don’t connect to public WiFi.",
+        "Lottery Call": "I got scared and hung up.",
+        "Friend Needs Help": "I don’t do money transfers. My husband does that."
+    }
 }
