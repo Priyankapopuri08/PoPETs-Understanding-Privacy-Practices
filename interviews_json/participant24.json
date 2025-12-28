@@ -1,40 +1,100 @@
 {
-  "participant_id": "P24",
-  "occupation": "Delivery agent",
-  "age": 28,
-  "education": "10th class",
-  "qa": [
-    {"question": "What do you mainly use your phone for?", "answer": "Work calls, location tracking, Google Maps, YouTube, Instagram, Snapchat, Paytm."},
-    {"question": "Do you share your phone with others?", "answer": "Sometimes my younger brother or colleagues."},
-    {"question": "What are your favorite apps?", "answer": "YouTube, Google Maps, Snapchat."},
-    {"question": "Do you read permissions?", "answer": "I read a little, but usually press Allow."},
-    {"question": "How do you decide if an app is safe?", "answer": "If it’s on Play Store and friends use it."},
-    {"question": "Have you deleted content?", "answer": "Yes, chats from friends and work screenshots."},
-    {"question": "What do you do before repair?", "answer": "Remove SIM and memory card, delete chats and photos."},
-    {"question": "Have you asked for help?", "answer": "Yes, sometimes at mobile shops."},
-    {"question": "Who do you trust most?", "answer": "In person is best."},
-    {"question": "Do you use code words?", "answer": "Yes, nicknames in group chats."},
-    {"question": "Have you helped someone install an app?", "answer": "Yes, I helped my cousin install GPay and WhatsApp."},
-    {"question": "Do you know how to stop permissions?", "answer": "Yes, I go to settings and turn things off."},
-    {"question": "What do you do with warnings?", "answer": "I uninstall immediately."},
-    {"question": "What do you think happens when you give access?", "answer": "I think they store it and use it for ads."},
-    {"question": "Have you hesitated to repair?", "answer": "Yes, I delay until I remove personal things."},
-    {"question": "Has a repair person opened your gallery?", "answer": "Yes, once a guy opened WhatsApp while checking."},
-    {"question": "Do you use a password?", "answer": "Yes, pattern lock and fingerprint for WhatsApp."},
-    {"question": "Do you think local apps are safer?", "answer": "Not really. I trust international ones more."},
-    {"question": "Who do you turn to?", "answer": "YouTube tutorials or my cyber café friend."},
-    {"question": "Do people influence your safety thinking?", "answer": "Yes, my cousin told me not to click unknown links."}
-  ],
-  "scenarios": {
-    "Broken Phone": "Remove SIM, memory card, delete chats/photos before repair.",
-    "Sharing with Family": "If private message comes, I delete it quickly.",
-    "New App Requesting Permissions": "I check reviews and avoid if permissions look fishy.",
-    "Helping Elderly Relative": "I helped my mother with a health app.",
-    "Using Someone Else’s Phone": "If I see something private, I ignore it.",
-    "Giving Away Phone": "Factory reset and remove accounts.",
-    "Cloud Backup Surprise": "I was shocked when deleted photos stayed online.",
-    "Free Public WiFi": "I avoid banking on public WiFi.",
-    "Lottery Call": "I cut the call immediately.",
-    "Friend Needs Help": "I send money only to trusted people after confirming."
-  }
+    "participant_id": "P24",
+    "occupation": "Delivery agent",
+    "age": 28,
+    "education": "10th class",
+    "qa": [
+        {
+            "question": "What do you mainly use your phone for?",
+            "answer": "Work calls, location tracking, Google Maps, YouTube, Instagram, Snapchat, Paytm."
+        },
+        {
+            "question": "Do you share your phone with others?",
+            "answer": "Sometimes my younger brother or colleagues."
+        },
+        {
+            "question": "What are your favorite apps?",
+            "answer": "YouTube, Google Maps, Snapchat."
+        },
+        {
+            "question": "Do you read permissions?",
+            "answer": "I read a little, but usually press Allow."
+        },
+        {
+            "question": "How do you decide if an app is safe?",
+            "answer": "If it’s on Play Store and friends use it."
+        },
+        {
+            "question": "Have you deleted content?",
+            "answer": "Yes, chats from friends and work screenshots."
+        },
+        {
+            "question": "What do you do before repair?",
+            "answer": "Remove SIM and memory card, delete chats and photos."
+        },
+        {
+            "question": "Have you asked for help?",
+            "answer": "Yes, sometimes at mobile shops."
+        },
+        {
+            "question": "Who do you trust most?",
+            "answer": "In person is best."
+        },
+        {
+            "question": "Do you use code words?",
+            "answer": "Yes, nicknames in group chats."
+        },
+        {
+            "question": "Have you helped someone install an app?",
+            "answer": "Yes, I helped my cousin install GPay and WhatsApp."
+        },
+        {
+            "question": "Do you know how to stop permissions?",
+            "answer": "Yes, I go to settings and turn things off."
+        },
+        {
+            "question": "What do you do with warnings?",
+            "answer": "I uninstall immediately."
+        },
+        {
+            "question": "What do you think happens when you give access?",
+            "answer": "I think they store it and use it for ads."
+        },
+        {
+            "question": "Have you hesitated to repair?",
+            "answer": "Yes, I delay until I remove personal things."
+        },
+        {
+            "question": "Has a repair person opened your gallery?",
+            "answer": "Yes, once a guy opened WhatsApp while checking."
+        },
+        {
+            "question": "Do you use a password?",
+            "answer": "Yes, pattern lock and fingerprint for WhatsApp."
+        },
+        {
+            "question": "Do you think local apps are safer?",
+            "answer": "Not really. I trust international ones more."
+        },
+        {
+            "question": "Who do you turn to?",
+            "answer": "YouTube tutorials or my cyber café friend."
+        },
+        {
+            "question": "Do people influence your safety thinking?",
+            "answer": "Yes, my cousin told me not to click unknown links."
+        }
+    ],
+    "scenarios": {
+        "Broken Phone": "Remove SIM, memory card, delete chats/photos before repair.",
+        "Sharing with Family": "If private message comes, I delete it quickly.",
+        "New App Requesting Permissions": "I check reviews and avoid if permissions look fishy.",
+        "Helping Elderly Relative": "I helped my mother with a health app.",
+        "Using Someone Else’s Phone": "If I see something private, I ignore it.",
+        "Giving Away Phone": "Factory reset and remove accounts.",
+        "Cloud Backup Surprise": "I was shocked when deleted photos stayed online.",
+        "Free Public WiFi": "I avoid banking on public WiFi.",
+        "Lottery Call": "I cut the call immediately.",
+        "Friend Needs Help": "I send money only to trusted people after confirming."
+    }
 }
